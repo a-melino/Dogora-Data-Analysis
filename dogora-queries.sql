@@ -2,28 +2,6 @@
 			# DOGORA DATA ANALYSIS
 
 
-SELECT * 
-FROM dogora.sales_2020;
-
-SELECT * 
-FROM dogora.sales_2021;
-
-SELECT * 
-FROM dogora.sales_2022;
-
-SELECT * 
-FROM dogora.sales_2023;
-
-SELECT * 
-FROM dogora.sales_2024;
-
-SELECT * 
-FROM dogora.sales_2025;
-
-SELECT * 
-FROM dogora.all_sales;
-
-
 # Create table to hold all the data across multiple years
 # easy to add new data if columns match. Standardizes column names and data types
  DROP TABLE IF EXISTS sales_all;
@@ -57,7 +35,8 @@ FROM dogora.all_sales;
     `quantity_ordered` INT
 	) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
-# Append data from each year
+
+# Append data from each year as necessary
 INSERT INTO sales_all SELECT * FROM dogora.sales_2020;
 INSERT INTO sales_all SELECT * FROM dogora.sales_2021;
 INSERT INTO sales_all SELECT * FROM dogora.sales_2022;
@@ -96,6 +75,23 @@ product_title = REGEXP_REPLACE(product_title, 'Vendor Trench Coat', 'Trench Coat
 ;
 
 
+# Fill in 'billing_region' blanks for international purchases with the billing city name
+UPDATE sales_all
+SET billing_region = billing_city
+WHERE billing_region = '';
+
+# create new column with full location data
+ALTER TABLE sales_all
+ADD COLUMN location TEXT AFTER billing_city;
+
+# combine billing location columns and populate the new column
+UPDATE sales_all
+SET location = CONCAT(billing_city,', ', billing_region, ', ', billing_country);
+
+SELECT *
+FROM sales_all;
+
+
 # Create new table to hold final cleaned data
 DROP TABLE IF EXISTS sales_cleaned;
 	CREATE TABLE `sales_cleaned` (
@@ -110,6 +106,7 @@ DROP TABLE IF EXISTS sales_cleaned;
     billing_country TEXT,
     billing_region TEXT,
     billing_city TEXT,
+    location TEXT,
     new_or_returning TEXT,
     gross_sales DOUBLE,
     discounts DOUBLE,
@@ -136,6 +133,7 @@ SELECT CONVERT(day, DATE) AS date,
     billing_country,
     billing_region,
     billing_city,
+    location,
     new_or_returning_customer AS new_or_returning,
     gross_sales,
     discounts,
@@ -148,6 +146,6 @@ FROM sales_all
 ;
 
 
-# Check final cleaned table
+# Check final cleaned table and export
 SELECT *
 FROM sales_cleaned;
