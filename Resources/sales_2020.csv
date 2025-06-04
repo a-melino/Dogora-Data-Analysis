@@ -1,0 +1,674 @@
+Billing country,Billing region,Billing city,Product type,Product title,Product variant title,Day,Shipping country,Shipping region,Shipping city,Product ID,Order or return,New or returning customer,Company name,Company location name,Is B2B order,Number of products bought together,Order ID,Sale ID,Gross sales,Discounts,Returns,Net sales,Shipping charges,Taxes,Total sales,Quantity ordered
+Canada,Ontario,Vaughan,,,,2020-02-13,Canada,Ontario,Vaughan,,order,New,,,FALSE,1,2.01766E+12,6.20589E+12,0,0,0,0,0,0,0,0
+Canada,Ontario,Vaughan,Clothing,DOGORA™ Clinic Starter Kit,Starter Kit,2020-02-13,Canada,Ontario,Vaughan,1.95713E+12,order,New,,,FALSE,1,2.0175E+12,6.20544E+12,27,0,0,27,0,0,27,1
+Canada,Ontario,Vaughan,,,,2020-02-13,Canada,Ontario,Vaughan,,order,New,,,FALSE,1,2.0175E+12,6.20544E+12,0,0,0,0,0,0,0,0
+Canada,Ontario,Vaughan,Clothing,3 Season Heated Coat,XL,2020-02-13,Canada,Ontario,Vaughan,1.85914E+12,order,New,,,FALSE,1,2.01766E+12,6.20589E+12,230,0,0,230,0,0,230,1
+Canada,Ontario,Milton,,,,2020-02-18,Canada,Ontario,Milton,,order,New,,,FALSE,1,2.02437E+12,6.22485E+12,0,0,0,0,0,0,0,0
+Canada,Ontario,Milton,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-02-18,Canada,Ontario,Milton,1.94929E+12,order,New,,,FALSE,1,2.02437E+12,6.22485E+12,91.5,0,0,91.5,0,0,91.5,1
+Canada,Ontario,Milton,,,,2020-02-19,Canada,Ontario,Milton,,order,New,,,FALSE,1,2.02617E+12,6.23027E+12,0,0,0,0,9.99,0,9.99,0
+Canada,Ontario,Milton,Clothing,"High-Top Boots ""Don't Fall Off""",XS -  2 Boots Only,2020-02-19,Canada,Ontario,Milton,1.94929E+12,order,New,,,FALSE,1,2.02617E+12,6.23027E+12,90,0,0,90,0,0,90,1
+Canada,Ontario,Milton,,,,2020-02-20,Canada,Ontario,Milton,,return,New,,,FALSE,1,2.02617E+12,1.8958E+13,0,0,0,0,-9.99,0,-9.99,0
+Canada,Ontario,Milton,,,,2020-02-20,Canada,Ontario,Milton,,return,New,,,FALSE,1,2.02617E+12,1.8958E+13,0,0,0,0,9.99,0,9.99,0
+Canada,Ontario,Milton,,,,2020-02-20,Canada,Ontario,Milton,,return,New,,,FALSE,1,2.02617E+12,6.23124E+12,0,0,0,0,-9.99,0,-9.99,0
+Canada,Ontario,Milton,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-03-02,Canada,Ontario,Milton,1.94929E+12,return,New,,,FALSE,1,2.02437E+12,6.27483E+12,0,0,-91.5,-91.5,0,0,-91.5,0
+Canada,Ontario,Milton,Clothing,"High-Top Boots ""Don't Fall Off""",XS -  2 Boots Only,2020-03-04,Canada,Ontario,Milton,1.94929E+12,return,New,,,FALSE,1,2.02617E+12,6.28509E+12,0,0,-90,-90,0,0,-90,0
+Canada,Ontario,Kitchener,,Hoodie,M1,2020-04-18,Canada,Ontario,Kitchener,4.46952E+12,order,New,,,FALSE,1,2.11643E+12,6.49104E+12,55,-13.75,0,41.25,0,0,41.25,1
+Canada,Ontario,Kitchener,,,,2020-04-18,Canada,Ontario,Kitchener,,order,New,,,FALSE,1,2.11643E+12,6.49104E+12,0,0,0,0,0,0,0,0
+Canada,Ontario,Kitchener,,,,2020-04-30,Canada,Ontario,Kitchener,,order,Returning,,,FALSE,1,2.14314E+12,6.5705E+12,0,0,0,0,0,0,0,0
+Canada,Ontario,Oakville,,Trench Coat,M2,2020-04-30,Canada,Ontario,Oakville,4.46952E+12,order,New,,,FALSE,2,2.14142E+12,6.56551E+12,73.99,-18.5,0,55.49,0,7.21,62.7,1
+Canada,Ontario,Oakville,,,,2020-04-30,Canada,Ontario,Oakville,,order,New,,,FALSE,2,2.14142E+12,6.56551E+12,0,0,0,0,0,0,0,0
+Canada,Ontario,Oakville,,Trench Coat,M1,2020-04-30,Canada,Ontario,Oakville,4.46952E+12,order,New,,,FALSE,2,2.14142E+12,6.56551E+12,57.99,-14.5,0,43.49,0,5.65,49.14,1
+Canada,Ontario,Oakville,,Hoodie,M2,2020-04-30,Canada,Ontario,Oakville,4.46952E+12,order,New,,,FALSE,2,2.14142E+12,6.56551E+12,65,-16.25,0,48.75,0,6.34,55.09,1
+Canada,Ontario,Kitchener,,Medical Snuggie,M1,2020-04-30,Canada,Ontario,Kitchener,4.47367E+12,order,Returning,,,FALSE,1,2.14314E+12,6.5705E+12,31.99,0,0,31.99,0,4.16,36.15,1
+Canada,Ontario,Oakville,,Hoodie,M1,2020-04-30,Canada,Ontario,Oakville,4.46952E+12,order,New,,,FALSE,2,2.14142E+12,6.56551E+12,55,-13.74,0,41.26,0,5.36,46.62,1
+Canada,Ontario,Oakville,,Trench Coat,M1,2020-05-04,Canada,Ontario,Oakville,4.46952E+12,return,New,,,FALSE,2,2.14142E+12,6.59538E+12,0,0,-43.49,-43.49,0,-5.65,-49.14,0
+Canada,Ontario,Oakville,,,,2020-05-06,Canada,Ontario,Oakville,,order,Returning,,,FALSE,1,2.15633E+12,6.60836E+12,0,0,0,0,0,0,0,0
+Canada,Ontario,Oakville,,Trench Coat,M2,2020-05-06,Canada,Ontario,Oakville,4.46952E+12,order,Returning,,,FALSE,1,2.15633E+12,6.60836E+12,73.99,-18.49,0,55.5,0,7.22,62.72,1
+Canada,Quebec,Mirabel,,Trench Coat,M1,2020-07-17,Canada,Quebec,Mirabel,4.46952E+12,order,New,,,FALSE,1,2.3059E+12,7.05349E+12,57.99,0,0,57.99,0,2.9,60.89,1
+Canada,Quebec,Mirabel,,,,2020-07-17,Canada,Quebec,Mirabel,,order,New,,,FALSE,1,2.3059E+12,7.05349E+12,0,0,0,0,0,0,0,0
+Canada,Quebec,Mirabel,,Trench Coat,S,2020-07-17,Canada,Quebec,Mirabel,4.46952E+12,order,New,,,FALSE,1,2.3059E+12,7.05349E+12,53.59,0,0,53.59,0,2.68,56.27,1
+Canada,British Columbia,North Vancouver,,,,2020-07-23,Canada,British Columbia,North Vancouver,,order,New,,,FALSE,1,2.31836E+12,7.0906E+12,0,0,0,0,0,0,0,0
+Canada,British Columbia,North Vancouver,,Trench Coat,M1,2020-07-23,Canada,British Columbia,North Vancouver,4.46952E+12,order,New,,,FALSE,1,2.31836E+12,7.0906E+12,57.99,0,0,57.99,0,2.9,60.89,1
+Canada,British Columbia,Port Alberni,,,,2020-07-28,Canada,British Columbia,Port Alberni,,order,New,,,FALSE,1,2.33008E+12,7.12345E+12,0,0,0,0,0,0,0,0
+Canada,British Columbia,Port Alberni,Clothing,DOGORA™ Clinic Starter Kit,Starter Kit,2020-07-28,Canada,British Columbia,Port Alberni,1.95713E+12,order,New,,,FALSE,1,2.33008E+12,7.12345E+12,150,0,0,150,0,7.5,157.5,1
+Canada,Ontario,Ottawa,,,,2020-08-09,Canada,Ontario,Ottawa,,order,New,,,FALSE,1,2.35429E+12,7.19314E+12,0,0,0,0,0,0,0,0
+Canada,Ontario,Ottawa,,Medical Snuggie,M1,2020-08-09,Canada,Ontario,Ottawa,4.47367E+12,order,New,,,FALSE,1,2.35429E+12,7.19314E+12,31.99,0,0,31.99,0,4.16,36.15,1
+Canada,Quebec,Boisbriand,,Trench Coat,S,2020-08-27,Canada,Quebec,Boisbriand,4.46952E+12,order,New,,,FALSE,1,2.38795E+12,7.29401E+12,53.59,0,0,53.59,0,2.68,56.27,1
+Canada,Quebec,Boisbriand,,,,2020-08-27,Canada,Quebec,Boisbriand,,order,New,,,FALSE,1,2.38795E+12,7.29401E+12,0,0,0,0,0,0,0,0
+Canada,Manitoba,Winnipeg,,,,2020-09-28,Canada,Manitoba,Winnipeg,,order,New,,,FALSE,1,2.44607E+12,7.46848E+12,0,0,0,0,0,0,0,0
+Canada,Manitoba,Winnipeg,,Hoodie,L,2020-09-28,Canada,Manitoba,Winnipeg,4.46952E+12,order,New,,,FALSE,1,2.44607E+12,7.46848E+12,70,0,0,70,0,3.5,73.5,1
+Canada,Ontario,Oakville,Clothing,3 Season Heated Coat,M2,2020-09-30,Canada,Ontario,Oakville,1.85914E+12,order,Returning,,,FALSE,1,2.44949E+12,7.47886E+12,205.99,-83.61,0,122.38,0,15.91,138.29,1
+Canada,Ontario,Oakville,,,,2020-09-30,Canada,Ontario,Oakville,,order,Returning,,,FALSE,1,2.44966E+12,7.47938E+12,0,0,0,0,0,0,0,0
+Canada,Ontario,Oakville,Clothing,"High-Top Boots ""Don't Fall Off""",XS -  2 Boots Only,2020-09-30,Canada,Ontario,Oakville,1.94929E+12,order,Returning,,,FALSE,1,2.44966E+12,7.47938E+12,82.99,0,0,82.99,0,10.79,93.78,1
+Canada,Ontario,Oakville,,,,2020-09-30,Canada,Ontario,Oakville,,order,Returning,,,FALSE,1,2.44949E+12,7.47886E+12,0,0,0,0,0,0,0,0
+Canada,Ontario,Napanee,Clothing,DOGORA™ Clinic Starter Kit,Starter Kit,2020-10-02,Canada,Ontario,Napanee,1.95713E+12,order,New,,,FALSE,1,2.45382E+12,7.49213E+12,150,0,0,150,0,19.5,169.5,1
+Canada,Ontario,Napanee,,,,2020-10-02,Canada,Ontario,Napanee,,order,New,,,FALSE,1,2.45382E+12,7.49213E+12,0,0,0,0,0,0,0,0
+Canada,Ontario,Belleville,,,,2020-10-03,Canada,Ontario,Belleville,,order,New,,,FALSE,1,2.45586E+12,7.49764E+12,0,0,0,0,0,0,0,0
+Canada,Ontario,Belleville,Clothing,DOGORA™ Clinic Starter Kit,Starter Kit,2020-10-03,Canada,Ontario,Belleville,1.95713E+12,order,New,,,FALSE,1,2.45586E+12,7.49764E+12,150,0,0,150,0,19.5,169.5,1
+Canada,Alberta,Athabasca,,,,2020-10-03,Canada,Alberta,Athabasca,,order,New,,,FALSE,1,2.45594E+12,7.49788E+12,0,0,0,0,0,0,0,0
+Canada,Alberta,Athabasca,Clothing,DOGORA™ Clinic Starter Kit,Starter Kit,2020-10-03,Canada,Alberta,Athabasca,1.95713E+12,order,New,,,FALSE,1,2.45594E+12,7.49788E+12,150,0,0,150,0,7.5,157.5,1
+Canada,Ontario,Cambridge,Clothing,DOGORA™ Clinic Starter Kit,Starter Kit,2020-10-06,Canada,Ontario,Cambridge,1.95713E+12,order,New,,,FALSE,1,2.46084E+12,7.5124E+12,150,0,0,150,0,19.5,169.5,1
+Canada,Ontario,Cambridge,,,,2020-10-06,Canada,Ontario,Cambridge,,order,New,,,FALSE,1,2.46084E+12,7.5124E+12,0,0,0,0,0,0,0,0
+Canada,Ontario,Mississauga,,,,2020-10-07,Canada,Ontario,Mississauga,,order,New,,,FALSE,1,2.4627E+12,7.51814E+12,0,0,0,0,0,0,0,0
+Canada,Ontario,Oakville,,,,2020-10-07,Canada,Ontario,Oakville,,return,Returning,,,FALSE,1,2.44949E+12,7.5218E+12,0,0,-10.17,-10.17,0,0,-10.17,0
+Canada,Ontario,Mississauga,Clothing,DOGORA™ Clinic Starter Kit,Starter Kit,2020-10-07,Canada,Ontario,Mississauga,1.95713E+12,order,New,,,FALSE,1,2.4627E+12,7.51814E+12,150,0,0,150,0,19.5,169.5,1
+Canada,Ontario,Richmond Hill,,,,2020-10-07,Canada,Ontario,Richmond Hill,,order,New,,,FALSE,1,2.4627E+12,7.51813E+12,0,0,0,0,0,0,0,0
+Canada,Ontario,Richmond Hill,Clothing,DOGORA™ Clinic Starter Kit,Starter Kit,2020-10-07,Canada,Ontario,Richmond Hill,1.95713E+12,order,New,,,FALSE,1,2.4627E+12,7.51813E+12,150,0,0,150,0,19.5,169.5,1
+Canada,Ontario,Cambridge,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-10-08,Canada,Ontario,Cambridge,1.94929E+12,order,New,,,FALSE,1,2.46496E+12,7.5265E+12,99.99,0,0,99.99,0,13,112.99,1
+Canada,Ontario,Cambridge,,,,2020-10-08,Canada,Ontario,Cambridge,,order,New,,,FALSE,1,2.46496E+12,7.5265E+12,0,0,0,0,0,0,0,0
+Canada,Nova Scotia,Bedford,,,,2020-10-14,Canada,Nova Scotia,Bedford,,order,New,,,FALSE,2,2.47586E+12,7.55969E+12,0,0,0,0,0,0,0,0
+Canada,Nova Scotia,Bedford,,Medical Snuggie,S,2020-10-14,Canada,Nova Scotia,Bedford,4.47367E+12,order,New,,,FALSE,2,2.47586E+12,7.55969E+12,27.29,0,0,27.29,0,4.09,31.38,1
+Canada,Nova Scotia,Bedford,,Hoodie,S,2020-10-14,Canada,Nova Scotia,Bedford,4.46952E+12,order,New,,,FALSE,2,2.47586E+12,7.55969E+12,50,0,0,50,0,7.5,57.5,1
+Canada,Northwest Territories,Fort Smith,,Medical Snuggie,L,2020-10-15,Canada,Northwest Territories,Fort Smith,4.47367E+12,order,New,,,FALSE,1,2.47752E+12,7.56476E+12,41.24,0,0,41.24,0,2.06,43.3,1
+Canada,Northwest Territories,Fort Smith,,Medical Snuggie,M2,2020-10-15,Canada,Northwest Territories,Fort Smith,4.47367E+12,order,New,,,FALSE,1,2.47752E+12,7.56476E+12,37.19,0,0,37.19,0,1.86,39.05,1
+Canada,Northwest Territories,Fort Smith,,Medical Snuggie,S,2020-10-15,Canada,Northwest Territories,Fort Smith,4.47367E+12,order,New,,,FALSE,1,2.47752E+12,7.56476E+12,27.29,0,0,27.29,0,1.36,28.65,1
+Canada,Northwest Territories,Fort Smith,,Medical Snuggie,XL,2020-10-15,Canada,Northwest Territories,Fort Smith,4.47367E+12,order,New,,,FALSE,1,2.47752E+12,7.56476E+12,45.19,0,0,45.19,0,2.26,47.45,1
+Canada,British Columbia,Victoria,,Medical Snuggie,S,2020-10-15,Canada,British Columbia,Victoria,4.47367E+12,order,New,,,FALSE,1,2.47773E+12,7.56544E+12,27.29,0,0,27.29,0,1.36,28.65,1
+Canada,Ontario,Mississauga,Clothing,DOGORA™ Clinic Starter Kit,Starter Kit,2020-10-15,Canada,Ontario,Mississauga,1.95713E+12,order,New,,,FALSE,1,2.47738E+12,7.56431E+12,150,0,0,150,0,19.5,169.5,1
+Canada,Northwest Territories,Fort Smith,,Medical Snuggie,M1,2020-10-15,Canada,Northwest Territories,Fort Smith,4.47367E+12,order,New,,,FALSE,1,2.47752E+12,7.56476E+12,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,Northwest Territories,Fort Smith,,,,2020-10-15,Canada,Northwest Territories,Fort Smith,,order,New,,,FALSE,1,2.47752E+12,7.56476E+12,0,0,0,0,0,0,0,0
+Canada,Ontario,Mississauga,,,,2020-10-15,Canada,Ontario,Mississauga,,order,New,,,FALSE,1,2.47738E+12,7.56431E+12,0,0,0,0,0,0,0,0
+Canada,British Columbia,Victoria,,,,2020-10-15,Canada,British Columbia,Victoria,,order,New,,,FALSE,1,2.47773E+12,7.56544E+12,0,0,0,0,5.99,0.3,6.29,0
+Canada,Ontario,Toronto,,,,2020-10-16,Canada,Ontario,Toronto,,order,New,,,FALSE,1,2.47877E+12,7.56866E+12,0,0,0,0,0,0,0,0
+Canada,Ontario,Toronto,Clothing,DOGORA™ Clinic Starter Kit,Starter Kit,2020-10-16,Canada,Ontario,Toronto,1.95713E+12,order,New,,,FALSE,1,2.47877E+12,7.56866E+12,150,0,0,150,0,19.5,169.5,1
+Canada,Ontario,Kingston,,Medical Snuggie,XS,2020-10-18,Canada,Ontario,Kingston,4.47367E+12,order,New,,,FALSE,1,2.48243E+12,7.57974E+12,23.99,0,0,23.99,0,3.12,27.11,1
+Canada,Ontario,Kingston,,,,2020-10-18,Canada,Ontario,Kingston,,order,New,,,FALSE,1,2.48243E+12,7.57974E+12,0,0,0,0,5.99,0.78,6.77,0
+Canada,Ontario,Mississauga,,,,2020-10-19,Canada,Ontario,Mississauga,,order,New,,,FALSE,1,2.48325E+12,7.58229E+12,0,0,0,0,5.99,0.78,6.77,0
+Canada,Ontario,Burlington,Clothing,3 Season Heated Coat,M1,2020-10-19,Canada,Ontario,Burlington,1.85914E+12,order,New,,,FALSE,1,2.4842E+12,7.58532E+12,196.99,0,0,196.99,0,25.61,222.6,1
+Canada,Ontario,Burlington,,,,2020-10-19,Canada,Ontario,Burlington,,order,New,,,FALSE,1,2.4842E+12,7.58532E+12,0,0,0,0,0,0,0,0
+Canada,Alberta,Sylvan Lake,Clothing,3 Season Heated Coat,M1,2020-10-19,Canada,Alberta,Sylvan Lake,1.85914E+12,order,New,,,FALSE,1,2.48361E+12,7.5834E+12,196.99,0,0,196.99,0,9.85,206.84,1
+Canada,Ontario,Toronto,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-10-19,Canada,Ontario,Toronto,1.94929E+12,order,New,,,FALSE,1,2.48395E+12,7.58451E+12,95.99,0,0,95.99,0,12.48,108.47,1
+Canada,Alberta,Sylvan Lake,,,,2020-10-19,Canada,Alberta,Sylvan Lake,,order,New,,,FALSE,1,2.48361E+12,7.5834E+12,0,0,0,0,0,0,0,0
+Canada,Ontario,Mississauga,,Medical Snuggie,M2,2020-10-19,Canada,Ontario,Mississauga,4.47367E+12,order,New,,,FALSE,1,2.48325E+12,7.58229E+12,37.19,0,0,37.19,0,4.83,42.02,1
+Canada,Ontario,Toronto,,,,2020-10-19,Canada,Ontario,Toronto,,order,New,,,FALSE,1,2.48395E+12,7.58451E+12,0,0,0,0,0,0,0,0
+Canada,Ontario,Grimsby,,Medical Snuggie,S,2020-10-20,Canada,Ontario,Grimsby,4.47367E+12,order,New,,,FALSE,1,2.48487E+12,7.58731E+12,27.29,0,0,27.29,0,3.55,30.84,1
+Canada,Ontario,Grimsby,,,,2020-10-20,Canada,Ontario,Grimsby,,order,New,,,FALSE,1,2.48487E+12,7.58731E+12,0,0,0,0,5.99,0.78,6.77,0
+Canada,Ontario,Toronto,,,,2020-10-21,Canada,Ontario,Toronto,,order,New,,,FALSE,1,2.48748E+12,7.59541E+12,0,0,0,0,0,0,0,0
+Canada,Ontario,Toronto,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-10-21,Canada,Ontario,Toronto,1.94929E+12,order,New,,,FALSE,1,2.48748E+12,7.59541E+12,95.99,0,0,95.99,0,12.48,108.47,1
+Canada,Ontario,Lincoln,,,,2020-10-23,Canada,Ontario,Lincoln,,order,New,,,FALSE,1,2.49039E+12,7.60515E+12,0,0,0,0,0,0,0,0
+Canada,Ontario,Lincoln,Clothing,DOGORA™ Clinic Starter Kit,Starter Kit,2020-10-23,Canada,Ontario,Lincoln,1.95713E+12,order,New,,,FALSE,1,2.49039E+12,7.60515E+12,150,0,0,150,0,19.5,169.5,1
+Canada,Ontario,Ottawa,,Medical Snuggie,L,2020-10-26,Canada,Quebec,Lac des Plages,4.47367E+12,order,New,,,FALSE,1,2.49414E+12,7.61643E+12,41.24,0,0,41.24,0,2.06,43.3,1
+Canada,Ontario,Ottawa,,,,2020-10-26,Canada,Quebec,Lac des Plages,,order,New,,,FALSE,1,2.49414E+12,7.61643E+12,0,0,0,0,5.99,0.3,6.29,0
+Canada,Quebec,Montreal,,,,2020-10-27,Canada,Quebec,Montreal,,order,New,,,FALSE,1,2.49561E+12,7.62106E+12,0,0,0,0,0,0,0,0
+Canada,Alberta,Lake Louise,Clothing,"High-Top Boots ""Don't Fall Off""",XS -  2 Boots Only,2020-10-27,Canada,Alberta,Lake Louise,1.94929E+12,order,New,,,FALSE,1,2.49498E+12,7.61918E+12,82.99,0,0,82.99,0,4.15,87.14,1
+Canada,Alberta,Lake Louise,,,,2020-10-27,Canada,Alberta,Lake Louise,,order,New,,,FALSE,1,2.49498E+12,7.61918E+12,0,0,0,0,0,0,0,0
+Canada,Quebec,Montreal,,Hoodie,M1,2020-10-27,Canada,Quebec,Montreal,4.46952E+12,order,New,,,FALSE,1,2.49561E+12,7.62106E+12,54.99,0,0,54.99,0,2.75,57.74,1
+Canada,Ontario,Mississauga,,Clinic Order Medical Snuggie,XS,2020-10-28,Canada,Ontario,Mississauga,4.6145E+12,order,New,,,FALSE,1,2.49706E+12,7.6255E+12,35.97,0,0,35.97,0,4.68,40.65,3
+Canada,Quebec,Montreal,,Hoodie,M2,2020-10-28,Canada,Quebec,Montreal,4.46952E+12,order,Returning,,,FALSE,1,2.49708E+12,7.62556E+12,64.99,0,0,64.99,0,3.25,68.24,1
+Canada,Ontario,Toronto,,,,2020-10-28,Canada,Ontario,Oshawa,,order,New,,,FALSE,1,2.49806E+12,7.62964E+12,0,0,0,0,0,0,0,0
+Canada,Ontario,Toronto,,Hoodie,XL,2020-10-28,Canada,Ontario,Oshawa,4.46952E+12,order,New,,,FALSE,1,2.49806E+12,7.62964E+12,74.99,0,0,74.99,0,9.75,84.74,1
+Canada,Quebec,Montreal,,,,2020-10-28,Canada,Quebec,Montreal,,order,Returning,,,FALSE,1,2.49708E+12,7.62556E+12,0,0,0,0,0,0,0,0
+Canada,Ontario,Mississauga,,Clinic Order Medical Snuggie,S,2020-10-28,Canada,Ontario,Mississauga,4.6145E+12,order,New,,,FALSE,1,2.49706E+12,7.6255E+12,54.6,0,0,54.6,0,7.1,61.7,4
+Canada,Ontario,Mississauga,,Clinic Order Medical Snuggie,M1,2020-10-28,Canada,Ontario,Mississauga,4.6145E+12,order,New,,,FALSE,1,2.49706E+12,7.6255E+12,31.98,0,0,31.98,0,4.16,36.14,2
+Canada,Ontario,Oakville,,,,2020-10-28,Canada,Ontario,Oakville,,order,New,,,FALSE,1,2.49738E+12,7.6265E+12,0,0,0,0,0,0,0,0
+Canada,Ontario,Oakville,Clothing,3 Season Heated Coat,S,2020-10-28,Canada,Ontario,Oakville,1.85914E+12,order,New,,,FALSE,1,2.49738E+12,7.6265E+12,182.99,0,0,182.99,0,23.79,206.78,1
+Canada,Ontario,Mississauga,,,,2020-10-28,Canada,Ontario,Mississauga,,order,New,,,FALSE,1,2.49706E+12,7.6255E+12,0,0,0,0,0,0,0,0
+Canada,Ontario,Mississauga,,Clinic Order Medical Snuggie,M2,2020-10-28,Canada,Ontario,Mississauga,4.6145E+12,order,New,,,FALSE,1,2.49706E+12,7.6255E+12,37.18,0,0,37.18,0,4.83,42.01,2
+Canada,Ontario,Grimsby ,,,,2020-10-29,Canada,Ontario,Grimsby ,,return,New,,,FALSE,1,2.49952E+12,7.63462E+12,0,0,-30.84,-30.84,0,0,-30.84,0
+Canada,Manitoba,Dauphin,,,,2020-10-29,Canada,Manitoba,Dauphin,,order,New,,,FALSE,2,2.49921E+12,7.63322E+12,0,0,0,0,0,0,0,0
+Canada,Ontario,Grimsby ,,,,2020-10-29,Canada,Ontario,Grimsby ,,return,New,,,FALSE,1,2.49952E+12,1.89792E+13,0,0,0,0,-5.99,-0.78,-6.77,0
+Canada,Ontario,Grimsby ,,,,2020-10-29,Canada,Ontario,Grimsby ,,order,New,,,FALSE,1,2.49952E+12,7.63419E+12,0,0,0,0,5.99,0.78,6.77,0
+Canada,Ontario,Grimsby ,,,,2020-10-29,Canada,Ontario,Grimsby ,,return,New,,,FALSE,1,2.49952E+12,1.89792E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,Manitoba,Dauphin,Clothing,"High-Top Boots ""Don't Fall Off""",XS -  2 Boots Only,2020-10-29,Canada,Manitoba,Dauphin,1.94929E+12,order,New,,,FALSE,2,2.49921E+12,7.63322E+12,82.99,0,0,82.99,0,4.15,87.14,1
+Canada,Ontario,Grimsby ,,,,2020-10-29,Canada,Ontario,Grimsby ,,return,New,,,FALSE,1,2.49952E+12,7.63462E+12,0,0,0,0,-5.99,-0.78,-6.77,0
+Canada,Ontario,Grimsby ,,Medical Snuggie,S,2020-10-29,Canada,Ontario,Grimsby ,4.47367E+12,order,New,,,FALSE,1,2.49952E+12,7.63419E+12,27.29,0,0,27.29,0,3.55,30.84,1
+Canada,Manitoba,Dauphin,Clothing,3 Season Heated Coat,S,2020-10-29,Canada,Manitoba,Dauphin,1.85914E+12,order,New,,,FALSE,2,2.49921E+12,7.63322E+12,182.99,0,0,182.99,0,9.15,192.14,1
+Canada,Ontario,Burlington,,Hoodie,M1,2020-10-30,Canada,Ontario,Burlington,4.46952E+12,order,New,,,FALSE,1,2.50073E+12,7.63789E+12,54.99,0,0,54.99,0,7.15,62.14,1
+Canada,Quebec,Montreal,,Hoodie,M1,2020-10-30,Canada,Quebec,Montreal,4.46952E+12,return,New,,,FALSE,1,2.49561E+12,7.63862E+12,0,0,-54.99,-54.99,0,-2.75,-57.74,0
+Canada,Ontario,Burlington,,,,2020-10-30,Canada,Ontario,Burlington,,order,New,,,FALSE,1,2.50073E+12,7.63789E+12,0,0,0,0,0,0,0,0
+Canada,Alberta,Calgary,,,,2020-10-30,Canada,Alberta,Calgary,0,order,New,,,FALSE,0,2.50058E+12,7.63741E+12,97.99,0,0,97.99,0,4.9,102.89,1
+Canada,Alberta,Calgary,,,,2020-10-30,Canada,Alberta,Calgary,,order,New,,,FALSE,0,2.50058E+12,7.63741E+12,0,0,0,0,0,0,0,0
+Canada,Quebec,Hampstead,,,,2020-11-01,Canada,Quebec,Hampstead,,order,New,,,FALSE,1,2.50321E+12,7.64523E+12,0,0,0,0,0,0,0,0
+Canada,Quebec,Hampstead,,Hoodie,M1,2020-11-01,Canada,Quebec,Hampstead,4.46952E+12,order,New,,,FALSE,1,2.50321E+12,7.64523E+12,54.99,0,0,54.99,0,2.75,57.74,1
+United States,New Jersey,Pequannock Township,,,,2020-11-02,United States,New Jersey,West Orange,,order,New,,,FALSE,1,2.50438E+12,7.64884E+12,0,0,0,0,20.29,0,20.29,0
+Canada,Ontario,Etobicoke,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-11-02,Canada,Ontario,Etobicoke,1.94929E+12,order,New,,,FALSE,1,2.50406E+12,7.64781E+12,99.99,0,0,99.99,0,13,112.99,1
+Canada,Ontario,Etobicoke,,,,2020-11-02,Canada,Ontario,Etobicoke,,order,New,,,FALSE,1,2.50406E+12,7.64781E+12,0,0,0,0,0,0,0,0
+United States,New Jersey,Pequannock Township,Clothing,DOGORA™ Clinic Starter Kit,Starter Kit,2020-11-02,United States,New Jersey,West Orange,1.95713E+12,order,New,,,FALSE,1,2.50438E+12,7.64884E+12,152.89,0,0,152.89,0,0,152.89,1
+Canada,Ontario,Belleville,,,,2020-11-03,Canada,Ontario,Belleville,,order,New,,,FALSE,0,3.02769E+12,1.0147E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Barrie,,,,2020-11-03,Canada,Ontario,Barrie,,order,New,,,FALSE,1,3.02739E+12,1.0146E+13,0,0,0,0,0,0,0,0
+Canada,Alberta,Edmonton ,,,,2020-11-03,Canada,Alberta,Edmonton ,,order,New,,,FALSE,2,3.02731E+12,1.01457E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Belleville,,,,2020-11-03,Canada,Ontario,Belleville,0,order,New,,,FALSE,0,3.02769E+12,1.0147E+13,80.43,0,0,80.43,0,10.46,90.89,1
+Canada,Alberta,Edmonton ,Clothing,3 Season Heated Coat,S,2020-11-03,Canada,Alberta,Edmonton ,1.85914E+12,order,New,,,FALSE,2,3.02731E+12,1.01457E+13,182.99,0,0,182.99,0,9.15,192.14,1
+Canada,Alberta,Edmonton ,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-11-03,Canada,Alberta,Edmonton ,1.94929E+12,order,New,,,FALSE,2,3.02731E+12,1.01457E+13,86.99,0,0,86.99,0,4.35,91.34,1
+Canada,Ontario,Barrie,Clothing,DOGORA™ Clinic Starter Kit,Starter Kit,2020-11-03,Canada,Ontario,Barrie,1.95713E+12,order,New,,,FALSE,1,3.02739E+12,1.0146E+13,150,0,0,150,0,19.5,169.5,1
+Canada,British Columbia,Victoria,Clothing,"High-Top Boots ""Don't Fall Off""",XS -  2 Boots Only,2020-11-04,Canada,British Columbia,Victoria,1.94929E+12,order,New,,,FALSE,3,3.02825E+12,1.01487E+13,82.99,0,0,82.99,0,4.15,87.14,1
+Canada,British Columbia,Victoria,,,,2020-11-04,Canada,British Columbia,Victoria,,order,New,,,FALSE,3,3.02825E+12,1.01487E+13,0,0,0,0,0,0,0,0
+Canada,British Columbia,Victoria,Clothing,3 Season Heated Coat,S,2020-11-04,Canada,British Columbia,Victoria,1.85914E+12,order,New,,,FALSE,3,3.02825E+12,1.01487E+13,182.99,0,0,182.99,0,9.15,192.14,1
+Canada,British Columbia,Victoria,,Trench Coat,S,2020-11-04,Canada,British Columbia,Victoria,4.46952E+12,order,New,,,FALSE,3,3.02825E+12,1.01487E+13,53.59,0,0,53.59,0,2.68,56.27,1
+Canada,Ontario,Mississauga,,,,2020-11-05,Canada,Ontario,Mississauga,,order,New,,,FALSE,1,3.04397E+12,1.01521E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,Ontario,Mississauga,,Medical Snuggie,M2,2020-11-05,Canada,Ontario,Mississauga,4.47367E+12,order,New,,,FALSE,1,3.04397E+12,1.01521E+13,37.19,0,0,37.19,0,4.83,42.02,1
+Canada,British Columbia,Vancouver,,Hoodie,S,2020-11-06,Canada,British Columbia,Vancouver,4.46952E+12,order,New,,,FALSE,1,3.04562E+12,1.01571E+13,49.99,0,0,49.99,0,2.5,52.49,1
+Canada,British Columbia,Vancouver,,,,2020-11-06,Canada,British Columbia,Vancouver,,order,New,,,FALSE,1,3.04562E+12,1.01571E+13,0,0,0,0,0,0,0,0
+Canada,Alberta,Edmonton,,,,2020-11-07,Canada,Alberta,Edmonton,,order,New,,,FALSE,1,3.05059E+12,1.01625E+13,0,0,0,0,0,0,0,0
+Canada,Alberta,Edmonton,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-11-07,Canada,Alberta,Edmonton,1.94929E+12,order,New,,,FALSE,1,3.05059E+12,1.01625E+13,86.99,0,0,86.99,0,4.35,91.34,1
+Canada,Alberta,Edmonton,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-11-07,Canada,Alberta,Edmonton,1.94929E+12,order,New,,,FALSE,1,3.05059E+12,1.01625E+13,90.99,0,0,90.99,0,4.55,95.54,1
+Canada,Ontario,Vaughan,,Medical Snuggie,XS,2020-11-11,Canada,Ontario,Vaughan,4.47367E+12,order,New,,,FALSE,1,3.05814E+12,1.01822E+13,23.99,0,0,23.99,0,3.12,27.11,1
+Canada,Ontario,Vaughan,,,,2020-11-11,Canada,Ontario,Vaughan,,order,New,,,FALSE,1,3.05814E+12,1.01822E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,Ontario,CAMPBELLVILLE,,,,2020-11-17,Canada,Ontario,CAMPBELLVILLE,,order,New,,,FALSE,1,3.06874E+12,1.02139E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Belleville,,,,2020-11-17,Canada,Ontario,Belleville,0,order,Returning,,,FALSE,0,3.06919E+12,1.02152E+13,163.7,0,0,163.7,0,21.28,184.98,1
+Canada,Ontario,CAMPBELLVILLE,Clothing,DOGORA™ Clinic Starter Kit,Starter Kit,2020-11-17,Canada,Ontario,CAMPBELLVILLE,1.95713E+12,order,New,,,FALSE,1,3.06874E+12,1.02139E+13,150,0,0,150,0,19.5,169.5,1
+Canada,Ontario,Belleville,,,,2020-11-17,Canada,Ontario,Belleville,,order,Returning,,,FALSE,0,3.06919E+12,1.02152E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Cambridge,,Clinic Order Medical Snuggie,M1,2020-11-18,Canada,Ontario,Cambridge,4.6145E+12,order,Returning,,,FALSE,1,3.0705E+12,1.02191E+13,47.97,0,0,47.97,0,6.24,54.21,3
+Canada,Ontario,Cambridge,,,,2020-11-18,Canada,Ontario,Cambridge,,order,Returning,,,FALSE,1,3.0705E+12,1.02191E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Cambridge,,Clinic Order Medical Snuggie,XS,2020-11-18,Canada,Ontario,Cambridge,4.6145E+12,order,Returning,,,FALSE,1,3.0705E+12,1.02191E+13,11.99,0,0,11.99,0,1.56,13.55,1
+Canada,Ontario,Cambridge,,Clinic Order Medical Snuggie,S,2020-11-18,Canada,Ontario,Cambridge,4.6145E+12,order,Returning,,,FALSE,1,3.0705E+12,1.02191E+13,40.95,0,0,40.95,0,5.32,46.27,3
+Canada,Ontario,Cambridge,,Clinic Order Medical Snuggie,M2,2020-11-18,Canada,Ontario,Cambridge,4.6145E+12,order,Returning,,,FALSE,1,3.0705E+12,1.02191E+13,18.59,0,0,18.59,0,2.42,21.01,1
+Canada,Ontario,Waterdown,,,,2020-11-18,Canada,Ontario,Waterdown,,order,New,,,FALSE,1,3.07043E+12,1.0219E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Waterdown,Clothing,DOGORA™ Clinic Starter Kit,Starter Kit,2020-11-18,Canada,Ontario,Waterdown,1.95713E+12,order,New,,,FALSE,1,3.07043E+12,1.0219E+13,150,0,0,150,0,19.5,169.5,1
+Canada,Ontario,Elora,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-11-19,Canada,Ontario,Elora,1.94929E+12,order,New,,,FALSE,2,3.07231E+12,1.02255E+13,86.99,0,0,86.99,0,11.31,98.3,1
+Canada,Ontario,Milton,,,,2020-11-19,Canada,British Columbia,Whistler,,order,New,,,FALSE,2,3.07249E+12,1.02262E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Elora,Clothing,3 Season Heated Coat,M1,2020-11-19,Canada,Ontario,Elora,1.85914E+12,order,New,,,FALSE,2,3.07231E+12,1.02255E+13,196.99,0,0,196.99,0,25.61,222.6,1
+Canada,Ontario,Milton,Clothing,"High-Top Boots ""Don't Fall Off""",XS -  2 Boots Only,2020-11-19,Canada,British Columbia,Whistler,1.94929E+12,order,New,,,FALSE,2,3.07249E+12,1.02262E+13,82.99,0,0,82.99,0,4.15,87.14,1
+Canada,Ontario,Elora,,,,2020-11-19,Canada,Ontario,Elora,,order,New,,,FALSE,2,3.07231E+12,1.02255E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Mississippi Mills,,,,2020-11-19,Canada,Ontario,Mississippi Mills,,order,New,,,FALSE,1,3.07209E+12,1.02247E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,Ontario,Milton,Clothing,3 Season Heated Coat,S,2020-11-19,Canada,British Columbia,Whistler,1.85914E+12,order,New,,,FALSE,2,3.07249E+12,1.02262E+13,182.99,0,0,182.99,0,9.15,192.14,1
+Canada,Ontario,Mississippi Mills,,Hoodie,XS,2020-11-19,Canada,Ontario,Mississippi Mills,4.46952E+12,order,New,,,FALSE,1,3.07209E+12,1.02247E+13,44.99,0,0,44.99,0,5.85,50.84,1
+Canada,Alberta,Spruce Grove,,,,2020-11-20,Canada,Alberta,Spruce Grove,,order,New,,,FALSE,1,3.07649E+12,1.02399E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,St-Donat,,,,2020-11-20,Canada,Quebec,St-Donat,,order,New,,,FALSE,1,3.07598E+12,1.02383E+13,0,0,0,0,0,0,0,0
+Canada,Alberta,Edmonton,,,,2020-11-20,Canada,Alberta,Edmonton,,order,New,,,FALSE,1,3.07639E+12,1.02395E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Binbrook,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-11-20,Canada,Ontario,Binbrook,1.94929E+12,order,New,,,FALSE,1,3.07602E+12,1.02384E+13,86.99,0,0,86.99,0,11.31,98.3,1
+Canada,Ontario,Toronto,Clothing,3 Season Heated Coat,L,2020-11-20,Canada,Ontario,Toronto,1.85914E+12,order,New,,,FALSE,2,3.07594E+12,1.02381E+13,214.99,-64.5,0,150.49,0,19.56,170.05,1
+Canada,Manitoba,Dauphin,,,,2020-11-20,Canada,Manitoba,Dauphin,,order,Returning,,,FALSE,1,3.07529E+12,1.02361E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Toronto,,,,2020-11-20,Canada,Ontario,Toronto,,order,New,,,FALSE,2,3.07594E+12,1.02381E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Toronto,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-11-20,Canada,Ontario,Toronto,1.94929E+12,order,New,,,FALSE,2,3.07594E+12,1.02381E+13,99.99,-29.99,0,70,0,9.1,79.1,1
+Canada,Ontario,Binbrook,,,,2020-11-20,Canada,Ontario,Binbrook,,order,New,,,FALSE,1,3.07602E+12,1.02384E+13,0,0,0,0,0,0,0,0
+Canada,Alberta,Spruce Grove,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-11-20,Canada,Alberta,Spruce Grove,1.94929E+12,order,New,,,FALSE,1,3.07649E+12,1.02399E+13,95.99,0,0,95.99,0,4.8,100.79,1
+Canada,Alberta,Sylvan Lake,,,,2020-11-20,Canada,Alberta,Sylvan Lake,,order,New,,,FALSE,1,3.07627E+12,1.02392E+13,0,0,0,0,0,0,0,0
+Canada,Manitoba,Dauphin,,,,2020-11-20,Canada,Manitoba,Dauphin,,return,Returning,,,FALSE,1,3.07529E+12,1.0238E+13,0,0,-55.43,-55.43,0,0,-55.43,0
+Canada,Alberta,Sylvan Lake,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-11-20,Canada,Alberta,Sylvan Lake,1.94929E+12,order,New,,,FALSE,1,3.07627E+12,1.02392E+13,86.99,-26.09,0,60.9,0,3.05,63.95,1
+Canada,Alberta,Edmonton,,Hoodie,L,2020-11-20,Canada,Alberta,Edmonton,4.46952E+12,order,New,,,FALSE,1,3.07639E+12,1.02395E+13,69.99,-20.99,0,49,0,2.45,51.45,1
+Canada,Quebec,St-Donat,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-11-20,Canada,Quebec,St-Donat,1.94929E+12,order,New,,,FALSE,1,3.07598E+12,1.02383E+13,90.99,0,0,90.99,0,4.55,95.54,1
+Canada,Manitoba,Dauphin,Clothing,3 Season Heated Coat,XS,2020-11-20,Canada,Manitoba,Dauphin,1.85914E+12,order,Returning,,,FALSE,1,3.07529E+12,1.02361E+13,175.99,0,0,175.99,0,8.8,184.79,1
+Canada,Quebec,Montreal,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-11-21,Canada,Quebec,Montreal,1.94929E+12,order,Returning,,,FALSE,1,3.07734E+12,1.02424E+13,90.99,0,0,90.99,0,4.55,95.54,1
+Canada,Ontario,Binbrook,Clothing,3 Season Heated Coat,S,2020-11-21,Canada,Ontario,Binbrook,1.85914E+12,order,Returning,,,FALSE,1,3.07792E+12,1.02442E+13,182.99,-54.89,0,128.1,0,16.65,144.75,1
+Canada,Quebec,Montreal,,,,2020-11-21,Canada,Quebec,Montreal,,order,Returning,,,FALSE,1,3.07734E+12,1.02424E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Vaudreuil-Dorion,,,,2020-11-21,Canada,Quebec,Vaudreuil-Dorion,,order,New,,,FALSE,1,3.07826E+12,1.02452E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Vaudreuil-Dorion,Clothing,3 Season Heated Coat,S,2020-11-21,Canada,Quebec,Vaudreuil-Dorion,1.85914E+12,order,New,,,FALSE,1,3.07826E+12,1.02452E+13,182.99,-54.89,0,128.1,0,6.41,134.51,1
+Canada,Ontario,Binbrook,,,,2020-11-21,Canada,Ontario,Binbrook,,order,Returning,,,FALSE,1,3.07792E+12,1.02442E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Montreal,,,,2020-11-21,Canada,Quebec,Montreal,,return,Returning,,,FALSE,1,3.07734E+12,1.02426E+13,0,0,-28.65,-28.65,0,0,-28.65,0
+Canada,Ontario,Milton,,,,2020-11-21,Canada,British Columbia,Whistler,,return,New,,,FALSE,2,3.07249E+12,1.02436E+13,0,0,-83.75,-83.75,0,0,-83.75,0
+Canada,Ontario,Toronto,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-11-22,Canada,Ontario,Toronto,1.94929E+12,order,New,,,FALSE,1,3.07964E+12,1.02492E+13,95.99,0,0,95.99,0,12.48,108.47,1
+Canada,Ontario,Richmond Hill,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-11-22,Canada,Ontario,Etobicoke,1.94929E+12,order,New,,,FALSE,1,3.08031E+12,1.02512E+13,90.99,-27.29,0,63.7,0,8.28,71.98,1
+Canada,Ontario,Toronto,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-11-22,Canada,Ontario,Toronto,1.94929E+12,order,New,,,FALSE,2,3.08017E+12,1.02508E+13,99.99,-30,0,69.99,0,9.1,79.09,1
+Canada,Ontario,Thornhill,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-11-22,Canada,Ontario,Thornhill,1.94929E+12,order,New,,,FALSE,1,3.0803E+12,1.02512E+13,99.99,-29.99,0,70,0,9.1,79.1,1
+Canada,Ontario,Markham,,,,2020-11-22,Canada,Ontario,Markham,,order,New,,,FALSE,1,3.08014E+12,1.02507E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Hamilton,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-11-22,Canada,Ontario,Hamilton,1.94929E+12,order,New,,,FALSE,1,3.0796E+12,1.02491E+13,86.99,-26.09,0,60.9,0,7.92,68.82,1
+Canada,Ontario,Thornhill,,,,2020-11-22,Canada,Ontario,Thornhill,,order,New,,,FALSE,1,3.0803E+12,1.02512E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Sudbury,,,,2020-11-22,Canada,Ontario,Sudbury,,order,New,,,FALSE,1,3.08013E+12,1.02507E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Toronto,,,,2020-11-22,Canada,Ontario,Toronto,,order,New,,,FALSE,2,3.08017E+12,1.02508E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Boisbriand,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-11-22,Canada,Quebec,Boisbriand,1.94929E+12,order,Returning,,,FALSE,1,3.07935E+12,1.02484E+13,86.99,-26.09,0,60.9,0,3.05,63.95,1
+Canada,Ontario,Toronto,,,,2020-11-22,Canada,Ontario,Toronto,,order,New,,,FALSE,1,3.07964E+12,1.02492E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Toronto,Clothing,3 Season Heated Coat,L,2020-11-22,Canada,Ontario,Toronto,1.85914E+12,order,New,,,FALSE,2,3.08017E+12,1.02508E+13,214.99,-64.49,0,150.5,0,19.57,170.07,1
+Canada,Quebec,Mont-Tremblant,,,,2020-11-22,Canada,Quebec,Mont-Tremblant,,order,New,,,FALSE,1,3.08008E+12,1.02505E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Thornhill,,Medical Snuggie,M1,2020-11-22,Canada,Ontario,Thornhill,4.47367E+12,order,New,,,FALSE,2,3.08023E+12,1.0251E+13,31.99,-9.59,0,22.4,0,2.91,25.31,1
+Canada,Ontario,Markham,,Hoodie,L,2020-11-22,Canada,Ontario,Markham,4.46952E+12,order,New,,,FALSE,1,3.08014E+12,1.02507E+13,69.99,-20.99,0,49,0,6.37,55.37,1
+Canada,Ontario,Richmond Hill,,,,2020-11-22,Canada,Ontario,Etobicoke,,order,New,,,FALSE,1,3.08031E+12,1.02512E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Binbrook,,,,2020-11-22,Canada,Ontario,Binbrook,,return,New,,,FALSE,1,3.07602E+12,1.02507E+13,0,0,-34.35,-34.35,0,0,-34.35,0
+United States,Utah,lehi,,,,2020-11-22,United States,Utah,Mendon,,order,New,,,FALSE,1,3.07959E+12,1.02491E+13,0,0,0,0,19.99,0,19.99,0
+Canada,Ontario,Thornhill,,Hoodie,M2,2020-11-22,Canada,Ontario,Thornhill,4.46952E+12,order,New,,,FALSE,2,3.08023E+12,1.0251E+13,64.99,-19.5,0,45.49,0,5.91,51.4,1
+Canada,Ontario,Sudbury,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-11-22,Canada,Ontario,Sudbury,1.94929E+12,order,New,,,FALSE,1,3.08013E+12,1.02507E+13,86.99,0,0,86.99,0,11.31,98.3,1
+Canada,Manitoba,Winnipeg,,,,2020-11-22,Canada,Manitoba,Winnipeg,,order,New,,,FALSE,1,3.07991E+12,1.025E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Boisbriand,,,,2020-11-22,Canada,Quebec,Boisbriand,,order,Returning,,,FALSE,1,3.07935E+12,1.02484E+13,0,0,0,0,0,0,0,0
+United States,Utah,lehi,Clothing,3 Season Heated Coat,S,2020-11-22,United States,Utah,Mendon,1.85914E+12,order,New,,,FALSE,1,3.07959E+12,1.02491E+13,182.99,0,0,182.99,0,0,182.99,1
+Canada,Manitoba,Winnipeg,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-11-22,Canada,Manitoba,Winnipeg,1.94929E+12,order,New,,,FALSE,1,3.07991E+12,1.025E+13,90.99,-27.29,0,63.7,0,3.19,66.89,1
+Canada,Ontario,Hamilton,,,,2020-11-22,Canada,Ontario,Hamilton,,order,New,,,FALSE,1,3.0796E+12,1.02491E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Mont-Tremblant,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-11-22,Canada,Quebec,Mont-Tremblant,1.94929E+12,order,New,,,FALSE,1,3.08008E+12,1.02505E+13,90.99,-27.29,0,63.7,0,3.19,66.89,1
+Canada,Ontario,Thornhill,,,,2020-11-22,Canada,Ontario,Thornhill,,order,New,,,FALSE,2,3.08023E+12,1.0251E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Oakville,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-11-23,Canada,Ontario,Oakville,1.94929E+12,order,Returning,,,FALSE,1,3.08134E+12,1.02544E+13,86.99,0,0,86.99,0,11.31,98.3,1
+Canada,Ontario,Toronto,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-11-23,Canada,Ontario,Toronto,1.94929E+12,order,New,,,FALSE,1,3.08207E+12,1.02567E+13,90.99,-27.29,0,63.7,0,8.28,71.98,1
+Canada,Ontario,Ottawa,,,,2020-11-23,Canada,Ontario,Ottawa,,order,New,,,FALSE,1,3.0805E+12,1.02518E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Toronto,Clothing,3 Season Heated Coat,S,2020-11-23,Canada,Ontario,Toronto,1.85914E+12,order,New,,,FALSE,1,3.08176E+12,1.02557E+13,182.99,-54.89,0,128.1,0,16.65,144.75,1
+Canada,Ontario,Belle River,,,,2020-11-23,Canada,Ontario,Belle River,,order,New,,,FALSE,2,3.08095E+12,1.02532E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Toronto,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-11-23,Canada,Ontario,Toronto,1.94929E+12,order,New,,,FALSE,1,3.08198E+12,1.02564E+13,173.98,0,0,173.98,0,22.62,196.6,2
+Canada,Ontario,Ottawa,,,,2020-11-23,Canada,Ontario,Ottawa,,order,New,,,FALSE,1,3.08201E+12,1.02565E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Ottawa,,,,2020-11-23,Canada,Ontario,Ottawa,0,order,New,,,FALSE,1,3.08201E+12,1.02565E+13,89,-26.69,0,62.31,0,8.1,70.41,1
+Canada,Quebec,LUSKVILLE,,,,2020-11-23,Canada,Quebec,LUSKVILLE,,order,New,,,FALSE,1,3.08222E+12,1.02572E+13,0,0,0,0,0,0,0,0
+Canada,Manitoba,Winnipeg,,,,2020-11-23,Canada,Manitoba,Winnipeg,,order,New,,,FALSE,1,3.08231E+12,1.02575E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Belle River,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-11-23,Canada,Ontario,Belle River,1.94929E+12,order,New,,,FALSE,2,3.08095E+12,1.02532E+13,86.99,-26.1,0,60.89,0,7.92,68.81,1
+Canada,Ontario,Toronto,,,,2020-11-23,Canada,Ontario,Toronto,,order,New,,,FALSE,1,3.08207E+12,1.02567E+13,0,0,0,0,0,0,0,0
+Canada,British Columbia,Stewart,,,,2020-11-23,Canada,British Columbia,Stewart,,order,New,,,FALSE,1,3.08182E+12,1.02559E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Toronto,,,,2020-11-23,Canada,Ontario,Toronto,,order,New,,,FALSE,1,3.08176E+12,1.02557E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Toronto,,,,2020-11-23,Canada,Ontario,Toronto,,order,New,,,FALSE,1,3.08198E+12,1.02564E+13,0,0,0,0,0,0,0,0
+Canada,Manitoba,Winnipeg,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-11-23,Canada,Manitoba,Winnipeg,1.94929E+12,order,New,,,FALSE,1,3.08231E+12,1.02575E+13,86.99,-26.09,0,60.9,0,3.05,63.95,1
+Canada,Ontario,Ottawa,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-11-23,Canada,Ontario,Ottawa,1.94929E+12,order,New,,,FALSE,1,3.0805E+12,1.02518E+13,95.99,-28.79,0,67.2,0,8.74,75.94,1
+Canada,Ontario,Ottawa,,Hoodie,M2,2020-11-23,Canada,Ontario,Ottawa,4.46952E+12,order,New,,,FALSE,1,3.08201E+12,1.02565E+13,64.99,-19.5,0,45.49,0,5.91,51.4,1
+Canada,Ontario,Dundas,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-11-23,Canada,Ontario,Dundas,1.94929E+12,order,New,,,FALSE,1,3.08148E+12,1.02548E+13,86.99,-26.09,0,60.9,0,7.92,68.82,1
+Canada,Ontario,Oakville,,,,2020-11-23,Canada,Ontario,Oakville,,order,Returning,,,FALSE,1,3.08134E+12,1.02544E+13,0,0,0,0,0,0,0,0
+Canada,British Columbia,Stewart,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-11-23,Canada,British Columbia,Stewart,1.94929E+12,order,New,,,FALSE,1,3.08182E+12,1.02559E+13,99.99,0,0,99.99,0,5,104.99,1
+Canada,Ontario,Dundas,,,,2020-11-23,Canada,Ontario,Dundas,,order,New,,,FALSE,1,3.08148E+12,1.02548E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,LUSKVILLE,Clothing,3 Season Heated Coat,L,2020-11-23,Canada,Quebec,LUSKVILLE,1.85914E+12,order,New,,,FALSE,1,3.08222E+12,1.02572E+13,214.99,-64.49,0,150.5,0,7.53,158.03,1
+Canada,Ontario,Belle River,Clothing,3 Season Heated Coat,M2,2020-11-23,Canada,Ontario,Belle River,1.85914E+12,order,New,,,FALSE,2,3.08095E+12,1.02532E+13,205.99,-61.79,0,144.2,0,18.75,162.95,1
+Canada,Northwest Territories,Yellowknife,,,,2020-11-24,Canada,Northwest Territories,Yellowknife,,order,New,,,FALSE,1,3.08307E+12,1.02597E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Toronto,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-11-24,Canada,Ontario,Toronto,1.94929E+12,order,New,,,FALSE,1,3.08382E+12,1.02621E+13,181.98,-54.59,0,127.39,0,16.56,143.95,2
+Canada,Manitoba,Winnipeg,Clothing,3 Season Heated Coat,M1,2020-11-24,Canada,Manitoba,Winnipeg,1.85914E+12,order,New,,,FALSE,1,3.08234E+12,1.02576E+13,196.99,0,0,196.99,0,9.85,206.84,1
+Canada,Manitoba,Winnipeg,Clothing,"High-Top Boots ""Don't Fall Off""",XS -  2 Boots Only,2020-11-24,Canada,Manitoba,Winnipeg,1.94929E+12,order,New,,,FALSE,1,3.08379E+12,1.0262E+13,82.99,-24.89,0,58.1,0,2.91,61.01,1
+Canada,Northwest Territories,Yellowknife,Clothing,"High-Top Boots ""Don't Fall Off""",XS -  2 Boots Only,2020-11-24,Canada,Northwest Territories,Yellowknife,1.94929E+12,order,New,,,FALSE,1,3.08307E+12,1.02597E+13,165.98,-49.79,0,116.19,0,5.81,122,2
+Canada,Manitoba,Winnipeg,,,,2020-11-24,Canada,Manitoba,Winnipeg,,order,New,,,FALSE,1,3.08379E+12,1.0262E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,North York,Clothing,"High-Top Boots ""Don't Fall Off""",XS -  2 Boots Only,2020-11-24,Canada,Ontario,North York,1.94929E+12,return,New,,,FALSE,1,3.08325E+12,1.02605E+13,0,0,-58.1,-58.1,0,-7.55,-65.65,0
+Canada,British Columbia,Victoria,,Trench Coat,S,2020-11-24,Canada,British Columbia,Victoria,4.46952E+12,return,New,,,FALSE,3,3.02825E+12,1.02627E+13,0,0,-53.59,-53.59,0,-2.68,-56.27,0
+Canada,British Columbia,Victoria,Clothing,3 Season Heated Coat,S,2020-11-24,Canada,British Columbia,Victoria,1.85914E+12,return,New,,,FALSE,3,3.02825E+12,1.02627E+13,0,0,-182.99,-182.99,0,-9.15,-192.14,0
+Canada,Manitoba,Winnipeg,,,,2020-11-24,Canada,Manitoba,Winnipeg,,order,New,,,FALSE,1,3.08234E+12,1.02576E+13,0,0,0,0,0,0,0,0
+Canada,Manitoba,Winnipeg,,,,2020-11-24,Canada,Manitoba,Winnipeg,,return,New,,,FALSE,1,3.08234E+12,1.02581E+13,0,0,-62.05,-62.05,0,0,-62.05,0
+Canada,Ontario,North York,Clothing,"High-Top Boots ""Don't Fall Off""",XS -  2 Boots Only,2020-11-24,Canada,Ontario,North York,1.94929E+12,order,New,,,FALSE,1,3.08325E+12,1.02603E+13,82.99,-24.89,0,58.1,0,7.55,65.65,1
+Canada,Ontario,Toronto,,,,2020-11-24,Canada,Ontario,Toronto,,order,New,,,FALSE,1,3.08382E+12,1.02621E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,North York,,,,2020-11-24,Canada,Ontario,North York,,order,New,,,FALSE,1,3.08325E+12,1.02603E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Pickering,,,,2020-11-25,Canada,Ontario,Pickering,,order,New,,,FALSE,1,3.08466E+12,1.02647E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Beaconsfield,,,,2020-11-25,Canada,Quebec,Beaconsfield,,order,New,,,FALSE,1,3.08575E+12,1.02681E+13,0,0,0,0,0,0,0,0
+Canada,British Columbia,Nelson,,,,2020-11-25,Canada,British Columbia,Nelson,,order,New,,,FALSE,1,3.08585E+12,1.02685E+13,0,0,0,0,0,0,0,0
+Canada,Alberta,Fort McMurray,,,,2020-11-25,Canada,Alberta,Fort McMurray,,order,New,,,FALSE,1,3.08635E+12,1.027E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Montreal,Clothing,"High-Top Boots ""Don't Fall Off""",XS -  2 Boots Only,2020-11-25,Canada,Quebec,Montreal,1.94929E+12,order,New,,,FALSE,1,3.0855E+12,1.02673E+13,82.99,0,0,82.99,0,4.15,87.14,1
+Canada,Quebec,Mount Royal,,,,2020-11-25,Canada,Quebec,Mount Royal,,order,New,,,FALSE,1,3.08627E+12,1.02698E+13,0,0,0,0,0,0,0,0
+United States,Colorado,Littleton,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-11-25,United States,Colorado,Littleton,1.94929E+12,order,New,,,FALSE,1,3.08497E+12,1.02656E+13,99.99,-29.99,0,70,0,0,70,1
+United States,Colorado,Littleton,,,,2020-11-25,United States,Colorado,Littleton,,order,New,,,FALSE,1,3.08497E+12,1.02656E+13,0,0,0,0,19.99,0,19.99,0
+Canada,Ontario,Pickering,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-11-25,Canada,Ontario,Pickering,1.94929E+12,order,New,,,FALSE,1,3.08466E+12,1.02647E+13,99.99,-29.99,0,70,0,9.1,79.1,1
+Canada,Alberta,Fort McMurray,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-11-25,Canada,Alberta,Fort McMurray,1.94929E+12,order,New,,,FALSE,1,3.08635E+12,1.027E+13,99.99,-29.99,0,70,0,3.5,73.5,1
+Canada,British Columbia,Nelson,Clothing,"High-Top Boots ""Don't Fall Off""",XS -  2 Boots Only,2020-11-25,Canada,British Columbia,Nelson,1.94929E+12,order,New,,,FALSE,1,3.08585E+12,1.02685E+13,82.99,-24.89,0,58.1,0,2.91,61.01,1
+Canada,Quebec,Westmount,,,,2020-11-25,Canada,Quebec,Westmount,,order,New,,,FALSE,1,3.08487E+12,1.02653E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Mount Royal,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-11-25,Canada,Quebec,Mount Royal,1.94929E+12,order,New,,,FALSE,1,3.08627E+12,1.02698E+13,95.99,-28.79,0,67.2,0,3.36,70.56,1
+Canada,Quebec,Beaconsfield,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-11-25,Canada,Quebec,Beaconsfield,1.94929E+12,order,New,,,FALSE,1,3.08575E+12,1.02681E+13,86.99,-26.09,0,60.9,0,3.05,63.95,1
+Canada,Quebec,Westmount,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-11-25,Canada,Quebec,Westmount,1.94929E+12,order,New,,,FALSE,1,3.08487E+12,1.02653E+13,95.99,0,0,95.99,0,4.8,100.79,1
+Canada,Quebec,Montreal,,,,2020-11-25,Canada,Quebec,Montreal,,order,New,,,FALSE,1,3.0855E+12,1.02673E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Kanata,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-11-25,Canada,Ontario,Kanata,1.94929E+12,order,New,,,FALSE,1,3.08561E+12,1.02677E+13,86.99,-26.09,0,60.9,0,7.92,68.82,1
+Canada,Ontario,Kanata,,,,2020-11-25,Canada,Ontario,Kanata,,order,New,,,FALSE,1,3.08561E+12,1.02677E+13,0,0,0,0,0,0,0,0
+Canada,Manitoba,Winnipeg,,,,2020-11-26,Canada,Manitoba,Winnipeg,,order,New,,,FALSE,1,3.08902E+12,1.02786E+13,0,0,0,0,0,0,0,0
+Canada,Newfoundland and Labrador,Pasadena,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-11-26,Canada,Newfoundland and Labrador,Pasadena,1.94929E+12,order,New,,,FALSE,1,3.0875E+12,1.02737E+13,86.99,-26.09,0,60.9,0,9.14,70.04,1
+Canada,British Columbia,Prince George,,,,2020-11-26,Canada,British Columbia,Prince George,,order,New,,,FALSE,1,3.0891E+12,1.02789E+13,0,0,0,0,0,0,0,0
+Canada,Newfoundland and Labrador,Pasadena,,,,2020-11-26,Canada,Newfoundland and Labrador,Pasadena,,order,New,,,FALSE,1,3.0875E+12,1.02737E+13,0,0,0,0,0,0,0,0
+Canada,Manitoba,Winnipeg,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-11-26,Canada,Manitoba,Winnipeg,1.94929E+12,order,New,,,FALSE,1,3.08902E+12,1.02786E+13,86.99,-26.09,0,60.9,0,3.05,63.95,1
+Canada,Ontario,Mississauga,,Hoodie,M1,2020-11-26,Canada,Ontario,Mississauga,4.46952E+12,order,New,,,FALSE,1,3.08902E+12,1.02786E+13,54.99,-16.49,0,38.5,0,5.01,43.51,1
+Canada,Quebec,Saint-Colomban,Clothing,3 Season Heated Coat,M1,2020-11-26,Canada,Quebec,Saint-Colomban,1.85914E+12,order,New,,,FALSE,2,3.08892E+12,1.02783E+13,196.99,-59.1,0,137.89,0,6.89,144.78,1
+Canada,Ontario,Toronto,,,,2020-11-26,Canada,Ontario,Toronto,,order,New,,,FALSE,1,3.08662E+12,1.0271E+13,0,0,0,0,0,0,0,0
+Canada,British Columbia,Prince George,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-11-26,Canada,British Columbia,Prince George,1.94929E+12,order,New,,,FALSE,1,3.0891E+12,1.02789E+13,99.99,-29.99,0,70,0,3.5,73.5,1
+Canada,Ontario,Toronto,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-11-26,Canada,Ontario,Toronto,1.94929E+12,order,New,,,FALSE,1,3.08701E+12,1.02723E+13,173.98,-52.19,0,121.79,0,15.83,137.62,2
+Canada,British Columbia,Trail,,,,2020-11-26,Canada,British Columbia,Trail,,order,New,,,FALSE,1,3.08905E+12,1.02787E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Toronto,,,,2020-11-26,Canada,Ontario,Toronto,,order,New,,,FALSE,1,3.08701E+12,1.02723E+13,0,0,0,0,0,0,0,0
+Canada,British Columbia,Trail,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-11-26,Canada,British Columbia,Trail,1.94929E+12,order,New,,,FALSE,1,3.08905E+12,1.02787E+13,86.99,-26.09,0,60.9,0,3.05,63.95,1
+Canada,Ontario,Vaughan,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-11-26,Canada,Ontario,Vaughan,1.94929E+12,order,New,,,FALSE,1,3.08883E+12,1.0278E+13,99.99,-29.99,0,70,0,9.1,79.1,1
+Canada,Ontario,Toronto,Clothing,3 Season Heated Coat,XS,2020-11-26,Canada,Ontario,Toronto,1.85914E+12,order,New,,,FALSE,1,3.08662E+12,1.0271E+13,175.99,-52.79,0,123.2,0,16.02,139.22,1
+Canada,Ontario,Mississauga,,,,2020-11-26,Canada,Ontario,Mississauga,,order,New,,,FALSE,1,3.08902E+12,1.02786E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,Quebec,Saint-Colomban,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-11-26,Canada,Quebec,Saint-Colomban,1.94929E+12,order,New,,,FALSE,2,3.08892E+12,1.02783E+13,86.99,-26.09,0,60.9,0,3.05,63.95,1
+Canada,Ontario,Vaughan,,,,2020-11-26,Canada,Ontario,Vaughan,,order,New,,,FALSE,1,3.08863E+12,1.02773E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Vaughan,Clothing,"High-Top Boots ""Don't Fall Off""",XS -  2 Boots Only,2020-11-26,Canada,Ontario,Vaughan,1.94929E+12,order,New,,,FALSE,1,3.08863E+12,1.02773E+13,82.99,-29.04,0,53.95,0,7.01,60.96,1
+Canada,Ontario,Vaughan,,,,2020-11-26,Canada,Ontario,Vaughan,,order,New,,,FALSE,1,3.08883E+12,1.0278E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Saint-Colomban,,,,2020-11-26,Canada,Quebec,Saint-Colomban,,order,New,,,FALSE,2,3.08892E+12,1.02783E+13,0,0,0,0,0,0,0,0
+Canada,Alberta,Okotoks ,,,,2020-11-27,Canada,Alberta,Okotoks ,,order,New,,,FALSE,1,3.09305E+12,1.0294E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Ontario,Toronto,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-11-27,Canada,Ontario,Toronto,1.94929E+12,order,New,,,FALSE,1,3.09511E+12,1.03014E+13,95.99,-28.79,0,67.2,0,8.74,75.94,1
+Canada,Ontario,Toronto,,,,2020-11-27,Canada,Ontario,Toronto,,order,New,,,FALSE,1,3.09511E+12,1.03014E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Laval,,Trench Coat,S,2020-11-27,Canada,Quebec,Laval,4.46952E+12,order,New,,,FALSE,2,3.09623E+12,1.03055E+13,53.59,-16.07,0,37.52,0,1.88,39.4,1
+Canada,Quebec,Laval,,,,2020-11-27,Canada,Quebec,Laval,,order,New,,,FALSE,2,3.09623E+12,1.03055E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Mississauga,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-11-27,Canada,Ontario,Mississauga,1.94929E+12,order,New,,,FALSE,1,3.09437E+12,1.02987E+13,86.99,0,0,86.99,0,11.31,98.3,1
+Canada,Quebec,Laval,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-11-27,Canada,Quebec,Laval,1.94929E+12,order,New,,,FALSE,2,3.09623E+12,1.03055E+13,86.99,-26.1,0,60.89,0,3.04,63.93,1
+Canada,Ontario,Mississauga,,,,2020-11-27,Canada,Ontario,Mississauga,,order,New,,,FALSE,1,3.09437E+12,1.02987E+13,0,0,0,0,0,0,0,0
+Canada,Saskatchewan,regina,,Medical Snuggie,XL,2020-11-27,Canada,Saskatchewan,regina,4.47367E+12,order,New,,,FALSE,1,3.09236E+12,1.0291E+13,45.19,-13.55,0,31.64,0,1.58,33.22,1
+Canada,Ontario,North York,,,,2020-11-27,Canada,Ontario,North York,,order,New,,,FALSE,1,3.09642E+12,1.03063E+13,0,0,0,0,0,0,0,0
+Canada,Saskatchewan,regina,,,,2020-11-27,Canada,Saskatchewan,regina,,order,New,,,FALSE,1,3.09236E+12,1.0291E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Ontario,Toronto,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-11-27,Canada,Ontario,Toronto,1.94929E+12,return,New,,,FALSE,1,3.08382E+12,1.02975E+13,0,0,-127.39,-127.39,0,-16.56,-143.95,0
+Canada,Ontario,North York,Clothing,"High-Top Boots ""Don't Fall Off""",XS -  2 Boots Only,2020-11-27,Canada,Ontario,North York,1.94929E+12,order,New,,,FALSE,1,3.09642E+12,1.03063E+13,82.99,-24.89,0,58.1,0,7.55,65.65,1
+Canada,Alberta,Okotoks ,,Medical Snuggie,M1,2020-11-27,Canada,Alberta,Okotoks ,4.47367E+12,order,New,,,FALSE,1,3.09305E+12,1.0294E+13,31.99,-9.59,0,22.4,0,1.12,23.52,1
+Canada,British Columbia,Whistler,Clothing,3 Season Heated Coat,S,2020-11-28,Canada,British Columbia,Whistler,1.85914E+12,order,New,,,FALSE,2,3.09971E+12,1.03174E+13,182.99,-54.89,0,128.1,0,6.41,134.51,1
+Canada,British Columbia,Vancouver,,,,2020-11-28,Canada,Quebec,Montréal,,order,New,,,FALSE,1,3.10004E+12,1.03186E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Scarborough,,,,2020-11-28,Canada,Ontario,Scarborough,,order,New,,,FALSE,1,3.09777E+12,1.03108E+13,0,0,0,0,0,0,0,0
+Canada,British Columbia,Whistler,,,,2020-11-28,Canada,British Columbia,Whistler,,order,New,,,FALSE,2,3.09971E+12,1.03174E+13,0,0,0,0,0,0,0,0
+Canada,British Columbia,Vancouver,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-11-28,Canada,Quebec,Montréal,1.94929E+12,order,New,,,FALSE,1,3.10004E+12,1.03186E+13,86.99,-26.09,0,60.9,0,3.05,63.95,1
+Canada,Ontario,Scarborough,Clothing,3 Season Heated Coat,S,2020-11-28,Canada,Ontario,Scarborough,1.85914E+12,order,New,,,FALSE,1,3.09777E+12,1.03108E+13,182.99,-54.89,0,128.1,0,16.65,144.75,1
+Canada,British Columbia,Whistler,Clothing,"High-Top Boots ""Don't Fall Off""",XS -  2 Boots Only,2020-11-28,Canada,British Columbia,Whistler,1.94929E+12,order,New,,,FALSE,2,3.09971E+12,1.03174E+13,82.99,-24.9,0,58.09,0,2.9,60.99,1
+Canada,Ontario,Mississauga,,,,2020-11-29,Canada,Ontario,Mississauga,,order,New,,,FALSE,1,3.10139E+12,1.03229E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Dundas,,,,2020-11-29,Canada,Ontario,Dundas,,order,Returning,,,FALSE,1,3.10187E+12,1.03244E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Dundas,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-11-29,Canada,Ontario,Dundas,1.94929E+12,order,Returning,,,FALSE,1,3.10187E+12,1.03244E+13,90.99,-27.29,0,63.7,0,8.28,71.98,1
+Canada,Quebec,LUSKVILLE,,,,2020-11-29,Canada,Quebec,LUSKVILLE,,order,Returning,,,FALSE,1,3.10223E+12,1.03254E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Windsor,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-11-29,Canada,Ontario,Windsor,1.94929E+12,order,New,,,FALSE,1,3.10129E+12,1.03225E+13,90.99,-27.29,0,63.7,0,8.28,71.98,1
+Canada,Saskatchewan,Saskatoon,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-11-29,Canada,Saskatchewan,Saskatoon,1.94929E+12,order,New,,,FALSE,1,3.10249E+12,1.03262E+13,86.99,-26.09,0,60.9,0,3.05,63.95,1
+Canada,Quebec,Vaudreuil-Dorion,,,,2020-11-29,Canada,Quebec,Vaudreuil-Dorion,,order,New,,,FALSE,1,3.10223E+12,1.03254E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Vaudreuil-Dorion,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-11-29,Canada,Quebec,Vaudreuil-Dorion,1.94929E+12,order,New,,,FALSE,1,3.10223E+12,1.03254E+13,95.99,0,0,95.99,0,4.8,100.79,1
+Canada,Quebec,LUSKVILLE,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-11-29,Canada,Quebec,LUSKVILLE,1.94929E+12,order,Returning,,,FALSE,1,3.10223E+12,1.03254E+13,99.99,-29.99,0,70,0,3.5,73.5,1
+Canada,Ontario,Whitby,,,,2020-11-29,Canada,Ontario,Whitby,,order,New,,,FALSE,1,3.10261E+12,1.03266E+13,0,0,0,0,0,0,0,0
+Canada,Saskatchewan,Saskatoon,,,,2020-11-29,Canada,Saskatchewan,Saskatoon,,order,New,,,FALSE,1,3.10249E+12,1.03262E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Windsor,,,,2020-11-29,Canada,Ontario,Windsor,,order,New,,,FALSE,1,3.10129E+12,1.03225E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Mississauga,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-11-29,Canada,Ontario,Mississauga,1.94929E+12,order,New,,,FALSE,1,3.10139E+12,1.03229E+13,90.99,-27.29,0,63.7,0,8.28,71.98,1
+Canada,Ontario,Whitby,Clothing,3 Season Heated Coat,M1,2020-11-29,Canada,Ontario,Whitby,1.85914E+12,order,New,,,FALSE,1,3.10261E+12,1.03266E+13,196.99,-59.09,0,137.9,0,17.93,155.83,1
+Canada,Alberta,Edmonton,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-11-30,Canada,Alberta,Edmonton,1.94929E+12,return,New,,,FALSE,1,3.05059E+12,1.03414E+13,0,0,-86.99,-86.99,0,-4.35,-91.34,0
+Canada,Quebec,Vaudreuil-Dorion,,,,2020-11-30,Canada,Quebec,Vaudreuil-Dorion,,return,New,,,FALSE,1,3.07826E+12,1.03413E+13,0,0,-5.15,-5.15,0,0,-5.15,0
+Canada,Alberta,Calgary,,,,2020-11-30,Canada,Alberta,Calgary,,order,New,,,FALSE,1,3.10516E+12,1.03348E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Ottawa,,,,2020-11-30,Canada,Ontario,Ottawa,,order,New,,,FALSE,1,3.10615E+12,1.03383E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Toronto,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-11-30,Canada,Ontario,Toronto,1.94929E+12,order,New,,,FALSE,1,3.10633E+12,1.03389E+13,86.99,-26.09,0,60.9,0,7.92,68.82,1
+Canada,British Columbia,RICHMOND,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-11-30,Canada,British Columbia,RICHMOND,1.94929E+12,order,New,,,FALSE,1,3.10375E+12,1.03304E+13,86.99,-26.09,0,60.9,0,3.05,63.95,1
+Canada,Alberta,Calgary,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-11-30,Canada,Alberta,Calgary,1.94929E+12,order,New,,,FALSE,1,3.10516E+12,1.03348E+13,95.99,-28.79,0,67.2,0,3.36,70.56,1
+Canada,Ontario,Vaughan,Clothing,3 Season Heated Coat,L,2020-11-30,Canada,Ontario,Vaughan,1.85914E+12,order,New,,,FALSE,1,3.10748E+12,1.0343E+13,214.99,-64.49,0,150.5,0,19.57,170.07,1
+Canada,Ontario,Brampton,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-11-30,Canada,Ontario,Brampton,1.94929E+12,order,New,,,FALSE,1,3.10651E+12,1.03395E+13,99.99,-29.99,0,70,0,9.1,79.1,1
+Canada,Ontario,Newmarket,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-11-30,Canada,Ontario,Newmarket,1.94929E+12,order,New,,,FALSE,1,3.10679E+12,1.03405E+13,99.99,-29.99,0,70,0,9.1,79.1,1
+Canada,Ontario,Toronto,,,,2020-11-30,Canada,Ontario,Toronto,,order,New,,,FALSE,1,3.10633E+12,1.03389E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Vaughan,,,,2020-11-30,Canada,Ontario,Vaughan,,order,New,,,FALSE,1,3.10748E+12,1.0343E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Newmarket,,,,2020-11-30,Canada,Ontario,Newmarket,,order,New,,,FALSE,1,3.10679E+12,1.03405E+13,0,0,0,0,0,0,0,0
+Canada,British Columbia,RICHMOND,,,,2020-11-30,Canada,British Columbia,RICHMOND,,order,New,,,FALSE,1,3.10375E+12,1.03304E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Pickering,,,,2020-11-30,Canada,Ontario,Pickering,,order,New,,,FALSE,1,3.10542E+12,1.03357E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Pickering,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-11-30,Canada,Ontario,Pickering,1.94929E+12,order,New,,,FALSE,1,3.10542E+12,1.03357E+13,90.99,-27.29,0,63.7,0,8.28,71.98,1
+Canada,Ontario,Oakville,,Medical Snuggie,XS,2020-11-30,Canada,Ontario,Oakville,4.47367E+12,order,New,,,FALSE,2,3.10694E+12,1.0341E+13,23.99,-7.2,0,16.79,0,2.18,18.97,1
+Canada,Quebec,Westmount,,,,2020-11-30,Canada,Quebec,Westmount,,order,New,,,FALSE,1,3.10432E+12,1.03321E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Toronto,,,,2020-11-30,Canada,Ontario,Toronto,,order,New,,,FALSE,1,3.10679E+12,1.03405E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Hamilton,,,,2020-11-30,Canada,Ontario,Hamilton,,order,New,,,FALSE,1,3.10541E+12,1.03357E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Oakville,Clothing,"High-Top Boots ""Don't Fall Off""",XS -  2 Boots Only,2020-11-30,Canada,Ontario,Oakville,1.94929E+12,order,New,,,FALSE,2,3.10694E+12,1.0341E+13,82.99,-24.89,0,58.1,0,7.55,65.65,1
+Canada,Ontario,Ottawa,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-11-30,Canada,Ontario,Ottawa,1.94929E+12,order,New,,,FALSE,1,3.10615E+12,1.03383E+13,90.99,-27.29,0,63.7,0,8.28,71.98,1
+Canada,Ontario,Toronto,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-11-30,Canada,Ontario,Toronto,1.94929E+12,order,New,,,FALSE,1,3.10679E+12,1.03405E+13,90.99,0,0,90.99,0,11.83,102.82,1
+Canada,Alberta,Edmonton,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-11-30,Canada,Alberta,Edmonton,1.94929E+12,return,New,,,FALSE,1,3.05059E+12,1.03414E+13,0,0,-90.99,-90.99,0,-4.55,-95.54,0
+Canada,Quebec,Westmount,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-11-30,Canada,Quebec,Westmount,1.94929E+12,order,New,,,FALSE,1,3.10432E+12,1.03321E+13,90.99,-27.29,0,63.7,0,3.19,66.89,1
+Canada,Ontario,Oakville,,,,2020-11-30,Canada,Ontario,Oakville,,order,New,,,FALSE,2,3.10694E+12,1.0341E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Brampton,,,,2020-11-30,Canada,Ontario,Brampton,,order,New,,,FALSE,1,3.10651E+12,1.03395E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Hamilton,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-11-30,Canada,Ontario,Hamilton,1.94929E+12,order,New,,,FALSE,1,3.10541E+12,1.03357E+13,95.99,-28.79,0,67.2,0,8.74,75.94,1
+Canada,Alberta,Hanna,,,,2020-12-01,Canada,Alberta,Hanna,,order,New,,,FALSE,2,3.10943E+12,1.0349E+13,0,0,0,0,0,0,0,0
+Canada,British Columbia,Clearwater,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-01,Canada,British Columbia,Clearwater,1.94929E+12,order,New,,,FALSE,1,3.1089E+12,1.03474E+13,90.99,-27.3,0,63.69,0,3.18,66.87,1
+Canada,Alberta,Hanna,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-01,Canada,Alberta,Hanna,1.94929E+12,order,New,,,FALSE,2,3.10943E+12,1.0349E+13,99.99,0,0,99.99,0,5,104.99,1
+Canada,British Columbia,Clearwater,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-01,Canada,British Columbia,Clearwater,1.94929E+12,order,New,,,FALSE,1,3.1089E+12,1.03474E+13,99.99,-29.99,0,70,0,3.5,73.5,1
+Canada,Ontario,Coldwater,,,,2020-12-01,Canada,Ontario,Coldwater,,order,New,,,FALSE,1,3.10884E+12,1.03472E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Oakville,,,,2020-12-01,Canada,Ontario,Oakville,,order,New,,,FALSE,1,3.10881E+12,1.03471E+13,0,0,0,0,0,0,0,0
+Canada,Alberta,Hanna,,Hoodie,L,2020-12-01,Canada,Alberta,Hanna,4.46952E+12,order,New,,,FALSE,2,3.10943E+12,1.0349E+13,69.99,0,0,69.99,0,3.5,73.49,1
+Canada,Ontario,Mississauga,,Clinic Order Medical Snuggie,XS,2020-12-01,Canada,Ontario,Mississauga,4.6145E+12,order,Returning,,,FALSE,1,3.10882E+12,1.03472E+13,47.96,0,0,47.96,0,6.23,54.19,4
+Canada,Ontario,Mississauga,,Clinic Order Medical Snuggie,XL,2020-12-01,Canada,Ontario,Mississauga,4.6145E+12,order,Returning,,,FALSE,1,3.10882E+12,1.03472E+13,22.6,0,0,22.6,0,2.94,25.54,1
+Canada,Ontario,Mississauga,,Clinic Order Medical Snuggie,M1,2020-12-01,Canada,Ontario,Mississauga,4.6145E+12,order,Returning,,,FALSE,1,3.10882E+12,1.03472E+13,31.98,0,0,31.98,0,4.16,36.14,2
+Canada,British Columbia,Clearwater,,,,2020-12-01,Canada,British Columbia,Clearwater,,order,New,,,FALSE,1,3.1089E+12,1.03474E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Coldwater,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-01,Canada,Ontario,Coldwater,1.94929E+12,order,New,,,FALSE,1,3.10884E+12,1.03472E+13,99.99,0,0,99.99,0,13,112.99,1
+Canada,Ontario,Mississauga,,Clinic Order Medical Snuggie,S,2020-12-01,Canada,Ontario,Mississauga,4.6145E+12,order,Returning,,,FALSE,1,3.10882E+12,1.03472E+13,40.95,0,0,40.95,0,5.32,46.27,3
+Canada,Ontario,Oakville,Clothing,3 Season Heated Coat,S,2020-12-01,Canada,Ontario,Oakville,1.85914E+12,order,New,,,FALSE,1,3.10881E+12,1.03471E+13,182.99,-54.89,0,128.1,0,16.65,144.75,1
+Canada,Ontario,Mississauga,,,,2020-12-01,Canada,Ontario,Mississauga,,order,Returning,,,FALSE,1,3.10882E+12,1.03472E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Toronto,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-02,Canada,Ontario,Toronto,1.94929E+12,order,New,,,FALSE,1,3.11033E+12,1.03517E+13,95.99,0,0,95.99,0,12.48,108.47,1
+Canada,Ontario,Toronto,,,,2020-12-02,Canada,Ontario,Toronto,,order,New,,,FALSE,1,3.11033E+12,1.03517E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Burlington,Clothing,"High-Top Boots ""Don't Fall Off""",XS -  2 Boots Only,2020-12-02,Canada,Ontario,Burlington,1.94929E+12,order,New,,,FALSE,1,3.11035E+12,1.03518E+13,82.99,0,0,82.99,0,10.79,93.78,1
+Canada,Ontario,Burlington,,,,2020-12-02,Canada,Ontario,Burlington,,order,New,,,FALSE,1,3.11035E+12,1.03518E+13,0,0,0,0,0,0,0,0
+Canada,New Brunswick,St-Basile,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-03,Canada,New Brunswick,St-Basile,1.94929E+12,order,New,,,FALSE,1,3.11211E+12,1.03569E+13,95.99,0,0,95.99,0,14.4,110.39,1
+Canada,Ontario,Milton,Clothing,3 Season Heated Coat,XS,2020-12-03,Canada,British Columbia,Whistler,1.85914E+12,order,Returning,,,FALSE,1,3.11324E+12,1.03603E+13,175.99,-52.79,0,123.2,0,6.16,129.36,1
+Canada,British Columbia,Prince George,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-12-03,Canada,British Columbia,Prince George,1.94929E+12,order,New,,,FALSE,2,3.11348E+12,1.03611E+13,86.99,0,0,86.99,0,4.35,91.34,1
+Canada,Alberta,Calgary,Clothing,"High-Top Boots ""Don't Fall Off""",XS -  2 Boots Only,2020-12-03,Canada,Alberta,Calgary,1.94929E+12,order,New,,,FALSE,1,3.11245E+12,1.03579E+13,82.99,0,0,82.99,0,4.15,87.14,1
+Canada,Alberta,Calgary,,,,2020-12-03,Canada,Alberta,Calgary,,order,New,,,FALSE,1,3.11245E+12,1.03579E+13,0,0,0,0,0,0,0,0
+Canada,New Brunswick,St-Basile,,,,2020-12-03,Canada,New Brunswick,St-Basile,,order,New,,,FALSE,1,3.11211E+12,1.03569E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Toronto,,,,2020-12-03,Canada,Ontario,Toronto,,order,New,,,FALSE,1,3.11215E+12,1.03571E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Georgetown,,,,2020-12-03,Canada,Ontario,Georgetown,,order,New,,,FALSE,1,3.11338E+12,1.03607E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Milton,,,,2020-12-03,Canada,British Columbia,Whistler,,order,Returning,,,FALSE,1,3.11324E+12,1.03603E+13,0,0,0,0,0,0,0,0
+Canada,British Columbia,Prince George,Clothing,3 Season Heated Coat,M1,2020-12-03,Canada,British Columbia,Prince George,1.85914E+12,order,New,,,FALSE,2,3.11348E+12,1.03611E+13,196.99,0,0,196.99,0,9.85,206.84,1
+Canada,British Columbia,Prince George,,,,2020-12-03,Canada,British Columbia,Prince George,,order,New,,,FALSE,2,3.11348E+12,1.03611E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Toronto,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-12-03,Canada,Ontario,Toronto,1.94929E+12,order,New,,,FALSE,1,3.11215E+12,1.03571E+13,86.99,0,0,86.99,0,11.31,98.3,1
+Canada,Ontario,Georgetown,Clothing,3 Season Heated Coat,M1,2020-12-03,Canada,Ontario,Georgetown,1.85914E+12,order,New,,,FALSE,1,3.11338E+12,1.03607E+13,196.99,-59.09,0,137.9,0,17.93,155.83,1
+Canada,Ontario,Belleville,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-04,Canada,Ontario,Belleville,1.94929E+12,order,New,,,FALSE,1,3.11452E+12,1.0364E+13,95.99,0,0,95.99,0,12.48,108.47,1
+Canada,Ontario,Belleville,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-04,Canada,Ontario,Belleville,1.94929E+12,order,New,,,FALSE,1,3.11452E+12,1.0364E+13,99.99,0,0,99.99,0,13,112.99,1
+Canada,Ontario,Belleville,,,,2020-12-04,Canada,Ontario,Belleville,,order,New,,,FALSE,1,3.11452E+12,1.0364E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,London,,,,2020-12-05,Canada,Ontario,London,,order,New,,,FALSE,1,3.11675E+12,1.03702E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Georgetown,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-05,Canada,Ontario,Georgetown,1.94929E+12,order,New,,,FALSE,1,3.11599E+12,1.03681E+13,90.99,0,0,90.99,0,11.83,102.82,1
+Canada,Ontario,London,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-05,Canada,Ontario,London,1.94929E+12,order,New,,,FALSE,1,3.11675E+12,1.03702E+13,90.99,0,0,90.99,0,11.83,102.82,1
+Canada,Ontario,Georgetown,,,,2020-12-05,Canada,Ontario,Georgetown,,order,New,,,FALSE,1,3.11599E+12,1.03681E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Toronto,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-12-05,Canada,Ontario,Toronto,1.94929E+12,return,New,,,FALSE,1,3.08198E+12,1.03713E+13,0,0,-173.98,-173.98,0,-22.62,-196.6,0
+Canada,Ontario,Mississauga,,,,2020-12-07,Canada,Ontario,Mississauga,,order,New,,,FALSE,1,3.11932E+12,1.03774E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Mississauga,Clothing,3 Season Heated Coat,S,2020-12-07,Canada,Ontario,Mississauga,1.85914E+12,order,New,,,FALSE,1,3.11932E+12,1.03774E+13,182.99,0,0,182.99,0,23.79,206.78,1
+United States,Michigan,Rochester,Clothing,"High-Top Boots ""Don't Fall Off""",XS -  2 Boots Only,2020-12-08,United States,Michigan,Rochester,1.94929E+12,order,New,,,FALSE,2,3.12167E+12,1.03848E+13,82.99,0,0,82.99,0,0,82.99,1
+United States,New Jersey,Pompton Plains,,,,2020-12-08,United States,New Jersey,West Orange,,order,Returning,,,FALSE,0,3.12411E+12,1.03915E+13,0,0,0,0,19.99,0,19.99,0
+Canada,Alberta,Calgary,,,,2020-12-08,Canada,Alberta,Calgary,,order,New,,,FALSE,1,3.12334E+12,1.03895E+13,0,0,0,0,0,0,0,0
+United States,Michigan,Rochester,,,,2020-12-08,United States,Michigan,Rochester,,order,New,,,FALSE,2,3.12167E+12,1.03848E+13,0,0,0,0,19.99,0,19.99,0
+Canada,Alberta,Calgary,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-08,Canada,Alberta,Calgary,1.94929E+12,order,New,,,FALSE,1,3.12334E+12,1.03895E+13,99.99,0,0,99.99,0,5,104.99,1
+United States,Michigan,Rochester,Clothing,3 Season Heated Coat,XS,2020-12-08,United States,Michigan,Rochester,1.85914E+12,order,New,,,FALSE,2,3.12167E+12,1.03848E+13,175.99,0,0,175.99,0,0,175.99,1
+Canada,Ontario,Etobicoke,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-08,Canada,Ontario,Etobicoke,1.94929E+12,return,New,,,FALSE,1,2.50406E+12,1.03906E+13,0,0,-99.99,-99.99,0,-13,-112.99,0
+United States,New Jersey,Pompton Plains,,,,2020-12-08,United States,New Jersey,West Orange,0,order,Returning,,,FALSE,0,3.12411E+12,1.03915E+13,163.42,0,0,163.42,0,0,163.42,1
+Canada,Ontario,Peterborough,,,,2020-12-09,Canada,Ontario,Peterborough,,order,New,,,FALSE,1,3.12492E+12,1.03939E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Peterborough,Clothing,DOGORA™ Clinic Starter Kit,Starter Kit,2020-12-09,Canada,Ontario,Peterborough,1.95713E+12,order,New,,,FALSE,1,3.12492E+12,1.03939E+13,150,0,0,150,0,19.5,169.5,1
+Canada,Ontario,Barrie,,,,2020-12-10,Canada,Ontario,Barrie,,order,New,,,FALSE,1,3.12753E+12,1.04016E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Barrie,,Clinic Order Medical Snuggie,XS,2020-12-10,Canada,Ontario,Barrie,4.6145E+12,order,New,,,FALSE,1,3.12753E+12,1.04016E+13,23.98,0,0,23.98,0,3.12,27.1,2
+Canada,Ontario,Barrie,,Clinic Order Medical Snuggie,XL,2020-12-10,Canada,Ontario,Barrie,4.6145E+12,order,New,,,FALSE,1,3.12753E+12,1.04016E+13,67.8,0,0,67.8,0,8.81,76.61,3
+Canada,Ontario,Barrie,,Clinic Order Medical Snuggie,L,2020-12-10,Canada,Ontario,Barrie,4.6145E+12,order,New,,,FALSE,1,3.12753E+12,1.04016E+13,41.3,0,0,41.3,0,5.37,46.67,2
+Canada,Ontario,Barrie,,Clinic Order Medical Snuggie,S,2020-12-10,Canada,Ontario,Barrie,4.6145E+12,order,New,,,FALSE,1,3.12753E+12,1.04016E+13,40.95,0,0,40.95,0,5.32,46.27,3
+United States,Illinois,Chicago,,Hoodie,XL,2020-12-11,United States,Illinois,Chicago,4.46952E+12,order,New,,,FALSE,2,3.13025E+12,1.04098E+13,74.99,0,0,74.99,0,0,74.99,1
+Canada,Quebec,Boisbriand,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-12-11,Canada,Quebec,Boisbriand,1.94929E+12,return,Returning,,,FALSE,1,3.07935E+12,1.04098E+13,0,0,-60.9,-60.9,0,-3.05,-63.95,0
+United States,Illinois,Chicago,,Trench Coat,XL,2020-12-11,United States,Illinois,Chicago,4.46952E+12,order,New,,,FALSE,2,3.13025E+12,1.04098E+13,79.99,0,0,79.99,0,0,79.99,1
+Canada,Ontario,Mississauga,,,,2020-12-11,Canada,Ontario,Mississauga,,return,New,,,FALSE,1,3.11932E+12,1.041E+13,0,0,-7.9,-7.9,0,0,-7.9,0
+United States,Illinois,Chicago,,,,2020-12-11,United States,Illinois,Chicago,,order,New,,,FALSE,2,3.13025E+12,1.04098E+13,0,0,0,0,19.99,0,19.99,0
+United States,California,San Francisco,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-12,United States,California,San Francisco,1.94929E+12,order,Returning,,,FALSE,1,3.13239E+12,1.04159E+13,99.99,0,0,99.99,0,0,99.99,1
+Canada,Quebec,Saint-Denis-de-Brompton,,,,2020-12-12,Canada,Quebec,Saint-Denis-de-Brompton,,order,New,,,FALSE,1,3.13166E+12,1.04137E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Saint-Denis-de-Brompton,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-12-12,Canada,Quebec,Saint-Denis-de-Brompton,1.94929E+12,order,New,,,FALSE,1,3.13166E+12,1.04137E+13,86.99,0,0,86.99,0,4.35,91.34,1
+United States,California,San Francisco,,,,2020-12-12,United States,California,San Francisco,,order,New,,,FALSE,1,3.13238E+12,1.04159E+13,0,0,0,0,19.99,0,19.99,0
+United States,California,San Francisco,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-12,United States,California,San Francisco,1.94929E+12,order,New,,,FALSE,1,3.13238E+12,1.04159E+13,90.99,0,0,90.99,0,0,90.99,1
+United States,California,San Francisco,,,,2020-12-12,United States,California,San Francisco,,order,Returning,,,FALSE,1,3.13239E+12,1.04159E+13,0,0,0,0,19.99,0,19.99,0
+Canada,Quebec,Ile-bizard,,,,2020-12-13,Canada,Quebec,Ile-bizard,,order,New,,,FALSE,1,3.13431E+12,1.04211E+13,0,0,0,0,0,0,0,0
+Canada,Alberta,Lake Louise,Clothing,"High-Top Boots ""Don't Fall Off""",XS -  2 Boots Only,2020-12-13,Canada,Alberta,Lake Louise,1.94929E+12,return,New,,,FALSE,1,2.49498E+12,1.04204E+13,0,0,-82.99,-82.99,0,-4.15,-87.14,0
+Canada,Ontario,London,,,,2020-12-13,Canada,Ontario,London,,order,New,,,FALSE,1,3.13423E+12,1.04209E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,London,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-13,Canada,Ontario,London,1.94929E+12,order,New,,,FALSE,1,3.13423E+12,1.04209E+13,99.99,0,0,99.99,0,13,112.99,1
+Canada,Ontario,London,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-13,Canada,Ontario,London,1.94929E+12,order,New,,,FALSE,1,3.13423E+12,1.04209E+13,95.99,0,0,95.99,0,12.48,108.47,1
+Canada,Quebec,Ile-bizard,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-13,Canada,Quebec,Ile-bizard,1.94929E+12,order,New,,,FALSE,1,3.13431E+12,1.04211E+13,90.99,0,0,90.99,0,4.55,95.54,1
+Canada,Ontario,Hamilton,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-12-13,Canada,Ontario,Hamilton,1.94929E+12,return,New,,,FALSE,1,3.0796E+12,1.04205E+13,0,0,-60.9,-60.9,0,-7.92,-68.82,0
+Canada,Alberta,Edmonton,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-14,Canada,Ontario,Kashabowie,1.94929E+12,order,New,,,FALSE,1,3.13796E+12,1.04291E+13,99.99,0,0,99.99,0,13,112.99,1
+Canada,Alberta,Edmonton,,,,2020-12-14,Canada,Ontario,Kashabowie,,order,New,,,FALSE,1,3.13796E+12,1.04291E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Lac-Kenogami,,,,2020-12-14,Canada,Quebec,Lac-Kenogami,,order,New,,,FALSE,1,3.13603E+12,1.0424E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Lac-Kenogami,,Medical Snuggie,L,2020-12-14,Canada,Quebec,Lac-Kenogami,4.47367E+12,order,New,,,FALSE,1,3.13603E+12,1.0424E+13,41.24,0,0,41.24,0,2.06,43.3,1
+Canada,Quebec,Lac-Kenogami,,Medical Snuggie,M2,2020-12-14,Canada,Quebec,Lac-Kenogami,4.47367E+12,order,New,,,FALSE,1,3.13603E+12,1.0424E+13,37.19,0,0,37.19,0,1.86,39.05,1
+Canada,Ontario,Phelpston,,,,2020-12-15,Canada,Ontario,Phelpston,,order,New,,,FALSE,1,3.13957E+12,1.04338E+13,0,0,0,0,0,0,0,0
+Canada,Alberta,Ponoka,,,,2020-12-15,Canada,Alberta,Ponoka,,order,New,,,FALSE,1,3.13936E+12,1.04331E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Phelpston,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-15,Canada,Ontario,Phelpston,1.94929E+12,order,New,,,FALSE,1,3.13957E+12,1.04338E+13,199.98,0,0,199.98,0,26,225.98,2
+Canada,Alberta,Ponoka,Clothing,"High-Top Boots ""Don't Fall Off""",XS -  2 Boots Only,2020-12-15,Canada,Alberta,Ponoka,1.94929E+12,order,New,,,FALSE,1,3.13936E+12,1.04331E+13,82.99,0,0,82.99,0,4.15,87.14,1
+United States,California,Vallejo,,Trench Coat,M2,2020-12-15,United States,New York,Brooklyn,4.46952E+12,order,New,,,FALSE,2,3.13959E+12,1.04338E+13,73.99,0,0,73.99,0,0,73.99,1
+Canada,British Columbia,Oliver,,Medical Snuggie,M1,2020-12-15,Canada,British Columbia,Oliver,4.47367E+12,order,New,,,FALSE,1,3.1394E+12,1.04332E+13,31.99,0,0,31.99,0,1.6,33.59,1
+United States,California,Vallejo,,,,2020-12-15,United States,New York,Brooklyn,,order,New,,,FALSE,2,3.13959E+12,1.04338E+13,0,0,0,0,19.99,0,19.99,0
+Canada,British Columbia,Oliver,,,,2020-12-15,Canada,British Columbia,Oliver,,order,New,,,FALSE,1,3.1394E+12,1.04332E+13,0,0,0,0,5.99,0.3,6.29,0
+United States,California,Vallejo,,Hoodie,M2,2020-12-15,United States,New York,Brooklyn,4.46952E+12,order,New,,,FALSE,2,3.13959E+12,1.04338E+13,64.99,0,0,64.99,0,0,64.99,1
+Canada,Alberta,edmonton,Clothing,3 Season Heated Coat,XL,2020-12-16,Canada,Alberta,edmonton,1.85914E+12,order,New,,,FALSE,2,3.14206E+12,1.04405E+13,225.49,0,0,225.49,0,11.27,236.76,1
+Canada,Ontario,Mississauga,,Clinic Order Medical Snuggie,S,2020-12-16,Canada,Ontario,Mississauga,4.6145E+12,order,Returning,,,FALSE,1,3.14106E+12,1.04374E+13,40.95,0,0,40.95,0,5.32,46.27,3
+Canada,Quebec,Laval,,,,2020-12-16,Canada,Quebec,Laval,,order,New,,,FALSE,1,3.14093E+12,1.0437E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Cambridge,,Clinic Order Medical Snuggie,S,2020-12-16,Canada,Ontario,Cambridge,4.6145E+12,order,Returning,,,FALSE,1,3.14152E+12,1.04388E+13,13.65,0,0,13.65,0,1.77,15.42,1
+Canada,Manitoba,Winnipeg,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-16,Canada,Manitoba,Winnipeg,1.94929E+12,order,New,,,FALSE,1,3.14173E+12,1.04394E+13,99.99,0,0,99.99,0,5,104.99,1
+Canada,Ontario,Cambridge,,Clinic Order Medical Snuggie,XS,2020-12-16,Canada,Ontario,Cambridge,4.6145E+12,order,Returning,,,FALSE,1,3.14152E+12,1.04388E+13,11.99,0,0,11.99,0,1.56,13.55,1
+Canada,Manitoba,Winnipeg,,,,2020-12-16,Canada,Manitoba,Winnipeg,,order,New,,,FALSE,1,3.14173E+12,1.04394E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Cambridge,,,,2020-12-16,Canada,Ontario,Cambridge,,order,Returning,,,FALSE,1,3.14152E+12,1.04388E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Laval,Clothing,"High-Top Boots ""Don't Fall Off""",XS -  2 Boots Only,2020-12-16,Canada,Quebec,Laval,1.94929E+12,order,New,,,FALSE,1,3.14093E+12,1.0437E+13,82.99,0,0,82.99,0,4.15,87.14,1
+Canada,Ontario,Mississauga,,,,2020-12-16,Canada,Ontario,Mississauga,,order,Returning,,,FALSE,1,3.14106E+12,1.04374E+13,0,0,0,0,0,0,0,0
+Canada,British Columbia,Victoria,Clothing,3 Season Heated Coat,M1,2020-12-16,Canada,British Columbia,Victoria,1.85914E+12,order,New,,,FALSE,2,3.14161E+12,1.04391E+13,196.99,0,0,196.99,0,9.85,206.84,1
+Canada,Manitoba,Winnipeg,,,,2020-12-16,Canada,Manitoba,Winnipeg,,order,New,,,FALSE,1,3.14169E+12,1.04393E+13,0,0,0,0,0,0,0,0
+Canada,Alberta,edmonton,,,,2020-12-16,Canada,Alberta,edmonton,,order,New,,,FALSE,2,3.14206E+12,1.04405E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Mississauga,,Clinic Order Medical Snuggie,M1,2020-12-16,Canada,Ontario,Mississauga,4.6145E+12,order,Returning,,,FALSE,1,3.14106E+12,1.04374E+13,15.99,0,0,15.99,0,2.08,18.07,1
+Canada,Ontario,Cambridge,,Clinic Order Medical Snuggie,M1,2020-12-16,Canada,Ontario,Cambridge,4.6145E+12,order,Returning,,,FALSE,1,3.14152E+12,1.04388E+13,63.96,0,0,63.96,0,8.31,72.27,4
+Canada,Ontario,Cambridge,,Clinic Order Medical Snuggie,M2,2020-12-16,Canada,Ontario,Cambridge,4.6145E+12,order,Returning,,,FALSE,1,3.14152E+12,1.04388E+13,74.36,0,0,74.36,0,9.67,84.03,4
+Canada,British Columbia,Victoria,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-16,Canada,British Columbia,Victoria,1.94929E+12,order,New,,,FALSE,2,3.14161E+12,1.04391E+13,90.99,0,0,90.99,0,4.55,95.54,1
+Canada,Ontario,Mississauga,,Clinic Order Medical Snuggie,XS,2020-12-16,Canada,Ontario,Mississauga,4.6145E+12,order,Returning,,,FALSE,1,3.14106E+12,1.04374E+13,23.98,0,0,23.98,0,3.12,27.1,2
+Canada,Manitoba,Winnipeg,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-16,Canada,Manitoba,Winnipeg,1.94929E+12,order,New,,,FALSE,1,3.14169E+12,1.04393E+13,90.99,-18.19,0,72.8,0,3.64,76.44,1
+Canada,Alberta,edmonton,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-16,Canada,Alberta,edmonton,1.94929E+12,order,New,,,FALSE,2,3.14206E+12,1.04405E+13,99.99,0,0,99.99,0,5,104.99,1
+Canada,Quebec,Montreal,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-16,Canada,Quebec,Montreal,1.94929E+12,order,New,,,FALSE,1,3.14162E+12,1.04391E+13,99.99,0,0,99.99,0,5,104.99,1
+Canada,Quebec,Montreal,,,,2020-12-16,Canada,Quebec,Montreal,,order,New,,,FALSE,1,3.14162E+12,1.04391E+13,0,0,0,0,0,0,0,0
+Canada,British Columbia,Victoria,,,,2020-12-16,Canada,British Columbia,Victoria,,order,New,,,FALSE,2,3.14161E+12,1.04391E+13,0,0,0,0,0,0,0,0
+Canada,Saskatchewan,Prince Albert,Clothing,3 Season Heated Coat,M1,2020-12-17,Canada,Saskatchewan,Prince Albert,1.85914E+12,order,New,,,FALSE,3,3.1433E+12,1.0444E+13,196.99,0,0,196.99,0,9.85,206.84,1
+Canada,Saskatchewan,Prince Albert,,,,2020-12-17,Canada,Saskatchewan,Prince Albert,,order,New,,,FALSE,3,3.1433E+12,1.0444E+13,0,0,0,0,0,0,0,0
+Canada,Saskatchewan,Prince Albert,,Hoodie,M1,2020-12-17,Canada,Saskatchewan,Prince Albert,4.46952E+12,order,New,,,FALSE,3,3.1433E+12,1.0444E+13,54.99,0,0,54.99,0,2.75,57.74,1
+Canada,Ontario,Ottawa,,,,2020-12-17,Canada,Ontario,Ottawa,,return,New,,,FALSE,1,3.08201E+12,1.04431E+13,0,0,43.5,43.5,0,0,43.5,0
+Canada,Saskatchewan,Prince Albert,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-12-17,Canada,Saskatchewan,Prince Albert,1.94929E+12,order,New,,,FALSE,3,3.1433E+12,1.0444E+13,86.99,0,0,86.99,0,4.35,91.34,1
+Canada,Ontario,Ottawa,,Hoodie,M2,2020-12-17,Canada,Ontario,Ottawa,4.46952E+12,return,New,,,FALSE,1,3.08201E+12,1.04431E+13,0,0,-45.49,-45.49,0,-5.91,-51.4,0
+Canada,Ontario,Milton,Clothing,"High-Top Boots ""Don't Fall Off""",XS -  2 Boots Only,2020-12-17,Canada,British Columbia,Whistler,1.94929E+12,return,New,,,FALSE,2,3.07249E+12,1.04432E+13,0,0,-82.99,-82.99,0,-4.15,-87.14,0
+Canada,Ontario,Milton,Clothing,3 Season Heated Coat,S,2020-12-17,Canada,British Columbia,Whistler,1.85914E+12,return,New,,,FALSE,2,3.07249E+12,1.04432E+13,0,0,-182.99,-182.99,0,-9.15,-192.14,0
+Canada,British Columbia,Trail,,,,2020-12-17,Canada,British Columbia,Trail,,return,New,,,FALSE,1,3.08905E+12,1.04432E+13,0,0,-3.16,-3.16,0,0,-3.16,0
+Canada,Ontario,Milton,,,,2020-12-17,Canada,British Columbia,Whistler,,return,New,,,FALSE,2,3.07249E+12,1.04432E+13,0,0,83.75,83.75,0,0,83.75,0
+Canada,New Brunswick,St-Basile,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-18,Canada,New Brunswick,St-Basile,1.94929E+12,order,Returning,,,FALSE,1,3.14477E+12,1.04484E+13,90.99,0,0,90.99,0,13.65,104.64,1
+Canada,New Brunswick,St-Basile,,,,2020-12-18,Canada,New Brunswick,St-Basile,,order,Returning,,,FALSE,1,3.14477E+12,1.04484E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,St. Catharines,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-12-18,Canada,Ontario,St. Catharines,1.94929E+12,order,New,,,FALSE,1,3.1443E+12,1.0447E+13,86.99,0,0,86.99,0,11.31,98.3,1
+Canada,Alberta,Calgary,,,,2020-12-18,Canada,Ontario,Toronto,,order,New,,,FALSE,1,3.14445E+12,1.04475E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,St. Catharines,,,,2020-12-18,Canada,Ontario,St. Catharines,,order,New,,,FALSE,1,3.1443E+12,1.0447E+13,0,0,0,0,0,0,0,0
+Canada,Alberta,Calgary,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-12-18,Canada,Ontario,Toronto,1.94929E+12,order,New,,,FALSE,1,3.14445E+12,1.04475E+13,173.98,0,0,173.98,0,22.62,196.6,2
+Canada,British Columbia,Vernon,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-19,Canada,British Columbia,Vernon,1.94929E+12,order,New,,,FALSE,1,3.14689E+12,1.04547E+13,99.99,0,0,99.99,0,5,104.99,1
+Canada,British Columbia,Vernon,,,,2020-12-19,Canada,British Columbia,Vernon,,order,New,,,FALSE,1,3.14689E+12,1.04547E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Vaudreuil-Dorion,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-19,Canada,Quebec,Vaudreuil-Dorion,1.94929E+12,order,New,,,FALSE,1,3.1467E+12,1.04542E+13,90.99,0,0,90.99,0,4.55,95.54,1
+Canada,Ontario,Brampton,,,,2020-12-19,Canada,Ontario,Brampton,,order,New,,,FALSE,1,3.14695E+12,1.04549E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Vaudreuil-Dorion,,,,2020-12-19,Canada,Quebec,Vaudreuil-Dorion,,order,New,,,FALSE,1,3.1467E+12,1.04542E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Brampton,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-19,Canada,Ontario,Brampton,1.94929E+12,order,New,,,FALSE,1,3.14695E+12,1.04549E+13,95.99,0,0,95.99,0,12.48,108.47,1
+Canada,Ontario,Toronto,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-20,Canada,Ontario,Scarborough,1.94929E+12,order,New,,,FALSE,1,3.14847E+12,1.04593E+13,99.99,0,0,99.99,0,13,112.99,1
+United States,New York,Blauvelt,,,,2020-12-20,United States,New York,Blauvelt,,order,New,,,FALSE,1,3.14866E+12,1.04599E+13,0,0,0,0,19.99,0,19.99,0
+Canada,Ontario,McDonalds Corners,,Hoodie,M2,2020-12-20,Canada,Ontario,McDonalds Corners,4.46952E+12,order,New,,,FALSE,2,3.14837E+12,1.0459E+13,64.99,0,0,64.99,0,8.45,73.44,1
+Canada,Manitoba,Traverse Bay,,,,2020-12-20,Canada,Manitoba,Traverse Bay,,order,New,,,FALSE,1,3.14813E+12,1.04583E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Toronto,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-20,Canada,Ontario,Toronto,1.94929E+12,order,New,,,FALSE,1,3.1485E+12,1.04594E+13,90.99,0,0,90.99,0,11.83,102.82,1
+Canada,Quebec,Quebec,,,,2020-12-20,Canada,Quebec,Quebec,,order,New,,,FALSE,1,3.14812E+12,1.04583E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Alliston,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-20,Canada,Ontario,Alliston,1.94929E+12,order,New,,,FALSE,1,3.14823E+12,1.04586E+13,99.99,0,0,99.99,0,13,112.99,1
+Canada,Ontario,Toronto,,,,2020-12-20,Canada,Ontario,Toronto,,order,New,,,FALSE,1,3.1485E+12,1.04594E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Elora,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-20,Canada,Ontario,Elora,1.94929E+12,order,New,,,FALSE,1,3.14835E+12,1.04589E+13,90.99,0,0,90.99,0,11.83,102.82,1
+Canada,British Columbia,Vancouver,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-12-20,Canada,Quebec,Montréal,1.94929E+12,return,New,,,FALSE,1,3.10004E+12,1.04585E+13,0,0,-60.9,-60.9,0,-3.05,-63.95,0
+Canada,Ontario,McDonalds Corners,Clothing,3 Season Heated Coat,M2,2020-12-20,Canada,Ontario,McDonalds Corners,1.85914E+12,order,New,,,FALSE,2,3.14837E+12,1.0459E+13,205.99,0,0,205.99,0,26.78,232.77,1
+Canada,Manitoba,Traverse Bay,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-20,Canada,Manitoba,Traverse Bay,1.94929E+12,order,New,,,FALSE,1,3.14813E+12,1.04583E+13,90.99,0,0,90.99,0,4.55,95.54,1
+Canada,Ontario,Alliston,,,,2020-12-20,Canada,Ontario,Alliston,,order,New,,,FALSE,1,3.14823E+12,1.04586E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Quebec,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-20,Canada,Quebec,Quebec,1.94929E+12,order,New,,,FALSE,1,3.14812E+12,1.04583E+13,95.99,0,0,95.99,0,4.8,100.79,1
+Canada,Alberta,Calgary,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-12-20,Canada,Alberta,Calgary,1.94929E+12,order,New,,,FALSE,1,3.14824E+12,1.04586E+13,86.99,0,0,86.99,0,4.35,91.34,1
+Canada,Ontario,McDonalds Corners,,,,2020-12-20,Canada,Ontario,McDonalds Corners,,order,New,,,FALSE,2,3.14837E+12,1.0459E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Elora,,,,2020-12-20,Canada,Ontario,Elora,,order,New,,,FALSE,1,3.14835E+12,1.04589E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Toronto,,,,2020-12-20,Canada,Ontario,Scarborough,,order,New,,,FALSE,1,3.14847E+12,1.04593E+13,0,0,0,0,0,0,0,0
+Canada,Alberta,Calgary,,,,2020-12-20,Canada,Alberta,Calgary,,order,New,,,FALSE,1,3.14824E+12,1.04586E+13,0,0,0,0,0,0,0,0
+United States,New York,Blauvelt,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-20,United States,New York,Blauvelt,1.94929E+12,order,New,,,FALSE,1,3.14866E+12,1.04599E+13,99.99,0,0,99.99,0,0,99.99,1
+Canada,British Columbia,RICHMOND,,,,2020-12-21,Canada,British Columbia,RICHMOND,,return,New,,,FALSE,1,3.10375E+12,1.04644E+13,0,0,-2.9,-2.9,0,0,-2.9,0
+Canada,British Columbia,Whistler,,,,2020-12-21,Canada,British Columbia,Whistler,,return,New,,,FALSE,2,3.09971E+12,1.04643E+13,0,0,-5.51,-5.51,0,0,-5.51,0
+Canada,Quebec,Notre-Dame-de-l'Île-Perrot,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-12-21,Canada,Quebec,Notre-Dame-de-l'Île-Perrot,1.94929E+12,order,New,,,FALSE,1,3.14995E+12,1.04638E+13,86.99,0,0,86.99,0,4.35,91.34,1
+Canada,Alberta,Cochrane,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-21,Canada,Alberta,Cochrane,1.94929E+12,order,New,,,FALSE,1,3.14992E+12,1.04637E+13,95.99,-19.19,0,76.8,0,3.84,80.64,1
+Canada,Quebec,Notre-Dame-de-l'Île-Perrot,,,,2020-12-21,Canada,Quebec,Notre-Dame-de-l'Île-Perrot,,order,New,,,FALSE,1,3.14995E+12,1.04638E+13,0,0,0,0,0,0,0,0
+Canada,British Columbia,Whistler,Clothing,"High-Top Boots ""Don't Fall Off""",XS -  2 Boots Only,2020-12-21,Canada,British Columbia,Whistler,1.94929E+12,return,New,,,FALSE,2,3.09971E+12,1.04643E+13,0,0,-58.09,-58.09,0,-2.9,-60.99,0
+Canada,Alberta,Cochrane,,,,2020-12-21,Canada,Alberta,Cochrane,,order,New,,,FALSE,1,3.14992E+12,1.04637E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Barrie,Clothing,"High-Top Boots ""Don't Fall Off""",XS -  2 Boots Only,2020-12-21,Canada,Ontario,Barrie,1.94929E+12,order,New,,,FALSE,1,3.14909E+12,1.04611E+13,82.99,0,0,82.99,0,10.79,93.78,1
+Canada,Ontario,Barrie,,,,2020-12-21,Canada,Ontario,Barrie,,order,New,,,FALSE,1,3.14909E+12,1.04611E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Prévost,,,,2020-12-22,Canada,Quebec,Prévost,,order,New,,,FALSE,1,3.15111E+12,1.04673E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Picton,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-12-22,Canada,Ontario,Picton,1.94929E+12,order,New,,,FALSE,1,3.15147E+12,1.04684E+13,86.99,0,0,86.99,0,11.31,98.3,1
+Canada,Ontario,Picton,,,,2020-12-22,Canada,Ontario,Picton,,order,New,,,FALSE,1,3.15147E+12,1.04684E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Picton,Clothing,"High-Top Boots ""Don't Fall Off""",XS -  2 Boots Only,2020-12-22,Canada,Ontario,Picton,1.94929E+12,order,New,,,FALSE,1,3.15147E+12,1.04684E+13,82.99,0,0,82.99,0,10.79,93.78,1
+Canada,Quebec,Prévost,Clothing,"High-Top Boots ""Don't Fall Off""",XS -  2 Boots Only,2020-12-22,Canada,Quebec,Prévost,1.94929E+12,order,New,,,FALSE,1,3.15111E+12,1.04673E+13,82.99,0,0,82.99,0,4.15,87.14,1
+United States,Colorado,Centennial,Clothing,3 Season Heated Coat,S,2020-12-23,United States,Colorado,Centennial,1.85914E+12,order,New,,,FALSE,1,3.15217E+12,1.04705E+13,182.99,0,0,182.99,0,0,182.99,1
+Canada,Alberta,Calgary,,,,2020-12-23,Canada,Alberta,Calgary,,order,New,,,FALSE,1,3.15264E+12,1.0472E+13,0,0,0,0,0,0,0,0
+Canada,Manitoba,Winnipeg,Clothing,3 Season Heated Coat,S,2020-12-23,Canada,Manitoba,Winnipeg,1.85914E+12,order,New,,,FALSE,2,3.15218E+12,1.04705E+13,182.99,0,0,182.99,0,9.15,192.14,1
+United States,Colorado,Littleton,,,,2020-12-23,United States,Colorado,Littleton,,return,New,,,FALSE,1,3.08497E+12,1.04722E+13,0,0,-2.8,-2.8,0,0,-2.8,0
+Canada,Alberta,Calgary,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-23,Canada,Alberta,Calgary,1.94929E+12,order,New,,,FALSE,1,3.15264E+12,1.0472E+13,90.99,0,0,90.99,0,4.55,95.54,1
+United States,Colorado,Centennial,,,,2020-12-23,United States,Colorado,Centennial,,order,New,,,FALSE,1,3.15217E+12,1.04705E+13,0,0,0,0,19.99,0,19.99,0
+Canada,Manitoba,Winnipeg,,,,2020-12-23,Canada,Manitoba,Winnipeg,,order,New,,,FALSE,2,3.15218E+12,1.04705E+13,0,0,0,0,0,0,0,0
+Canada,Manitoba,Winnipeg,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-12-23,Canada,Manitoba,Winnipeg,1.94929E+12,order,New,,,FALSE,2,3.15218E+12,1.04705E+13,173.98,0,0,173.98,0,8.7,182.68,2
+Canada,Quebec,Quebec,,,,2020-12-24,Canada,Quebec,Quebec,,order,Returning,,,FALSE,1,3.15379E+12,1.0475E+13,0,0,0,0,0,0,0,0
+Canada,Manitoba,Winnipeg,,,,2020-12-24,Canada,Manitoba,Winnipeg,,order,New,,,FALSE,1,3.15376E+12,1.04749E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Quebec,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-24,Canada,Quebec,Quebec,1.94929E+12,order,Returning,,,FALSE,1,3.15379E+12,1.0475E+13,90.99,0,0,90.99,0,4.55,95.54,1
+Canada,Manitoba,Winnipeg,,,,2020-12-24,Canada,Manitoba,Winnipeg,,order,New,,,FALSE,1,3.1536E+12,1.04745E+13,0,0,0,0,0,0,0,0
+Canada,Manitoba,Winnipeg,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-24,Canada,Manitoba,Winnipeg,1.94929E+12,order,New,,,FALSE,1,3.15376E+12,1.04749E+13,99.99,0,0,99.99,0,5,104.99,1
+Canada,Manitoba,Winnipeg,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-24,Canada,Manitoba,Winnipeg,1.94929E+12,order,New,,,FALSE,1,3.1536E+12,1.04745E+13,99.99,0,0,99.99,0,5,104.99,1
+Canada,Ontario,Markham,,,,2020-12-25,Canada,Ontario,Markham,,order,New,,,FALSE,1,3.155E+12,1.04781E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Princeton,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-25,Canada,Ontario,Princeton,1.94929E+12,order,New,,,FALSE,1,3.15461E+12,1.04771E+13,99.99,0,0,99.99,0,13,112.99,1
+Canada,Ontario,Markham,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-25,Canada,Ontario,Markham,1.94929E+12,order,New,,,FALSE,1,3.155E+12,1.04781E+13,95.99,0,0,95.99,0,12.48,108.47,1
+Canada,Alberta,Calgary,Clothing,3 Season Heated Coat,M2,2020-12-25,Canada,Alberta,Calgary,1.85914E+12,order,New,,,FALSE,2,3.15458E+12,1.0477E+13,205.99,0,0,205.99,0,10.3,216.29,1
+Canada,Ontario,Princeton,,,,2020-12-25,Canada,Ontario,Princeton,,order,New,,,FALSE,1,3.15461E+12,1.04771E+13,0,0,0,0,0,0,0,0
+Canada,Alberta,Calgary,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-25,Canada,Alberta,Calgary,1.94929E+12,order,New,,,FALSE,2,3.15458E+12,1.0477E+13,95.99,0,0,95.99,0,4.8,100.79,1
+Canada,Alberta,Calgary,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-25,Canada,Alberta,Calgary,1.94929E+12,order,New,,,FALSE,2,3.15458E+12,1.0477E+13,90.99,0,0,90.99,0,4.55,95.54,1
+Canada,Alberta,Calgary,,,,2020-12-25,Canada,Alberta,Calgary,,order,New,,,FALSE,2,3.15458E+12,1.0477E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Whitby,,,,2020-12-26,Canada,Ontario,Whitby,,order,Returning,,,FALSE,1,3.15684E+12,1.04831E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,ST DAVIDS,Clothing,3 Season Heated Coat,S,2020-12-26,Canada,Ontario,ST DAVIDS,1.85914E+12,order,New,,,FALSE,1,3.1564E+12,1.04818E+13,182.99,-36.59,0,146.4,0,19.03,165.43,1
+Canada,Ontario,McDonalds Corners,,,,2020-12-26,Canada,Ontario,McDonalds Corners,,order,Returning,,,FALSE,1,3.15632E+12,1.04816E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Mississauga,,,,2020-12-26,Canada,Ontario,Mississauga,,order,New,,,FALSE,2,3.15638E+12,1.04817E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Mississauga,,Hoodie,M1,2020-12-26,Canada,Ontario,Mississauga,4.46952E+12,order,New,,,FALSE,2,3.15638E+12,1.04817E+13,54.99,-11,0,43.99,0,5.72,49.71,1
+Canada,Ontario,McDonalds Corners,Clothing,3 Season Heated Coat,M1,2020-12-26,Canada,Ontario,McDonalds Corners,1.85914E+12,order,Returning,,,FALSE,1,3.15632E+12,1.04816E+13,196.99,-39.39,0,157.6,0,20.49,178.09,1
+Canada,Ontario,Etobicoke,,,,2020-12-26,Canada,Ontario,Etobicoke,,order,New,,,FALSE,1,3.15662E+12,1.04825E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Oakville,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-26,Canada,Ontario,Oakville,1.94929E+12,order,New,,,FALSE,1,3.1566E+12,1.04824E+13,99.99,0,0,99.99,0,13,112.99,1
+Canada,Ontario,Whitby,Clothing,3 Season Heated Coat,L,2020-12-26,Canada,Ontario,Whitby,1.85914E+12,order,Returning,,,FALSE,1,3.15684E+12,1.04831E+13,214.99,-42.99,0,172,0,22.36,194.36,1
+Canada,Northwest Territories,Yellowknife,,,,2020-12-26,Canada,Northwest Territories,Yellowknife,,order,New,,,FALSE,1,3.15685E+12,1.04831E+13,0,0,0,0,0,0,0,0
+Canada,Northwest Territories,Yellowknife,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-26,Canada,Northwest Territories,Yellowknife,1.94929E+12,order,New,,,FALSE,1,3.15685E+12,1.04831E+13,181.98,0,0,181.98,0,9.1,191.08,2
+Canada,Ontario,Oakville,,,,2020-12-26,Canada,Ontario,Oakville,,order,New,,,FALSE,1,3.1566E+12,1.04824E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Mississauga,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-26,Canada,Ontario,Mississauga,1.94929E+12,order,New,,,FALSE,2,3.15638E+12,1.04817E+13,90.99,-18.19,0,72.8,0,9.46,82.26,1
+Canada,Ontario,Richmond Hill,,,,2020-12-26,Canada,Ontario,Richmond Hill,,order,New,,,FALSE,1,3.15608E+12,1.04809E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Etobicoke,Clothing,"High-Top Boots ""Don't Fall Off""",XS -  2 Boots Only,2020-12-26,Canada,Ontario,Etobicoke,1.94929E+12,order,New,,,FALSE,1,3.15662E+12,1.04825E+13,165.98,-33.19,0,132.79,0,17.26,150.05,2
+Canada,Ontario,ST DAVIDS,,,,2020-12-26,Canada,Ontario,ST DAVIDS,,order,New,,,FALSE,1,3.1564E+12,1.04818E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Richmond Hill,,Trench Coat,XL,2020-12-26,Canada,Ontario,Richmond Hill,4.46952E+12,order,New,,,FALSE,1,3.15608E+12,1.04809E+13,79.99,0,0,79.99,0,10.4,90.39,1
+Canada,Ontario,Mississauga,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-27,Canada,Ontario,Mississauga,1.94929E+12,order,New,,,FALSE,2,3.15804E+12,1.04864E+13,90.99,-18.2,0,72.79,0,9.46,82.25,1
+United States,New York,Niagara Falls,,,,2020-12-27,Canada,Ontario,Thornhill,,order,New,,,FALSE,1,3.15783E+12,1.04858E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Corunna,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-27,Canada,Ontario,Corunna,1.94929E+12,order,New,,,FALSE,1,3.15748E+12,1.04848E+13,90.99,0,0,90.99,0,11.83,102.82,1
+Canada,Ontario,Corunna,,,,2020-12-27,Canada,Ontario,Corunna,,order,New,,,FALSE,1,3.15748E+12,1.04848E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,ottawa,,,,2020-12-27,Canada,Ontario,ottawa,,order,New,,,FALSE,1,3.15768E+12,1.04854E+13,0,0,0,0,0,0,0,0
+Canada,British Columbia,Clearwater,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-27,Canada,British Columbia,Clearwater,1.94929E+12,order,Returning,,,FALSE,1,3.15809E+12,1.04865E+13,95.99,-19.19,0,76.8,0,3.84,80.64,1
+Canada,Ontario,ottawa,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-27,Canada,Ontario,ottawa,1.94929E+12,order,New,,,FALSE,1,3.15768E+12,1.04854E+13,99.99,-19.99,0,80,0,10.4,90.4,1
+Canada,Quebec,Blainville,,,,2020-12-27,Canada,Quebec,Blainville,,order,New,,,FALSE,1,3.15819E+12,1.04868E+13,0,0,0,0,0,0,0,0
+United States,New York,Niagara Falls,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-12-27,Canada,Ontario,Thornhill,1.94929E+12,order,New,,,FALSE,1,3.15783E+12,1.04858E+13,86.99,-17.39,0,69.6,0,9.05,78.65,1
+Canada,Ontario,Mississauga,,,,2020-12-27,Canada,Ontario,Mississauga,,order,New,,,FALSE,2,3.15804E+12,1.04864E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Blainville,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-27,Canada,Quebec,Blainville,1.94929E+12,order,New,,,FALSE,1,3.15819E+12,1.04868E+13,90.99,0,0,90.99,0,4.55,95.54,1
+Canada,Ontario,Thornhill,,,,2020-12-27,Canada,Ontario,Thornhill,,order,New,,,FALSE,1,3.15808E+12,1.04865E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Eden Mills,,,,2020-12-27,Canada,Ontario,Eden Mills,,order,New,,,FALSE,1,3.15749E+12,1.04848E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Shannon,,,,2020-12-27,Canada,Quebec,Shannon,,order,New,,,FALSE,1,3.15748E+12,1.04848E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Shannon,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-27,Canada,Quebec,Shannon,1.94929E+12,order,New,,,FALSE,1,3.15748E+12,1.04848E+13,99.99,-19.99,0,80,0,4,84,1
+Canada,Ontario,Thornhill,Clothing,"High-Top Boots ""Don't Fall Off""",XS -  2 Boots Only,2020-12-27,Canada,Ontario,Thornhill,1.94929E+12,order,New,,,FALSE,1,3.15808E+12,1.04865E+13,165.98,-33.19,0,132.79,0,17.26,150.05,2
+Canada,British Columbia,Clearwater,,,,2020-12-27,Canada,British Columbia,Clearwater,,order,Returning,,,FALSE,1,3.15809E+12,1.04865E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Mississauga,Clothing,3 Season Heated Coat,M2,2020-12-27,Canada,Ontario,Mississauga,1.85914E+12,order,New,,,FALSE,2,3.15804E+12,1.04864E+13,205.99,-41.19,0,164.8,0,21.42,186.22,1
+Canada,Ontario,Eden Mills,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-27,Canada,Ontario,Eden Mills,1.94929E+12,order,New,,,FALSE,1,3.15749E+12,1.04848E+13,90.99,-18.19,0,72.8,0,9.46,82.26,1
+Canada,Alberta,Calgary,Clothing,"High-Top Boots ""Don't Fall Off""",XS -  2 Boots Only,2020-12-27,Canada,Alberta,Calgary,1.94929E+12,order,New,,,FALSE,1,3.15783E+12,1.04858E+13,82.99,-16.59,0,66.4,0,3.32,69.72,1
+Canada,Alberta,Calgary,,,,2020-12-27,Canada,Alberta,Calgary,,order,New,,,FALSE,1,3.15783E+12,1.04858E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Belleville,,Clinic Order Medical Snuggie,XS,2020-12-28,Canada,Ontario,Belleville,4.6145E+12,order,Returning,,,FALSE,1,3.1597E+12,1.04912E+13,47.96,0,0,47.96,0,6.23,54.19,4
+Canada,Ontario,Rockwood,,,,2020-12-28,Canada,Ontario,Rockwood,,order,New,,,FALSE,1,3.15921E+12,1.04897E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Newmarket,,,,2020-12-28,Canada,Ontario,Newmarket,,order,New,,,FALSE,1,3.15947E+12,1.04904E+13,0,0,0,0,0,0,0,0
+Canada,British Columbia,Coquitlam,,,,2020-12-28,Canada,British Columbia,Coquitlam,,order,New,,,FALSE,1,3.15933E+12,1.049E+13,0,0,0,0,0,0,0,0
+Canada,Alberta,Sylvan Lake,,,,2020-12-28,Canada,Alberta,Sylvan Lake,,order,New,,,FALSE,2,3.16002E+12,1.04922E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Rockwood,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-28,Canada,Ontario,Rockwood,1.94929E+12,order,New,,,FALSE,1,3.15921E+12,1.04897E+13,90.99,-18.19,0,72.8,0,9.46,82.26,1
+Canada,Ontario,Newmarket,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-12-28,Canada,Ontario,Newmarket,1.94929E+12,order,New,,,FALSE,1,3.15947E+12,1.04904E+13,86.99,-17.39,0,69.6,0,9.05,78.65,1
+Canada,Ontario,Nepean,,,,2020-12-28,Canada,Ontario,Nepean,,order,New,,,FALSE,1,3.15906E+12,1.04892E+13,0,0,0,0,0,0,0,0
+Canada,Alberta,Sylvan Lake,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-28,Canada,Alberta,Sylvan Lake,1.94929E+12,order,New,,,FALSE,2,3.16002E+12,1.04922E+13,99.99,-19.99,0,80,0,4,84,1
+Canada,Alberta,Sylvan Lake,,Hoodie,XL,2020-12-28,Canada,Alberta,Sylvan Lake,4.46952E+12,order,New,,,FALSE,2,3.16002E+12,1.04922E+13,74.99,-15,0,59.99,0,3,62.99,1
+Canada,Ontario,Belleville,,,,2020-12-28,Canada,Ontario,Belleville,,order,Returning,,,FALSE,1,3.1597E+12,1.04912E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Belleville,,Clinic Order Medical Snuggie,M1,2020-12-28,Canada,Ontario,Belleville,4.6145E+12,order,Returning,,,FALSE,1,3.1597E+12,1.04912E+13,31.98,0,0,31.98,0,4.16,36.14,2
+Canada,British Columbia,Coquitlam,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-28,Canada,British Columbia,Coquitlam,1.94929E+12,order,New,,,FALSE,1,3.15933E+12,1.049E+13,99.99,-19.99,0,80,0,4,84,1
+Canada,Ontario,Nepean,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-12-28,Canada,Ontario,Nepean,1.94929E+12,order,New,,,FALSE,1,3.15906E+12,1.04892E+13,86.99,0,0,86.99,0,11.31,98.3,1
+Canada,Ontario,Belleville,,Clinic Order Medical Snuggie,M2,2020-12-28,Canada,Ontario,Belleville,4.6145E+12,order,Returning,,,FALSE,1,3.1597E+12,1.04912E+13,18.59,0,0,18.59,0,2.42,21.01,1
+Canada,Ontario,Belleville,,Clinic Order Medical Snuggie,S,2020-12-28,Canada,Ontario,Belleville,4.6145E+12,order,Returning,,,FALSE,1,3.1597E+12,1.04912E+13,40.95,0,0,40.95,0,5.32,46.27,3
+United States,Wisconsin,Greenfield,,,,2020-12-29,United States,Wisconsin,Greenfield,,order,New,,,FALSE,1,3.16157E+12,1.04969E+13,0,0,0,0,19.99,0,19.99,0
+Canada,Manitoba,Ste.  Anne,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-29,Canada,Manitoba,Ste.  Anne,1.94929E+12,order,New,,,FALSE,1,3.1611E+12,1.04954E+13,99.99,-19.99,0,80,0,4,84,1
+Canada,Manitoba,Ste.  Anne,,,,2020-12-29,Canada,Manitoba,Ste.  Anne,,order,New,,,FALSE,1,3.1611E+12,1.04954E+13,0,0,0,0,0,0,0,0
+Canada,Alberta,Calgary,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-29,Canada,Alberta,Calgary,1.94929E+12,order,New,,,FALSE,1,3.16103E+12,1.04951E+13,99.99,-19.99,0,80,0,4,84,1
+Canada,Alberta,Calgary,,,,2020-12-29,Canada,Alberta,Calgary,,order,New,,,FALSE,1,3.16164E+12,1.04971E+13,0,0,0,0,0,0,0,0
+Canada,Alberta,Edmonton,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-29,Canada,Alberta,Edmonton,1.94929E+12,order,New,,,FALSE,1,3.1618E+12,1.04977E+13,99.99,-19.99,0,80,0,4,84,1
+Canada,Ontario,Toronto,,,,2020-12-29,Canada,Ontario,Toronto,,order,New,,,FALSE,1,3.16131E+12,1.0496E+13,0,0,0,0,0,0,0,0
+United States,Wisconsin,Greenfield,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-29,United States,Wisconsin,Greenfield,1.94929E+12,order,New,,,FALSE,1,3.16157E+12,1.04969E+13,90.99,-18.19,0,72.8,0,0,72.8,1
+Canada,Alberta,Calgary,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-29,Canada,Alberta,Calgary,1.94929E+12,order,New,,,FALSE,1,3.16164E+12,1.04971E+13,90.99,-18.19,0,72.8,0,3.64,76.44,1
+Canada,Alberta,Calgary,Clothing,"High-Top Boots ""Don't Fall Off""",XS -  2 Boots Only,2020-12-29,Canada,Alberta,Calgary,1.94929E+12,order,New,,,FALSE,1,3.16164E+12,1.04971E+13,82.99,0,0,82.99,0,4.15,87.14,1
+Canada,Alberta,Calgary,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-29,Canada,Alberta,Calgary,1.94929E+12,order,New,,,FALSE,1,3.16098E+12,1.0495E+13,99.99,-19.99,0,80,0,4,84,1
+Canada,Ontario,Timmins,,,,2020-12-29,Canada,Ontario,Timmins,,order,New,,,FALSE,1,3.16113E+12,1.04955E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Saint-Lazare,Clothing,3 Season Heated Coat,S,2020-12-29,Canada,Quebec,Saint-Lazare,1.85914E+12,order,New,,,FALSE,1,3.16092E+12,1.04948E+13,182.99,-36.59,0,146.4,0,7.32,153.72,1
+Canada,Alberta,Calgary,,,,2020-12-29,Canada,Alberta,Calgary,,order,New,,,FALSE,1,3.16164E+12,1.04971E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Saint-Lazare,,,,2020-12-29,Canada,Quebec,Saint-Lazare,,order,New,,,FALSE,1,3.16092E+12,1.04948E+13,0,0,0,0,0,0,0,0
+United States,Wisconsin,Greenfield,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-29,United States,Wisconsin,Greenfield,1.94929E+12,order,New,,,FALSE,1,3.16157E+12,1.04969E+13,95.99,-19.2,0,76.79,0,0,76.79,1
+Canada,Ontario,Toronto,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-29,Canada,Ontario,Toronto,1.94929E+12,order,New,,,FALSE,1,3.16131E+12,1.0496E+13,99.99,-19.99,0,80,0,10.4,90.4,1
+Canada,Manitoba,Portage La Prairie,,,,2020-12-29,Canada,Manitoba,Portage La Prairie,,order,New,,,FALSE,1,3.16103E+12,1.04952E+13,0,0,0,0,0,0,0,0
+Canada,Manitoba,Portage La Prairie,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-29,Canada,Manitoba,Portage La Prairie,1.94929E+12,order,New,,,FALSE,1,3.16103E+12,1.04952E+13,99.99,-19.99,0,80,0,4,84,1
+Canada,Alberta,Calgary,,,,2020-12-29,Canada,Alberta,Calgary,,order,New,,,FALSE,1,3.16103E+12,1.04951E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Timmins,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-29,Canada,Ontario,Timmins,1.94929E+12,order,New,,,FALSE,1,3.16113E+12,1.04955E+13,99.99,-19.99,0,80,0,10.4,90.4,1
+Canada,Alberta,Edmonton,,,,2020-12-29,Canada,Alberta,Edmonton,,order,New,,,FALSE,1,3.1618E+12,1.04977E+13,0,0,0,0,0,0,0,0
+Canada,Alberta,Calgary,,,,2020-12-29,Canada,Alberta,Calgary,,order,New,,,FALSE,1,3.16098E+12,1.0495E+13,0,0,0,0,0,0,0,0
+Canada,Manitoba,Winnipeg,,,,2020-12-30,Canada,Manitoba,Winnipeg,,order,New,,,FALSE,1,3.16257E+12,1.05E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Blainville,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-30,Canada,Quebec,Blainville,1.94929E+12,order,New,,,FALSE,1,3.1623E+12,1.04992E+13,99.99,-19.99,0,80,0,4,84,1
+Canada,Ontario,North York,,,,2020-12-30,Canada,Ontario,North York,,order,New,,,FALSE,1,3.16243E+12,1.04996E+13,0,0,0,0,0,0,0,0
+United States,Oregon,Beaverton,,,,2020-12-30,United States,Oregon,Portland,,order,New,,,FALSE,1,3.16277E+12,1.05007E+13,0,0,0,0,19.99,0,19.99,0
+Canada,Alberta,Okotoks,Clothing,"High-Top Boots ""Don't Fall Off""",XS -  2 Boots Only,2020-12-30,Canada,Alberta,Okotoks,1.94929E+12,order,New,,,FALSE,1,3.16298E+12,1.05014E+13,82.99,-16.59,0,66.4,0,3.32,69.72,1
+Canada,Alberta,High River,,,,2020-12-30,Canada,Alberta,High River,,order,New,,,FALSE,1,3.16317E+12,1.0502E+13,0,0,0,0,0,0,0,0
+Canada,Alberta,Okotoks,,,,2020-12-30,Canada,Alberta,Okotoks,,order,New,,,FALSE,1,3.16298E+12,1.05014E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,MARKHAM,,,,2020-12-30,Canada,Ontario,MARKHAM,,order,New,,,FALSE,0,3.16309E+12,1.05017E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Blainville,,,,2020-12-30,Canada,Quebec,Blainville,,order,New,,,FALSE,1,3.1623E+12,1.04992E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Orillia,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-30,Canada,Ontario,Orillia,1.94929E+12,order,New,,,FALSE,1,3.16241E+12,1.04995E+13,99.99,-19.99,0,80,0,10.4,90.4,1
+Canada,Quebec,Montréal,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-30,Canada,Quebec,Montreal,1.94929E+12,order,New,,,FALSE,1,3.16241E+12,1.04995E+13,90.99,-18.19,0,72.8,0,3.64,76.44,1
+Canada,Ontario,Toronto,,,,2020-12-30,Canada,Ontario,Toronto,,order,New,,,FALSE,1,3.16276E+12,1.05006E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,MARKHAM,,,,2020-12-30,Canada,Ontario,MARKHAM,0,order,New,,,FALSE,0,3.16309E+12,1.05017E+13,93.49,-18.69,0,74.8,0,9.72,84.52,1
+Canada,Ontario,North York,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-30,Canada,Ontario,North York,1.94929E+12,order,New,,,FALSE,1,3.16243E+12,1.04996E+13,95.99,0,0,95.99,0,12.48,108.47,1
+Canada,British Columbia,Vancouver,,,,2020-12-30,Canada,British Columbia,Vancouver,,order,New,,,FALSE,1,3.16258E+12,1.05E+13,0,0,0,0,0,0,0,0
+United States,Oregon,Beaverton,Clothing,3 Season Heated Coat,XS,2020-12-30,United States,Oregon,Portland,1.85914E+12,order,New,,,FALSE,1,3.16277E+12,1.05007E+13,175.99,0,0,175.99,0,0,175.99,1
+Canada,Ontario,Mississauga,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-12-30,Canada,Ontario,Mississauga,1.94929E+12,order,New,,,FALSE,1,3.16248E+12,1.04997E+13,173.98,-34.79,0,139.19,0,18.09,157.28,2
+Canada,Manitoba,Winnipeg,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-12-30,Canada,Manitoba,Winnipeg,1.94929E+12,order,New,,,FALSE,1,3.16257E+12,1.05E+13,86.99,-17.39,0,69.6,0,3.48,73.08,1
+Canada,British Columbia,Vancouver,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-12-30,Canada,British Columbia,Vancouver,1.94929E+12,order,New,,,FALSE,1,3.16258E+12,1.05E+13,86.99,-17.39,0,69.6,0,3.48,73.08,1
+Canada,Ontario,Toronto,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-30,Canada,Ontario,Toronto,1.94929E+12,order,New,,,FALSE,1,3.16276E+12,1.05006E+13,90.99,-18.19,0,72.8,0,9.46,82.26,1
+Canada,Alberta,High River,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-30,Canada,Alberta,High River,1.94929E+12,order,New,,,FALSE,1,3.16317E+12,1.0502E+13,99.99,0,0,99.99,0,5,104.99,1
+Canada,Ontario,Orillia,,,,2020-12-30,Canada,Ontario,Orillia,,order,New,,,FALSE,1,3.16241E+12,1.04995E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Montréal,,,,2020-12-30,Canada,Quebec,Montreal,,order,New,,,FALSE,1,3.16241E+12,1.04995E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Mississauga,,,,2020-12-30,Canada,Ontario,Mississauga,,order,New,,,FALSE,1,3.16248E+12,1.04997E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Montreal,Clothing,"High-Top Boots ""Don't Fall Off""",XS -  2 Boots Only,2020-12-30,Canada,Quebec,Montreal,1.94929E+12,return,New,,,FALSE,1,3.0855E+12,1.05024E+13,0,0,-82.99,-82.99,0,-4.15,-87.14,0
+Canada,Ontario,Toronto,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-12-31,Canada,Ontario,Toronto,1.94929E+12,order,New,,,FALSE,1,3.16412E+12,1.05049E+13,86.99,-17.39,0,69.6,0,9.05,78.65,1
+Canada,Quebec,Montréal,,,,2020-12-31,Canada,Quebec,Montréal,,order,New,,,FALSE,1,3.16444E+12,1.05059E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Vaughan,,,,2020-12-31,Canada,Ontario,Vaughan,,return,New,,,FALSE,1,3.16411E+12,1.0505E+13,0,0,-17.39,-17.39,0,0,-17.39,0
+Canada,Manitoba,Winnipeg,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-31,Canada,Manitoba,Winnipeg,1.94929E+12,order,New,,,FALSE,1,3.16468E+12,1.05067E+13,90.99,-18.19,0,72.8,0,3.64,76.44,1
+Canada,Ontario,Vaughan,,,,2020-12-31,Canada,Ontario,Vaughan,,order,New,,,FALSE,1,3.16411E+12,1.05048E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Toronto,,,,2020-12-31,Canada,Ontario,Toronto,,order,New,,,FALSE,1,3.16412E+12,1.05049E+13,0,0,0,0,0,0,0,0
+Canada,Manitoba,Winnipeg,,,,2020-12-31,Canada,Manitoba,Winnipeg,,order,New,,,FALSE,1,3.16468E+12,1.05067E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Côte Saint-Luc,,,,2020-12-31,Canada,Ontario,Toronto,,order,New,,,FALSE,1,3.16431E+12,1.05055E+13,0,0,0,0,0,0,0,0
+United States,Washington,Winthrop,,,,2020-12-31,United States,Washington,Winthrop,,order,New,,,FALSE,1,3.16406E+12,1.05047E+13,0,0,0,0,20.29,0,20.29,0
+Canada,Ontario,Whitby,Clothing,3 Season Heated Coat,M2,2020-12-31,Canada,Ontario,Whitby,1.85914E+12,order,Returning,,,FALSE,1,3.16433E+12,1.05055E+13,205.99,-41.19,0,164.8,0,21.42,186.22,1
+Canada,Ontario,Campbellford,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-31,Canada,Ontario,Campbellford,1.94929E+12,order,New,,,FALSE,1,3.1642E+12,1.05051E+13,90.99,-18.2,0,72.79,0,9.46,82.25,1
+United States,Washington,Winthrop,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-31,United States,Washington,Winthrop,1.94929E+12,order,New,,,FALSE,1,3.16406E+12,1.05047E+13,92.99,-18.59,0,74.4,0,0,74.4,1
+Canada,Manitoba,Winnipeg,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-31,Canada,Manitoba,Winnipeg,1.94929E+12,order,Returning,,,FALSE,1,3.16407E+12,1.05047E+13,95.99,0,0,95.99,0,4.8,100.79,1
+Canada,Ontario,Campbellford,,,,2020-12-31,Canada,Ontario,Campbellford,,order,New,,,FALSE,1,3.1642E+12,1.05051E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Montréal,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-31,Canada,Quebec,Montréal,1.94929E+12,order,New,,,FALSE,1,3.16444E+12,1.05059E+13,90.99,0,0,90.99,0,4.55,95.54,1
+Canada,Ontario,Campbellford,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-12-31,Canada,Ontario,Campbellford,1.94929E+12,order,New,,,FALSE,1,3.1642E+12,1.05051E+13,86.99,-17.39,0,69.6,0,9.05,78.65,1
+Canada,Ontario,Whitby,,,,2020-12-31,Canada,Ontario,Whitby,,order,Returning,,,FALSE,1,3.16433E+12,1.05055E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Windsor,,Medical Snuggie,L,2020-12-31,Canada,Ontario,Milton,4.47367E+12,order,New,,,FALSE,1,3.1637E+12,1.05036E+13,41.24,-8.24,0,33,0,4.29,37.29,1
+Canada,Ontario,Vaughan,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-12-31,Canada,Ontario,Vaughan,1.94929E+12,order,New,,,FALSE,1,3.16411E+12,1.05048E+13,86.99,0,0,86.99,0,11.31,98.3,1
+Canada,Ontario,Ottawa,,,,2020-12-31,Canada,Ontario,Ottawa,,order,New,,,FALSE,1,3.1637E+12,1.05036E+13,0,0,0,0,0,0,0,0
+Canada,Manitoba,Winnipeg,,,,2020-12-31,Canada,Manitoba,Winnipeg,,order,Returning,,,FALSE,1,3.16407E+12,1.05047E+13,0,0,0,0,0,0,0,0
+Canada,British Columbia,West Vancouver,,,,2020-12-31,Canada,British Columbia,West Vancouver,,order,New,,,FALSE,1,3.16448E+12,1.05061E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Ottawa,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2020-12-31,Canada,Ontario,Ottawa,1.94929E+12,order,New,,,FALSE,1,3.1637E+12,1.05036E+13,86.99,-17.39,0,69.6,0,9.05,78.65,1
+Canada,British Columbia,West Vancouver,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-31,Canada,British Columbia,West Vancouver,1.94929E+12,order,New,,,FALSE,1,3.16448E+12,1.05061E+13,95.99,-19.19,0,76.8,0,3.84,80.64,1
+Canada,Ontario,Windsor,,,,2020-12-31,Canada,Ontario,Milton,,order,New,,,FALSE,1,3.1637E+12,1.05036E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,Quebec,Côte Saint-Luc,Clothing,"High-Top Boots ""Don't Fall Off""",,2020-12-31,Canada,Ontario,Toronto,1.94929E+12,order,New,,,FALSE,1,3.16431E+12,1.05055E+13,95.99,-19.19,0,76.8,0,9.98,86.78,1

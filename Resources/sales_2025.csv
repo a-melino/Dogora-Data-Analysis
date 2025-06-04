@@ -1,0 +1,643 @@
+Billing country,Billing region,Billing city,Product type,Product title,Product variant title,Day,Shipping country,Shipping region,Shipping city,Product ID,Order or return,New or returning customer,Company name,Company location name,Is B2B order,Number of products bought together,Order ID,Sale ID,Gross sales,Discounts,Returns,Net sales,Shipping charges,Taxes,Total sales,Quantity ordered
+Canada,Quebec,Gatineau,,Know Brainer Balls x2,2 Balls,2025-01-01,Canada,Quebec,Gatineau,7.75958E+12,order,New,,,FALSE,1,6.1368E+12,1.99353E+13,95.97,-28.79,0,67.18,0,3.36,70.54,3
+Canada,Ontario,Ottawa,,Know Brainer Balls x2,2 Balls,2025-01-01,Canada,Ontario,Ottawa,7.75958E+12,order,New,,,FALSE,1,6.13733E+12,1.9937E+13,31.99,0,0,31.99,0,4.16,36.15,1
+Canada,Alberta,Fort McMurray,,,,2025-01-01,Canada,Alberta,Fort McMurray,,order,Returning,,,FALSE,1,6.13744E+12,1.99374E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Quebec,Gatineau,,,,2025-01-01,Canada,Quebec,Gatineau,,order,New,,,FALSE,1,6.1368E+12,1.99353E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Ottawa,,,,2025-01-01,Canada,Ontario,Ottawa,,order,New,,,FALSE,1,6.13733E+12,1.9937E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,Alberta,Fort McMurray,,Know Brainer Balls x2,2 Balls,2025-01-01,Canada,Alberta,Fort McMurray,7.75958E+12,order,Returning,,,FALSE,1,6.13744E+12,1.99374E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,Ontario,Amherstburg,,"High Top Boots ""Stay-On"" Technology",L|7,2025-01-02,Canada,Ontario,Amherstburg,7.76384E+12,order,New,,,FALSE,1,6.13819E+12,1.99397E+13,59.5,-5.95,0,53.55,0,6.96,60.51,1
+Canada,Ontario,Markham,,"High Top Boots ""Stay-On"" Technology",XS|4,2025-01-02,Canada,Ontario,Markham,7.76384E+12,order,Returning,,,FALSE,1,6.13869E+12,1.99413E+13,54.5,-5.45,0,49.05,0,6.38,55.43,1
+Canada,Ontario,Amherstburg,,"High Top Boots ""Stay-On"" Technology",S|5,2025-01-02,Canada,Ontario,Amherstburg,7.76384E+12,order,New,,,FALSE,1,6.13819E+12,1.99397E+13,55.5,-5.55,0,49.95,0,6.49,56.44,1
+Canada,Ontario,Markham,,,,2025-01-02,Canada,Ontario,Markham,,order,Returning,,,FALSE,1,6.13869E+12,1.99413E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Toronto,,,,2025-01-02,Canada,Ontario,Toronto,,order,Returning,,,FALSE,1,6.13841E+12,1.99404E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Brampton,,,,2025-01-02,Canada,Ontario,Brampton,,order,Returning,,,FALSE,1,6.13859E+12,1.9941E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Amherstburg,,"High Top Boots ""Stay-On"" Technology",M|6,2025-01-02,Canada,Ontario,Amherstburg,7.76384E+12,order,New,,,FALSE,1,6.13819E+12,1.99397E+13,57.5,-5.75,0,51.75,0,6.73,58.48,1
+United States,Texas,Killeen,,Hoodie,L,2025-01-02,United States,Texas,Killeen,4.46952E+12,order,Returning,,,FALSE,1,6.1375E+12,1.99375E+13,54.63,0,0,54.63,0,0,54.63,1
+United States,Texas,Killeen,,,,2025-01-02,United States,Texas,Killeen,,order,Returning,,,FALSE,1,6.1375E+12,1.99375E+13,0,0,0,0,21.56,0,21.56,0
+Canada,Ontario,Brampton,,"High Top Boots ""Stay-On"" Technology",L|7,2025-01-02,Canada,Ontario,Brampton,7.76384E+12,order,Returning,,,FALSE,1,6.13859E+12,1.9941E+13,119,-11.9,0,107.1,0,13.92,121.02,2
+Canada,Quebec,Sherbrooke,,,,2025-01-02,Canada,Quebec,Sherbrooke,,order,Returning,,,FALSE,1,6.13813E+12,1.99395E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Markham,,"High Top Boots ""Stay-On"" Technology",S|5,2025-01-02,Canada,Ontario,Markham,7.76384E+12,order,Returning,,,FALSE,1,6.13869E+12,1.99413E+13,55.5,-5.55,0,49.95,0,6.49,56.44,1
+Canada,Quebec,Sherbrooke,,"High Top Boots ""Stay-On"" Technology",XXXS|2,2025-01-02,Canada,Quebec,Sherbrooke,7.76384E+12,order,Returning,,,FALSE,1,6.13813E+12,1.99395E+13,51.5,-5.15,0,46.35,0,2.32,48.67,1
+Canada,Ontario,Toronto,,"High Top Boots ""Stay-On"" Technology",XXXL|10,2025-01-02,Canada,Ontario,Toronto,7.76384E+12,order,Returning,,,FALSE,1,6.13841E+12,1.99404E+13,65,-6.5,0,58.5,0,7.61,66.11,1
+Canada,Ontario,Amherstburg,,,,2025-01-02,Canada,Ontario,Amherstburg,,order,New,,,FALSE,1,6.13819E+12,1.99397E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Amherstburg,,"High Top Boots ""Stay-On"" Technology",XL|8,2025-01-02,Canada,Ontario,Amherstburg,7.76384E+12,order,New,,,FALSE,1,6.13819E+12,1.99397E+13,61.5,-6.15,0,55.35,0,7.2,62.55,1
+Canada,Ontario,Oakville,,Know Brainer Balls x2,2 Balls,2025-01-03,Canada,Ontario,Oakville,7.75958E+12,order,Returning,,,FALSE,1,6.13954E+12,1.9944E+13,31.99,0,0,31.99,0,4.16,36.15,1
+Canada,Ontario,North York,,"High Top Boots ""Stay-On"" Technology",XXS|3,2025-01-03,Canada,Ontario,Toronto,7.76384E+12,order,Returning,,,FALSE,2,6.13922E+12,1.99431E+13,53.5,-5.35,0,48.15,0,6.26,54.41,1
+Canada,Ontario,North York,,,,2025-01-03,Canada,Ontario,Toronto,,order,Returning,,,FALSE,2,6.13922E+12,1.99431E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Oakville,,,,2025-01-03,Canada,Ontario,Oakville,,order,Returning,,,FALSE,1,6.13954E+12,1.9944E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,Ontario,Woodbridge,,Clinic Order Medical Snuggie,M2,2025-01-03,Canada,Ontario,Woodbridge,4.6145E+12,order,New,,,FALSE,1,6.13972E+12,1.99446E+13,24.58,0,0,24.58,0,3.2,27.78,1
+Canada,Ontario,Woodbridge,,Clinic Order Medical Snuggie,S,2025-01-03,Canada,Ontario,Woodbridge,4.6145E+12,order,New,,,FALSE,1,6.13972E+12,1.99446E+13,77.8,0,0,77.8,0,10.11,87.91,4
+Canada,Ontario,Woodbridge,,Clinic Order Medical Snuggie,XS,2025-01-03,Canada,Ontario,Woodbridge,4.6145E+12,order,New,,,FALSE,1,6.13972E+12,1.99446E+13,53.25,0,0,53.25,0,6.92,60.17,3
+Canada,Ontario,Woodbridge,,,,2025-01-03,Canada,Ontario,Woodbridge,,order,New,,,FALSE,1,6.13972E+12,1.99446E+13,0,0,0,0,0,0,0,0
+United States,Washington,Seattle,Clothing,"High-Top Boots ""Don't Fall Off""",XXS - 2 Boots Only,2025-01-03,United States,Washington,Seattle,1.94929E+12,order,New,,,FALSE,1,6.13924E+12,1.99431E+13,63.32,0,0,63.32,0,0,63.32,2
+United States,Washington,Seattle,,,,2025-01-03,United States,Washington,Seattle,,order,New,,,FALSE,1,6.13924E+12,1.99431E+13,0,0,0,0,21.58,0,21.58,0
+Canada,Ontario,North York,,Trench Coat,L,2025-01-03,Canada,Ontario,Toronto,4.46952E+12,order,Returning,,,FALSE,2,6.13922E+12,1.99431E+13,57.36,0,0,57.36,0,7.46,64.82,1
+Canada,British Columbia,Vancouver,,"High Top Boots ""Stay-On"" Technology",XXL|9,2025-01-04,Canada,British Columbia,Richmond,7.76384E+12,order,New,,,FALSE,1,6.14143E+12,1.99499E+13,127,-12.7,0,114.3,0,5.72,120.02,2
+Canada,Ontario,Ajax,,,,2025-01-04,Canada,Ontario,Ajax,,return,New,,,FALSE,1,6.09825E+12,1.99498E+13,0,0,218.66,218.66,0,0,218.66,0
+Canada,British Columbia,Vancouver,,,,2025-01-04,Canada,British Columbia,Richmond,,order,New,,,FALSE,1,6.14143E+12,1.99499E+13,0,0,0,0,0,0,0,0
+Canada,Alberta,Canmore,,Know Brainer Balls x2,2 Balls,2025-01-04,Canada,Alberta,Canmore,7.75958E+12,order,New,,,FALSE,1,6.14177E+12,1.9951E+13,31.99,0,0,31.99,0,1.6,33.59,1
+United States,Washington,Anacortes,Clothing,3 Season Heated Coat,XS,2025-01-04,United States,Washington,Anacortes,1.85914E+12,return,New,,,FALSE,1,6.00465E+12,1.99481E+13,0,0,-130.03,-130.03,0,0,-130.03,0
+United States,Washington,Anacortes,,,,2025-01-04,United States,Washington,Anacortes,,return,New,,,FALSE,1,6.00465E+12,1.99529E+13,0,0,-135.23,-135.23,0,0,-135.23,0
+Canada,Ontario,Ajax,,,,2025-01-04,Canada,Ontario,Ajax,,return,New,,,FALSE,1,6.09825E+12,1.99546E+13,0,0,-218.66,-218.66,0,0,-218.66,0
+United States,Washington,Anacortes,,,,2025-01-04,United States,Washington,Anacortes,,return,New,,,FALSE,1,6.00465E+12,1.99481E+13,0,0,135.23,135.23,0,0,135.23,0
+Canada,Alberta,Canmore,,,,2025-01-04,Canada,Alberta,Canmore,,order,New,,,FALSE,1,6.14177E+12,1.9951E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Ontario,Ajax,Clothing,3 Season Heated Coat,L,2025-01-04,Canada,Ontario,Ajax,1.85914E+12,return,New,,,FALSE,1,6.09825E+12,1.99498E+13,0,0,-193.5,-193.5,0,-25.16,-218.66,0
+Canada,Ontario,Toronto,,"High Top Boots ""Stay-On"" Technology",XS|4,2025-01-05,Canada,Ontario,Toronto,7.76384E+12,order,New,,,FALSE,1,6.14344E+12,1.99561E+13,54.5,-5.45,0,49.05,0,6.38,55.43,1
+Canada,Ontario,Toronto,,"High Top Boots ""Stay-On"" Technology",S|5,2025-01-05,Canada,Ontario,Toronto,7.76384E+12,order,New,,,FALSE,1,6.14344E+12,1.99561E+13,55.5,-5.55,0,49.95,0,6.49,56.44,1
+Canada,Ontario,Toronto,,,,2025-01-05,Canada,Ontario,Toronto,,order,New,,,FALSE,1,6.14344E+12,1.99561E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Kitchener,,Clinic Order Medical Snuggie,M2,2025-01-06,Canada,Ontario,Kitchener,4.6145E+12,order,Returning,,,FALSE,1,6.14486E+12,1.99604E+13,122.9,0,0,122.9,0,15.98,138.88,5
+Canada,Ontario,Paris,,Know Brainer Balls x2,2 Balls,2025-01-06,Canada,Ontario,Paris,7.75958E+12,order,New,,,FALSE,1,6.14452E+12,1.99593E+13,31.99,0,0,31.99,0,4.16,36.15,1
+Canada,Ontario,Paris,,,,2025-01-06,Canada,Ontario,Paris,,order,New,,,FALSE,1,6.14452E+12,1.99593E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,Ontario,Kitchener,,Clinic Order Medical Snuggie,XS,2025-01-06,Canada,Ontario,Kitchener,4.6145E+12,order,Returning,,,FALSE,1,6.14486E+12,1.99604E+13,53.25,0,0,53.25,0,6.92,60.17,3
+Canada,Ontario,Kitchener,,Clinic Order Medical Snuggie,S,2025-01-06,Canada,Ontario,Kitchener,4.6145E+12,order,Returning,,,FALSE,1,6.14486E+12,1.99604E+13,97.25,0,0,97.25,0,12.64,109.89,5
+Canada,British Columbia,North Vancouver,,,,2025-01-06,Canada,British Columbia,North Vancouver,,order,Returning,,,FALSE,1,6.14523E+12,1.99617E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Kitchener,,,,2025-01-06,Canada,Ontario,Kitchener,,order,Returning,,,FALSE,1,6.14486E+12,1.99604E+13,0,0,0,0,0,0,0,0
+Canada,British Columbia,North Vancouver,,Know Brainer Balls x2,2 Balls,2025-01-06,Canada,British Columbia,North Vancouver,7.75958E+12,order,Returning,,,FALSE,1,6.14523E+12,1.99617E+13,63.98,-8.3,0,55.68,0,2.78,58.46,2
+Canada,Ontario,Mississauga,,,,2025-01-06,Canada,Ontario,Mississauga,,order,New,,,FALSE,1,6.14549E+12,1.99626E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Mississauga,,Know Brainer Balls x2,2 Balls,2025-01-06,Canada,Ontario,Mississauga,7.75958E+12,order,New,,,FALSE,1,6.14549E+12,1.99626E+13,63.98,0,0,63.98,0,8.32,72.3,2
+Canada,British Columbia,Mission,,,,2025-01-07,Canada,British Columbia,Mission,,order,New,,,FALSE,1,6.146E+12,1.99641E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Ontario,Toronto,,Trench Coat,L,2025-01-07,Canada,Ontario,Toronto,4.46952E+12,order,New,,,FALSE,1,6.147E+12,1.99676E+13,57.36,-5.73,0,51.63,0,6.71,58.34,1
+Canada,Quebec,Prévost,,,,2025-01-07,Canada,Quebec,Prévost,,order,New,,,FALSE,1,6.146E+12,1.99641E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Quebec,Prévost,,Know Brainer Balls x2,2 Balls,2025-01-07,Canada,Quebec,Prévost,7.75958E+12,order,New,,,FALSE,1,6.146E+12,1.99641E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,Ontario,Toronto,,,,2025-01-07,Canada,Ontario,Toronto,,order,New,,,FALSE,1,6.147E+12,1.99676E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Markham,,,,2025-01-07,Canada,Ontario,Markham,,order,Returning,,,FALSE,1,6.14709E+12,1.99679E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Markham,,Trench Coat,XL,2025-01-07,Canada,Ontario,Markham,4.46952E+12,order,Returning,,,FALSE,1,6.14709E+12,1.99679E+13,59.99,0,0,59.99,0,7.8,67.79,1
+Canada,British Columbia,Mission,,Know Brainer Balls x2,2 Balls,2025-01-07,Canada,British Columbia,Mission,7.75958E+12,order,New,,,FALSE,1,6.146E+12,1.99641E+13,31.99,-4.15,0,27.84,0,1.39,29.23,1
+Canada,Ontario,Mississauga,,"High Top Boots ""Stay-On"" Technology",XXXL|10,2025-01-08,Canada,Ontario,Mississauga,7.76384E+12,order,New,,,FALSE,1,6.1485E+12,1.99725E+13,130,-13,0,117,0,15.21,132.21,2
+Canada,Saskatchewan,Swift Current,,,,2025-01-08,Canada,Saskatchewan,Swift Current,,order,New,,,FALSE,1,6.14863E+12,1.99729E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Ontario,Mississauga,,,,2025-01-08,Canada,Ontario,Mississauga,,order,New,,,FALSE,1,6.1485E+12,1.99725E+13,0,0,0,0,0,0,0,0
+Canada,Saskatchewan,Swift Current,,Know Brainer Balls x2,2 Balls,2025-01-08,Canada,Saskatchewan,Swift Current,7.75958E+12,order,New,,,FALSE,1,6.14863E+12,1.99729E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,Ontario,Brantford,,,,2025-01-09,Canada,Ontario,Brantford,,order,New,,,FALSE,1,6.15013E+12,1.99778E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Reaboro,,,,2025-01-09,Canada,Ontario,Reaboro,,return,New,,,FALSE,1,6.14897E+12,1.99763E+13,0,0,3.19,3.19,0,0,3.19,0
+Canada,Ontario,Nepean,,Clinic Order Medical Snuggie,XS,2025-01-09,Canada,Ontario,Nepean,4.6145E+12,order,Returning,,,FALSE,1,6.14951E+12,1.99757E+13,35.5,0,0,35.5,0,4.62,40.12,2
+Canada,Yukon,Dawson,,,,2025-01-09,Canada,Yukon,Dawson,,order,New,,,FALSE,1,6.15001E+12,1.99774E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Ontario,Reaboro,,,,2025-01-09,Canada,Ontario,Reaboro,,return,New,,,FALSE,1,6.14897E+12,1.99817E+13,0,0,-3.19,-3.19,0,0,-3.19,0
+Canada,Ontario,Nepean,,,,2025-01-09,Canada,Ontario,Nepean,,order,Returning,,,FALSE,1,6.14951E+12,1.99757E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Nepean,,Clinic Order Medical Snuggie,S,2025-01-09,Canada,Ontario,Nepean,4.6145E+12,order,Returning,,,FALSE,1,6.14951E+12,1.99757E+13,58.35,0,0,58.35,0,7.59,65.94,3
+Canada,Ontario,Toronto,,,,2025-01-09,Canada,Ontario,Toronto,,order,New,,,FALSE,1,6.14995E+12,1.99772E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Reaboro,,,,2025-01-09,Canada,Ontario,Reaboro,,return,New,,,FALSE,1,6.14897E+12,1.99763E+13,0,0,-3.19,-3.19,0,0,-3.19,0
+Canada,Ontario,Toronto,,"High Top Boots ""Stay-On"" Technology",XXXS|2,2025-01-09,Canada,Ontario,Toronto,7.76384E+12,order,New,,,FALSE,1,6.14995E+12,1.99772E+13,51.5,0,0,51.5,0,6.7,58.2,1
+Canada,Ontario,Brantford,,Medical Snuggie,S,2025-01-09,Canada,Ontario,Brantford,4.47367E+12,order,New,,,FALSE,1,6.15013E+12,1.99778E+13,60.99,0,0,60.99,0,7.93,68.92,1
+Canada,Ontario,Reaboro,,Know Brainer Balls x2,2 Balls,2025-01-09,Canada,Ontario,Reaboro,7.75958E+12,order,New,,,FALSE,1,6.14897E+12,1.99739E+13,31.99,0,0,31.99,0,4.16,36.15,1
+Canada,Yukon,Dawson,,Know Brainer Balls x2,2 Balls,2025-01-09,Canada,Yukon,Dawson,7.75958E+12,order,New,,,FALSE,1,6.15001E+12,1.99774E+13,31.99,0,0,31.99,0,1.6,33.59,1
+United States,Massachusetts,Sudbury,Clothing,3 Season Heated Coat,XS,2025-01-09,United States,Massachusetts,Sudbury,1.85914E+12,return,New,,,FALSE,2,6.10739E+12,1.99757E+13,0,0,-162.7,-162.7,0,0,-162.7,0
+Canada,Ontario,Nepean,,Clinic Order Medical Snuggie,M2,2025-01-09,Canada,Ontario,Nepean,4.6145E+12,order,Returning,,,FALSE,1,6.14951E+12,1.99757E+13,73.74,0,0,73.74,0,9.59,83.33,3
+Canada,Ontario,Reaboro,,,,2025-01-09,Canada,Ontario,Reaboro,,order,New,,,FALSE,1,6.14897E+12,1.99739E+13,0,0,0,0,5.99,0.78,6.77,0
+United States,Massachusetts,Sudbury,,,,2025-01-09,United States,Massachusetts,Sudbury,,return,New,,,FALSE,2,6.10739E+12,1.99757E+13,0,0,164.5,164.5,0,0,164.5,0
+United States,Massachusetts,Sudbury,,,,2025-01-09,United States,Massachusetts,Sudbury,,return,New,,,FALSE,2,6.10739E+12,1.99812E+13,0,0,-164.88,-164.88,0,0,-164.88,0
+Canada,Quebec,Prévost,,Know Brainer Balls x2,2 Balls,2025-01-10,Canada,Quebec,Prévost,7.75958E+12,order,Returning,,,FALSE,1,6.15142E+12,1.99819E+13,63.98,0,0,63.98,0,3.2,67.18,2
+Canada,Ontario,Kars,,,,2025-01-10,Canada,Ontario,Kars,,order,Returning,,,FALSE,1,6.15122E+12,1.99812E+13,0,0,0,0,0,0,0,0
+Canada,Alberta,Sherwood Park,,Know Brainer Balls x2,2 Balls,2025-01-10,Canada,Alberta,Sherwood Park,7.75958E+12,order,New,,,FALSE,1,6.15147E+12,1.99821E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,Alberta,Sherwood Park,,,,2025-01-10,Canada,Alberta,Sherwood Park,,order,New,,,FALSE,1,6.15147E+12,1.99821E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Quebec,Prévost,,,,2025-01-10,Canada,Quebec,Prévost,,order,Returning,,,FALSE,1,6.15142E+12,1.99819E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Kars,,"High Top Boots ""Stay-On"" Technology",XXXL|10,2025-01-10,Canada,Ontario,Kars,7.76384E+12,order,Returning,,,FALSE,1,6.15122E+12,1.99812E+13,65,0,0,65,0,8.45,73.45,1
+Canada,Ontario,Kars,,"High Top Boots ""Stay-On"" Technology",XXL|9,2025-01-10,Canada,Ontario,Kars,7.76384E+12,order,Returning,,,FALSE,1,6.15122E+12,1.99812E+13,63.5,0,0,63.5,0,8.26,71.76,1
+Canada,Alberta,Edmonton,Clothing,"High-Top Boots ""Don't Fall Off""",XS -  2 Boots Only,2025-01-11,Canada,Alberta,Edmonton,1.94929E+12,order,Returning,,,FALSE,1,6.15326E+12,1.99875E+13,60,0,0,60,0,3,63,2
+Canada,Alberta,Edmonton,,,,2025-01-11,Canada,Alberta,Edmonton,,order,Returning,,,FALSE,1,6.15326E+12,1.99875E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Thornhill,,,,2025-01-12,Canada,Ontario,Thornhill,,order,New,,,FALSE,1,6.15382E+12,1.99889E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Thornhill,Clothing,3 Season Heated Coat,XS,2025-01-12,Canada,Ontario,Thornhill,1.85914E+12,order,New,,,FALSE,1,6.15382E+12,1.99889E+13,131.99,0,0,131.99,0,17.16,149.15,1
+Canada,Ontario,Richmond Hill,Clothing,"High-Top Boots ""Don't Fall Off""",XS -  2 Boots Only,2025-01-13,Canada,Ontario,Richmond Hill,1.94929E+12,order,New,,,FALSE,1,6.1553E+12,1.99935E+13,60,-6,0,54,0,7.02,61.02,2
+Canada,Ontario,Hamilton,,Clinic Order Medical Snuggie,M2,2025-01-13,Canada,Ontario,Hamilton,4.6145E+12,order,Returning,,,FALSE,1,6.15542E+12,1.99939E+13,49.16,0,0,49.16,0,6.39,55.55,2
+Canada,Ontario,Hamilton,,,,2025-01-13,Canada,Ontario,Hamilton,,order,Returning,,,FALSE,1,6.15542E+12,1.99939E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Hamilton,,Clinic Order Medical Snuggie,XS,2025-01-13,Canada,Ontario,Hamilton,4.6145E+12,order,Returning,,,FALSE,1,6.15542E+12,1.99939E+13,35.5,0,0,35.5,0,4.62,40.12,2
+Canada,Ontario,Richmond Hill,,,,2025-01-13,Canada,Ontario,Richmond Hill,,order,New,,,FALSE,1,6.1553E+12,1.99935E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Hamilton,,Clinic Order Medical Snuggie,S,2025-01-13,Canada,Ontario,Hamilton,4.6145E+12,order,Returning,,,FALSE,1,6.15542E+12,1.99939E+13,58.35,0,0,58.35,0,7.59,65.94,3
+Canada,Ontario,Woodbridge,,Clinic Order Medical Snuggie,M2,2025-01-14,Canada,British Columbia,Nanaimo,4.6145E+12,order,Returning,,,FALSE,1,6.157E+12,1.99993E+13,122.9,0,0,122.9,0,6.15,129.05,5
+Canada,Ontario,Woodbridge,,,,2025-01-14,Canada,British Columbia,Nanaimo,,order,Returning,,,FALSE,1,6.157E+12,1.99993E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Woodbridge,,Clinic Order Medical Snuggie,S,2025-01-14,Canada,British Columbia,Nanaimo,4.6145E+12,order,Returning,,,FALSE,1,6.157E+12,1.99993E+13,194.5,0,0,194.5,0,9.73,204.23,10
+Canada,Ontario,Woodbridge,,Clinic Order Medical Snuggie,XL,2025-01-14,Canada,British Columbia,Nanaimo,4.6145E+12,order,Returning,,,FALSE,1,6.157E+12,1.99993E+13,116.2,0,0,116.2,0,5.81,122.01,4
+Canada,Ontario,Whitby,,,,2025-01-15,Canada,Ontario,Whitby,,order,New,,,FALSE,1,6.15917E+12,2.00066E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,Ontario,Whitby,,Know Brainer Balls x2,2 Balls,2025-01-15,Canada,Ontario,Whitby,7.75958E+12,order,New,,,FALSE,1,6.15917E+12,2.00066E+13,31.99,0,0,31.99,0,4.16,36.15,1
+Canada,Ontario,Owen Sound,,,,2025-01-16,Canada,Ontario,Owen Sound,,order,Returning,,,FALSE,2,6.15987E+12,2.00088E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Windsor,,,,2025-01-16,Canada,Ontario,Windsor,,order,Returning,,,FALSE,1,6.16068E+12,2.00115E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Windsor,,Clinic Order Medical Snuggie,M2,2025-01-16,Canada,Ontario,Windsor,4.6145E+12,order,Returning,,,FALSE,1,6.16068E+12,2.00115E+13,122.9,0,0,122.9,0,15.98,138.88,5
+Canada,Ontario,Owen Sound,,Medical Snuggie,S,2025-01-16,Canada,Ontario,Owen Sound,4.47367E+12,order,Returning,,,FALSE,2,6.15987E+12,2.00088E+13,304.95,0,0,304.95,0,39.64,344.59,5
+Canada,Ontario,Owen Sound,,Clinic Order Medical Snuggie,M2,2025-01-16,Canada,Ontario,Owen Sound,4.6145E+12,order,Returning,,,FALSE,2,6.15987E+12,2.00088E+13,147.48,0,0,147.48,0,19.17,166.65,6
+Canada,Ontario,Windsor,,Clinic Order Medical Snuggie,S,2025-01-16,Canada,Ontario,Windsor,4.6145E+12,order,Returning,,,FALSE,1,6.16068E+12,2.00115E+13,97.25,0,0,97.25,0,12.64,109.89,5
+Canada,Ontario,Windsor,,Clinic Order Medical Snuggie,XS,2025-01-16,Canada,Ontario,Windsor,4.6145E+12,order,Returning,,,FALSE,1,6.16068E+12,2.00115E+13,88.75,0,0,88.75,0,11.54,100.29,5
+Canada,Ontario,Toronto,,"High Top Boots ""Stay-On"" Technology",XXL|9,2025-01-17,Canada,Ontario,Toronto,7.76384E+12,order,Returning,,,FALSE,1,6.13841E+12,2.00138E+13,63.5,-6.35,0,57.15,0,7.43,64.58,0
+Canada,Quebec,Saint-Laurent-Île-d'Orléans,,,,2025-01-17,Canada,Quebec,Saint-Laurent-Ile-Orleans,,order,New,,,FALSE,1,6.16235E+12,2.00169E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Quebec,Saint-Laurent-Île-d'Orléans,,Know Brainer Balls x2,2 Balls,2025-01-17,Canada,Quebec,Saint-Laurent-Ile-Orleans,7.75958E+12,order,New,,,FALSE,1,6.16235E+12,2.00169E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,Ontario,Richmond Hill,Clothing,"High-Top Boots ""Don't Fall Off""",XXS - 2 Boots Only,2025-01-17,Canada,Ontario,Richmond Hill,1.94929E+12,order,New,,,FALSE,1,6.16212E+12,2.00161E+13,30,0,0,30,0,3.9,33.9,1
+Canada,Ontario,Richmond Hill,Clothing,"High-Top Boots ""Don't Fall Off""",XS -  2 Boots Only,2025-01-17,Canada,Ontario,Richmond Hill,1.94929E+12,order,New,,,FALSE,1,6.16212E+12,2.00161E+13,30,0,0,30,0,3.9,33.9,1
+Canada,Ontario,Richmond Hill,,,,2025-01-17,Canada,Ontario,Richmond Hill,,order,New,,,FALSE,1,6.16212E+12,2.00161E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Richmond Hill,,,,2025-01-18,Canada,Ontario,Richmond Hill,,return,New,,,FALSE,1,6.1553E+12,2.0026E+13,0,0,-61.02,-61.02,0,0,-61.02,0
+Canada,Quebec,Laval,,,,2025-01-18,Canada,Quebec,Laval,,order,New,,,FALSE,1,6.16372E+12,2.00211E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Richmond Hill,Clothing,"High-Top Boots ""Don't Fall Off""",XS -  2 Boots Only,2025-01-18,Canada,Ontario,Richmond Hill,1.94929E+12,return,New,,,FALSE,1,6.1553E+12,2.00215E+13,0,0,-54,-54,0,-7.02,-61.02,0
+Canada,Quebec,Laval,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2025-01-18,Canada,Quebec,Laval,1.94929E+12,order,New,,,FALSE,1,6.16372E+12,2.00211E+13,30,0,0,30,0,1.5,31.5,1
+Canada,Ontario,Richmond Hill,,,,2025-01-18,Canada,Ontario,Richmond Hill,,return,New,,,FALSE,1,6.1553E+12,2.00215E+13,0,0,61.02,61.02,0,0,61.02,0
+Canada,Quebec,Laval,Clothing,"High-Top Boots ""Don't Fall Off""",XS -  2 Boots Only,2025-01-18,Canada,Quebec,Laval,1.94929E+12,order,New,,,FALSE,1,6.16372E+12,2.00211E+13,30,0,0,30,0,1.5,31.5,1
+Canada,Ontario,Innisfil,,Know Brainer Balls x2,2 Balls,2025-01-19,Canada,Ontario,Innisfil,7.75958E+12,order,New,,,FALSE,1,6.16532E+12,2.0026E+13,31.99,0,0,31.99,0,4.16,36.15,1
+Canada,British Columbia,Vancouver,,,,2025-01-19,Canada,British Columbia,Vancouver,,return,New,,,FALSE,1,6.11833E+12,2.00311E+13,0,0,-98.18,-98.18,0,0,-98.18,0
+Canada,Ontario,Innisfil,,,,2025-01-19,Canada,Ontario,Innisfil,,order,New,,,FALSE,1,6.16532E+12,2.0026E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,British Columbia,Vancouver,,,,2025-01-19,Canada,British Columbia,Vancouver,,return,New,,,FALSE,1,6.11833E+12,2.00266E+13,0,0,98.18,98.18,0,0,98.18,0
+Canada,British Columbia,Vancouver,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2025-01-19,Canada,British Columbia,Vancouver,1.94929E+12,return,New,,,FALSE,1,6.11833E+12,2.00266E+13,0,0,-93.5,-93.5,0,-4.68,-98.18,0
+Canada,Ontario,Guelph,,Clinic Order Medical Snuggie,L,2025-01-20,Canada,Ontario,Guelph,4.6145E+12,order,Returning,,,FALSE,1,6.16665E+12,2.003E+13,54.9,0,0,54.9,0,7.14,62.04,2
+Canada,Ontario,Oakville,,Clinic Order Medical Snuggie,M1,2025-01-20,Canada,Ontario,Oakville,4.6145E+12,order,Returning,,,FALSE,1,6.16659E+12,2.00298E+13,106.3,0,0,106.3,0,13.82,120.12,5
+Canada,Ontario,Mississauga,,Clinic Order Medical Snuggie,XS,2025-01-20,Canada,Ontario,Mississauga,4.6145E+12,order,Returning,,,FALSE,1,6.16651E+12,2.00295E+13,177.5,0,0,177.5,0,23.08,200.58,10
+Canada,Ontario,Guelph,,Clinic Order Medical Snuggie,S,2025-01-20,Canada,Ontario,Guelph,4.6145E+12,order,Returning,,,FALSE,1,6.16665E+12,2.003E+13,38.9,0,0,38.9,0,5.06,43.96,2
+Canada,Ontario,Mississauga,,Clinic Order Medical Snuggie,M1,2025-01-20,Canada,Ontario,Mississauga,4.6145E+12,order,Returning,,,FALSE,1,6.16651E+12,2.00296E+13,106.3,0,0,106.3,0,13.82,120.12,0
+Canada,Ontario,Oakville,,,,2025-01-20,Canada,Ontario,Oakville,,order,Returning,,,FALSE,1,6.16659E+12,2.00298E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Guelph,,Clinic Order Medical Snuggie,M1,2025-01-20,Canada,Ontario,Guelph,4.6145E+12,order,Returning,,,FALSE,1,6.16665E+12,2.003E+13,42.52,0,0,42.52,0,5.53,48.05,2
+Canada,Ontario,Guelph,,,,2025-01-20,Canada,Ontario,Guelph,,order,Returning,,,FALSE,1,6.16665E+12,2.003E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Guelph,,Clinic Order Medical Snuggie,XL,2025-01-20,Canada,Ontario,Guelph,4.6145E+12,order,Returning,,,FALSE,1,6.16665E+12,2.003E+13,29.05,0,0,29.05,0,3.78,32.83,1
+Canada,Ontario,Mississauga,,,,2025-01-20,Canada,Ontario,Mississauga,,order,Returning,,,FALSE,1,6.16651E+12,2.00295E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Fonthill,,Clinic Order Medical Snuggie,L,2025-01-21,Canada,Ontario,Fonthill,4.6145E+12,order,Returning,,,FALSE,1,6.16802E+12,2.00343E+13,164.7,0,0,164.7,0,21.41,186.11,6
+Canada,Ontario,Fonthill,,Clinic Order Medical Snuggie,M2,2025-01-21,Canada,Ontario,Fonthill,4.6145E+12,order,Returning,,,FALSE,1,6.16802E+12,2.00343E+13,147.48,0,0,147.48,0,19.17,166.65,6
+Canada,Ontario,Mississauga,,Clinic Order Medical Snuggie,XS,2025-01-21,Canada,Ontario,Mississauga,4.6145E+12,order,Returning,,,FALSE,1,6.16791E+12,2.00339E+13,177.5,0,0,177.5,0,23.08,200.58,10
+Canada,Ontario,Ottawa,,Hoodie,M2,2025-01-21,Canada,Ontario,Ottawa,4.46952E+12,order,Returning,,,FALSE,1,6.16843E+12,2.00356E+13,97.48,0,0,97.48,0,12.67,110.15,2
+Canada,Ontario,Mississauga,,,,2025-01-21,Canada,Ontario,Mississauga,,order,Returning,,,FALSE,1,6.16791E+12,2.00339E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Ottawa,,,,2025-01-21,Canada,Ontario,Ottawa,,order,Returning,,,FALSE,1,6.16843E+12,2.00356E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Fonthill,,,,2025-01-21,Canada,Ontario,Fonthill,,order,Returning,,,FALSE,1,6.16802E+12,2.00343E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Minden,,"High Top Boots ""Stay-On"" Technology",L|7,2025-01-22,Canada,Ontario,Minden,7.76384E+12,order,New,,,FALSE,1,6.17021E+12,2.00413E+13,119,-11.9,0,107.1,0,13.92,121.02,2
+Canada,Alberta,Edmonton,,,,2025-01-22,Canada,Alberta,Edmonton,,return,Returning,,,FALSE,1,6.15326E+12,2.00447E+13,0,0,-63,-63,0,0,-63,0
+Canada,Quebec,Sainte-Thérèse,,Know Brainer Balls x2,2 Balls,2025-01-22,Canada,Quebec,Sainte-Thérèse,7.75958E+12,order,Returning,,,FALSE,2,6.1699E+12,2.00403E+13,63.98,-19.2,0,44.78,0,2.24,47.02,2
+Canada,Alberta,Edmonton,Clothing,"High-Top Boots ""Don't Fall Off""",XS -  2 Boots Only,2025-01-22,Canada,Alberta,Edmonton,1.94929E+12,return,Returning,,,FALSE,1,6.15326E+12,2.00396E+13,0,0,-60,-60,0,-3,-63,0
+Canada,Alberta,Edmonton,,,,2025-01-22,Canada,Alberta,Edmonton,,return,Returning,,,FALSE,1,6.15326E+12,2.00396E+13,0,0,63,63,0,0,63,0
+Canada,Quebec,Caplan,,"High Top Boots ""Stay-On"" Technology",XL|8,2025-01-22,Canada,Quebec,Caplan,7.76384E+12,order,New,,,FALSE,1,6.17001E+12,2.00406E+13,123,-12.3,0,110.7,0,5.54,116.24,2
+Canada,Quebec,Caplan,,,,2025-01-22,Canada,Quebec,Caplan,,order,New,,,FALSE,1,6.17001E+12,2.00406E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Sainte-Thérèse,,Hoodiee,L,2025-01-22,Canada,Quebec,Sainte-Thérèse,7.59878E+12,order,Returning,,,FALSE,2,6.1699E+12,2.00403E+13,69.99,-20.99,0,49,0,2.45,51.45,1
+Canada,Ontario,Toronto,,"High Top Boots ""Stay-On"" Technology",XXXXS|1,2025-01-22,Canada,Ontario,Toronto,7.76384E+12,order,New,,,FALSE,1,6.16999E+12,2.00406E+13,49.99,0,0,49.99,0,6.5,56.49,1
+Canada,Ontario,Minden,,,,2025-01-22,Canada,Ontario,Minden,,order,New,,,FALSE,1,6.17021E+12,2.00413E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Guelph,,,,2025-01-22,Canada,Ontario,Guelph,,order,Returning,,,FALSE,1,6.16965E+12,2.00395E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Guelph,,Clinic Order Medical Snuggie,L,2025-01-22,Canada,Ontario,Guelph,4.6145E+12,order,Returning,,,FALSE,1,6.16965E+12,2.00395E+13,274.5,0,0,274.5,0,35.69,310.19,10
+Canada,Quebec,Sainte-Thérèse,,,,2025-01-22,Canada,Quebec,Sainte-Thérèse,,order,Returning,,,FALSE,2,6.1699E+12,2.00403E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Guelph,,Clinic Order Medical Snuggie,S,2025-01-22,Canada,Ontario,Guelph,4.6145E+12,order,Returning,,,FALSE,1,6.16965E+12,2.00395E+13,97.25,0,0,97.25,0,12.64,109.89,5
+Canada,Ontario,Toronto,,,,2025-01-22,Canada,Ontario,Toronto,,order,New,,,FALSE,1,6.16999E+12,2.00406E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Hamilton,,Clinic Order Medical Snuggie,M2,2025-01-23,Canada,Ontario,Hamilton,4.6145E+12,order,Returning,,,FALSE,1,6.17161E+12,2.00457E+13,49.16,0,0,49.16,0,6.39,55.55,2
+Canada,Ontario,Aurora,,Clinic Order Medical Snuggie,M1,2025-01-23,Canada,Ontario,Aurora,4.6145E+12,order,Returning,,,FALSE,1,6.17187E+12,2.00466E+13,21.26,0,0,21.26,0,2.76,24.02,1
+Canada,Ontario,Aurora,,,,2025-01-23,Canada,Ontario,Aurora,,order,Returning,,,FALSE,1,6.17187E+12,2.00466E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Aurora,,Clinic Order Medical Snuggie,XL,2025-01-23,Canada,Ontario,Aurora,4.6145E+12,order,Returning,,,FALSE,1,6.17187E+12,2.00466E+13,87.15,0,0,87.15,0,11.33,98.48,3
+Canada,Ontario,Hensall,,,,2025-01-23,Canada,Ontario,Hensall,,order,New,,,FALSE,1,6.17218E+12,2.00478E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Hamilton,,,,2025-01-23,Canada,Ontario,Hamilton,,order,Returning,,,FALSE,1,6.17161E+12,2.00457E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Hamilton,,Clinic Order Medical Snuggie,XS,2025-01-23,Canada,Ontario,Hamilton,4.6145E+12,order,Returning,,,FALSE,1,6.17161E+12,2.00457E+13,17.75,0,0,17.75,0,2.31,20.06,1
+Canada,Ontario,Hamilton,,Clinic Order Medical Snuggie,L,2025-01-23,Canada,Ontario,Hamilton,4.6145E+12,order,Returning,,,FALSE,1,6.17161E+12,2.00457E+13,54.9,0,0,54.9,0,7.14,62.04,2
+Canada,Ontario,Aurora,,Clinic Order Medical Snuggie,S,2025-01-23,Canada,Ontario,Aurora,4.6145E+12,order,Returning,,,FALSE,1,6.17187E+12,2.00466E+13,38.9,0,0,38.9,0,5.06,43.96,2
+Canada,Ontario,Hamilton,,Clinic Order Medical Snuggie,S,2025-01-23,Canada,Ontario,Hamilton,4.6145E+12,order,Returning,,,FALSE,1,6.17161E+12,2.00457E+13,38.9,0,0,38.9,0,5.06,43.96,2
+Canada,Ontario,Hensall,Clothing,"High-Top Boots ""Don't Fall Off""",XS -  2 Boots Only,2025-01-23,Canada,Ontario,Hensall,1.94929E+12,order,New,,,FALSE,1,6.17218E+12,2.00478E+13,60,-6,0,54,0,7.02,61.02,2
+Canada,Ontario,Hamilton,,,,2025-01-24,Canada,Ontario,Hamilton,,order,Returning,,,FALSE,1,6.17345E+12,2.00518E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Hamilton,,Clinic Order Medical Snuggie,L,2025-01-24,Canada,Ontario,Hamilton,4.6145E+12,order,Returning,,,FALSE,1,6.17345E+12,2.00518E+13,54.9,0,0,54.9,0,7.14,62.04,2
+Canada,Ontario,Hamilton,,Clinic Order Medical Snuggie,M1,2025-01-24,Canada,Ontario,Hamilton,4.6145E+12,order,Returning,,,FALSE,1,6.17345E+12,2.00518E+13,63.78,0,0,63.78,0,8.29,72.07,3
+Canada,Nova Scotia,Southampton,,,,2025-01-25,Canada,Nova Scotia,Southampton,,order,New,,,FALSE,1,6.17442E+12,2.00547E+13,0,0,0,0,0,0,0,0
+Canada,Nova Scotia,Southampton,Clothing,3 Season Heated Coat,XS,2025-01-25,Canada,Nova Scotia,Southampton,1.85914E+12,order,New,,,FALSE,1,6.17442E+12,2.00547E+13,131.99,-13.19,0,118.8,0,17.82,136.62,1
+United States,New Jersey,West Orange,,Custom Snuggie Reorder - West Orange Animal Hospital,M1,2025-01-27,United States,New Jersey,West Orange,6.93786E+12,order,Returning,,,FALSE,1,6.17732E+12,2.00634E+13,229.7,0,0,229.7,0,0,229.7,10
+United States,New Jersey,West Orange,,Custom Snuggie Reorder - West Orange Animal Hospital,XS,2025-01-27,United States,New Jersey,West Orange,6.93786E+12,order,Returning,,,FALSE,1,6.17732E+12,2.00634E+13,40.2,0,0,40.2,0,0,40.2,2
+United States,New Jersey,West Orange,,Custom Snuggie Reorder - West Orange Animal Hospital,S,2025-01-27,United States,New Jersey,West Orange,6.93786E+12,order,Returning,,,FALSE,1,6.17732E+12,2.00634E+13,150.78,0,0,150.78,0,0,150.78,7
+United States,New Jersey,West Orange,,Custom Snuggie Reorder - West Orange Animal Hospital,M2,2025-01-27,United States,New Jersey,West Orange,6.93786E+12,order,Returning,,,FALSE,1,6.17732E+12,2.00634E+13,272.8,0,0,272.8,0,0,272.8,10
+Canada,Ontario,Owen Sound,,Clinic Order Medical Snuggie,M2,2025-01-27,Canada,Ontario,Owen Sound,4.6145E+12,order,Returning,,,FALSE,1,6.17729E+12,2.00633E+13,122.9,0,0,122.9,0,15.98,138.88,5
+Canada,Ontario,Owen Sound,,Clinic Order Medical Snuggie,L,2025-01-27,Canada,Ontario,Owen Sound,4.6145E+12,order,Returning,,,FALSE,1,6.17729E+12,2.00633E+13,109.8,0,0,109.8,0,14.27,124.07,4
+Canada,Ontario,Owen Sound,,Clinic Order Medical Snuggie,XS,2025-01-27,Canada,Ontario,Owen Sound,4.6145E+12,order,Returning,,,FALSE,1,6.17729E+12,2.00633E+13,17.75,0,0,17.75,0,2.31,20.06,1
+Canada,Ontario,Owen Sound,,,,2025-01-27,Canada,Ontario,Owen Sound,,order,Returning,,,FALSE,1,6.17729E+12,2.00633E+13,0,0,0,0,0,0,0,0
+United States,New Jersey,West Orange,,,,2025-01-27,United States,New Jersey,West Orange,,order,Returning,,,FALSE,1,6.17732E+12,2.00634E+13,0,0,0,0,21.54,0,21.54,0
+United States,New Jersey,West Orange,,Custom Snuggie Reorder - West Orange Animal Hospital,L,2025-01-27,United States,New Jersey,West Orange,6.93786E+12,order,Returning,,,FALSE,1,6.17732E+12,2.00634E+13,60.3,0,0,60.3,0,0,60.3,2
+United States,New Jersey,West Orange,,Custom Snuggie Reorder - West Orange Animal Hospital,XL,2025-01-27,United States,New Jersey,West Orange,6.93786E+12,order,Returning,,,FALSE,1,6.17732E+12,2.00634E+13,63.18,0,0,63.18,0,0,63.18,2
+Canada,Ontario,Oakville,,"High Top Boots ""Stay-On"" Technology",XXXS|2,2025-01-29,Canada,Ontario,Oakville,7.76384E+12,order,New,,,FALSE,1,6.18092E+12,2.00754E+13,103,-30.9,0,72.1,0,9.37,81.47,2
+Canada,Quebec,Amos,,,,2025-01-29,Canada,Quebec,Amos,,order,New,,,FALSE,1,6.18158E+12,2.00776E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Toronto,,,,2025-01-29,Canada,Ontario,Toronto,,return,Returning,,,FALSE,1,6.18059E+12,2.00774E+13,0,0,97.75,97.75,0,0,97.75,0
+Canada,Ontario,Owen Sound,,,,2025-01-29,Canada,Ontario,Owen Sound,,return,Returning,,,FALSE,2,6.15987E+12,2.0075E+13,0,0,234.7,234.7,0,0,234.7,0
+Canada,Ontario,Owen Sound,,,,2025-01-29,Canada,Ontario,Owen Sound,,return,Returning,,,FALSE,2,6.15987E+12,2.0075E+13,0,0,-234.7,-234.7,0,0,-234.7,0
+Canada,Ontario,Toronto,,"High Top Boots ""Stay-On"" Technology",XXXS|2,2025-01-29,Canada,Ontario,Toronto,7.76384E+12,order,New,,,FALSE,1,6.14995E+12,2.00749E+13,51.5,0,0,51.5,0,6.7,58.2,0
+Canada,Ontario,Toronto,,DOGORA High Top Boots,XXS,2025-01-29,Canada,Ontario,Toronto,7.45005E+12,order,Returning,,,FALSE,1,6.18059E+12,2.00742E+13,86.5,0,0,86.5,0,11.25,97.75,2
+Canada,Ontario,Toronto,,,,2025-01-29,Canada,Ontario,Toronto,,order,Returning,,,FALSE,1,6.18059E+12,2.00742E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Toronto,,"High Top Boots ""Stay-On"" Technology",XXS|3,2025-01-29,Canada,Ontario,Toronto,7.76384E+12,order,New,,,FALSE,1,6.14995E+12,2.00774E+13,107,0,0,107,0,13.91,120.91,0
+Canada,Ontario,Oakville,,,,2025-01-29,Canada,Ontario,Oakville,,order,New,,,FALSE,1,6.18092E+12,2.00754E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Toronto,,DOGORA High Top Boots,XXS,2025-01-29,Canada,Ontario,Toronto,7.45005E+12,return,Returning,,,FALSE,1,6.18059E+12,2.00774E+13,0,0,-86.5,-86.5,0,-11.25,-97.75,0
+Canada,Ontario,Toronto,,,,2025-01-29,Canada,Ontario,Toronto,,return,Returning,,,FALSE,1,6.18059E+12,2.00834E+13,0,0,-97.75,-97.75,0,0,-97.75,0
+Canada,Ontario,Owen Sound,,,,2025-01-29,Canada,Ontario,Owen Sound,,return,Returning,,,FALSE,2,6.15987E+12,2.00812E+13,0,0,-234.7,-234.7,0,0,-234.7,0
+Canada,Quebec,Amos,,"High Top Boots ""Stay-On"" Technology",S|5,2025-01-29,Canada,Quebec,Amos,7.76384E+12,order,New,,,FALSE,1,6.18158E+12,2.00776E+13,55.5,0,0,55.5,0,2.78,58.28,1
+Canada,Ontario,Nepean,,,,2025-01-30,Canada,Ontario,Nepean,,order,Returning,,,FALSE,1,6.18281E+12,2.00816E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Nepean,,Clinic Order Medical Snuggie,L,2025-01-30,Canada,Ontario,Nepean,4.6145E+12,order,Returning,,,FALSE,1,6.18281E+12,2.00816E+13,54.9,0,0,54.9,0,7.14,62.04,2
+Canada,Ontario,Kawartha Lakes,,"High Top Boots ""Stay-On"" Technology",L|7,2025-01-30,Canada,Ontario,Lindsay,7.76384E+12,order,New,,,FALSE,1,6.1822E+12,2.00795E+13,59.5,0,0,59.5,0,7.74,67.24,1
+Canada,Ontario,Nepean,,Clinic Order Medical Snuggie,XS,2025-01-30,Canada,Ontario,Nepean,4.6145E+12,order,Returning,,,FALSE,1,6.18281E+12,2.00816E+13,17.75,0,0,17.75,0,2.31,20.06,1
+Canada,Ontario,Nepean,,Clinic Order Medical Snuggie,M2,2025-01-30,Canada,Ontario,Nepean,4.6145E+12,order,Returning,,,FALSE,1,6.18281E+12,2.00816E+13,73.74,0,0,73.74,0,9.59,83.33,3
+Canada,Ontario,Kawartha Lakes,,,,2025-01-30,Canada,Ontario,Lindsay,,order,New,,,FALSE,1,6.1822E+12,2.00795E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Kawartha Lakes,,"High Top Boots ""Stay-On"" Technology",M|6,2025-01-30,Canada,Ontario,Lindsay,7.76384E+12,order,New,,,FALSE,1,6.1822E+12,2.00795E+13,57.5,0,0,57.5,0,7.48,64.98,1
+Canada,Ontario,Nepean,,Clinic Order Medical Snuggie,M1,2025-01-30,Canada,Ontario,Nepean,4.6145E+12,order,Returning,,,FALSE,1,6.18281E+12,2.00816E+13,85.04,0,0,85.04,0,11.06,96.1,4
+Canada,Ontario,Nepean,,Clinic Order Medical Snuggie,S,2025-01-30,Canada,Ontario,Nepean,4.6145E+12,order,Returning,,,FALSE,1,6.18281E+12,2.00816E+13,97.25,0,0,97.25,0,12.64,109.89,5
+Canada,Ontario,Woodbridge,,Clinic Order Medical Snuggie,S,2025-01-31,Canada,Ontario,Oshawa,4.6145E+12,order,Returning,,,FALSE,1,6.18453E+12,2.00872E+13,77.8,0,0,77.8,0,10.11,87.91,4
+Canada,British Columbia,Surrey,,Know Brainer Balls x2,2 Balls,2025-01-31,Canada,British Columbia,Surrey,7.75958E+12,order,New,,,FALSE,1,6.185E+12,2.00888E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,British Columbia,Surrey,,,,2025-01-31,Canada,British Columbia,Surrey,,order,New,,,FALSE,1,6.185E+12,2.00888E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,British Columbia,North Van,,,,2025-01-31,Canada,British Columbia,North Vancouver,,order,New,,,FALSE,1,6.18458E+12,2.00874E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Ontario,Woodbridge,,Clinic Order Medical Snuggie,XS,2025-01-31,Canada,Ontario,Oshawa,4.6145E+12,order,Returning,,,FALSE,1,6.18453E+12,2.00872E+13,106.5,0,0,106.5,0,13.85,120.35,6
+Canada,British Columbia,North Van,,Know Brainer Balls x2,2 Balls,2025-01-31,Canada,British Columbia,North Vancouver,7.75958E+12,order,New,,,FALSE,1,6.18458E+12,2.00874E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,Ontario,Woodbridge,,,,2025-01-31,Canada,Ontario,Oshawa,,order,Returning,,,FALSE,1,6.18453E+12,2.00872E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Markham,,,,2025-01-31,Canada,Ontario,Markham,,order,New,,,FALSE,1,6.18476E+12,2.0088E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,Ontario,Markham,,Know Brainer Balls x2,2 Balls,2025-01-31,Canada,Ontario,Markham,7.75958E+12,order,New,,,FALSE,1,6.18476E+12,2.0088E+13,31.99,0,0,31.99,0,4.16,36.15,1
+Canada,Ontario,Toronto,,Know Brainer Balls x2,2 Balls,2025-02-01,Canada,Ontario,Toronto,7.75958E+12,order,New,,,FALSE,1,6.18566E+12,2.00907E+13,31.99,0,0,31.99,0,4.16,36.15,1
+Canada,Ontario,Fort Frances,,Know Brainer Balls x2,2 Balls,2025-02-01,Canada,Ontario,Fort Frances,7.75958E+12,order,New,,,FALSE,1,6.1861E+12,2.00921E+13,31.99,0,0,31.99,0,4.16,36.15,1
+Canada,Alberta,Edmonton,,Know Brainer Balls x2,2 Balls,2025-02-01,Canada,Alberta,Edmonton,7.75958E+12,order,New,,,FALSE,1,6.18643E+12,2.00931E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,Alberta,Edmonton,,,,2025-02-01,Canada,Alberta,Edmonton,,order,New,,,FALSE,1,6.18643E+12,2.00931E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,British Columbia,Lantzville,,Know Brainer Balls x2,2 Balls,2025-02-01,Canada,British Columbia,Lantzville,7.75958E+12,order,New,,,FALSE,1,6.18604E+12,2.00919E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,British Columbia,Lantzville,,,,2025-02-01,Canada,British Columbia,Lantzville,,order,New,,,FALSE,1,6.18604E+12,2.00919E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Ontario,Fort Frances,,,,2025-02-01,Canada,Ontario,Fort Frances,,order,New,,,FALSE,1,6.1861E+12,2.00921E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,Ontario,Toronto,,,,2025-02-01,Canada,Ontario,Toronto,,order,New,,,FALSE,1,6.18566E+12,2.00907E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,Ontario,Woodbridge,,,,2025-02-02,Canada,Ontario,Woodbridge,,order,New,,,FALSE,1,6.18744E+12,2.00961E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,Ontario,Fort Frances,,,,2025-02-02,Canada,Ontario,Fort Frances,,return,New,,,FALSE,1,6.1861E+12,2.00988E+13,0,0,-10.38,-10.38,0,0,-10.38,0
+Canada,Ontario,Fort Frances,,,,2025-02-02,Canada,Ontario,Fort Frances,,return,New,,,FALSE,1,6.1861E+12,2.00944E+13,0,0,-10.38,-10.38,0,0,-10.38,0
+Canada,Ontario,Mono,,"High Top Boots ""Stay-On"" Technology",M|6,2025-02-02,Canada,Ontario,Mono,7.76384E+12,order,New,,,FALSE,1,6.18806E+12,2.00981E+13,57.5,0,0,57.5,0,7.48,64.98,1
+Canada,Ontario,Mono,,"High Top Boots ""Stay-On"" Technology",L|7,2025-02-02,Canada,Ontario,Mono,7.76384E+12,order,New,,,FALSE,1,6.18806E+12,2.00981E+13,59.5,0,0,59.5,0,7.74,67.24,1
+Canada,Ontario,Fort Frances,,,,2025-02-02,Canada,Ontario,Fort Frances,,return,New,,,FALSE,1,6.1861E+12,2.00944E+13,0,0,10.38,10.38,0,0,10.38,0
+Canada,Ontario,Woodbridge,,Know Brainer Balls x2,2 Balls,2025-02-02,Canada,Ontario,Woodbridge,7.75958E+12,order,New,,,FALSE,1,6.18744E+12,2.00961E+13,31.99,0,0,31.99,0,4.16,36.15,1
+Canada,Ontario,Mono,,,,2025-02-02,Canada,Ontario,Mono,,order,New,,,FALSE,1,6.18806E+12,2.00981E+13,0,0,0,0,0,0,0,0
+Canada,Alberta,Edmonton,Clothing,"High-Top Boots ""Don't Fall Off""",XXS - 2 Boots Only,2025-02-03,Canada,Alberta,Edmonton,1.94929E+12,return,New,,,FALSE,1,6.13422E+12,2.01022E+13,0,0,-60,-60,0,-3,-63,0
+Canada,British Columbia,Surrey,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2025-02-03,Canada,British Columbia,Surrey,1.94929E+12,order,New,,,FALSE,1,6.18922E+12,2.01016E+13,30,-3,0,27,0,1.35,28.35,1
+Canada,Ontario,Owen Sound,,,,2025-02-03,Canada,Ontario,Owen Sound,,order,Returning,,,FALSE,1,6.18861E+12,2.00997E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Claremont,,"High Top Boots ""Stay-On"" Technology",XL|8,2025-02-03,Canada,Ontario,Claremont,7.76384E+12,order,New,,,FALSE,1,6.18862E+12,2.00997E+13,123,-12.3,0,110.7,0,14.39,125.09,2
+Canada,Alberta,Edmonton,,,,2025-02-03,Canada,Alberta,Edmonton,,return,New,,,FALSE,1,6.13422E+12,2.01022E+13,0,0,63,63,0,0,63,0
+Canada,Alberta,Edmonton,,,,2025-02-03,Canada,Alberta,Edmonton,,return,New,,,FALSE,1,6.13422E+12,2.01073E+13,0,0,-63,-63,0,0,-63,0
+Canada,Ontario,Owen Sound,,Clinic Order Medical Snuggie,M1,2025-02-03,Canada,Ontario,Owen Sound,4.6145E+12,order,Returning,,,FALSE,1,6.18861E+12,2.00997E+13,21.26,0,0,21.26,0,2.76,24.02,1
+Canada,Quebec,Caplan,,"High Top Boots ""Stay-On"" Technology",XL|8,2025-02-03,Canada,Quebec,Caplan,7.76384E+12,return,New,,,FALSE,1,6.17001E+12,2.01022E+13,0,0,-110.7,-110.7,0,-5.54,-116.24,0
+Canada,Ontario,Owen Sound,,Clinic Order Medical Snuggie,S,2025-02-03,Canada,Ontario,Owen Sound,4.6145E+12,order,Returning,,,FALSE,1,6.18861E+12,2.00997E+13,116.7,0,0,116.7,0,15.17,131.87,6
+Canada,Ontario,Claremont,,,,2025-02-03,Canada,Ontario,Claremont,,order,New,,,FALSE,1,6.18862E+12,2.00997E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Caplan,,,,2025-02-03,Canada,Quebec,Caplan,,return,New,,,FALSE,1,6.17001E+12,2.01022E+13,0,0,116.24,116.24,0,0,116.24,0
+Canada,Ontario,Owen Sound,,Clinic Order Medical Snuggie,XS,2025-02-03,Canada,Ontario,Owen Sound,4.6145E+12,order,Returning,,,FALSE,1,6.18861E+12,2.00997E+13,17.75,0,0,17.75,0,2.31,20.06,1
+Canada,Quebec,Caplan,,,,2025-02-03,Canada,Quebec,Caplan,,return,New,,,FALSE,1,6.17001E+12,2.01073E+13,0,0,-116.24,-116.24,0,0,-116.24,0
+Canada,British Columbia,Surrey,,,,2025-02-03,Canada,British Columbia,Surrey,,order,New,,,FALSE,1,6.18922E+12,2.01016E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Ontario,Markham,,"High Top Boots ""Stay-On"" Technology",XS|4,2025-02-04,Canada,Ontario,Markham,7.76384E+12,return,Returning,,,FALSE,1,6.13869E+12,2.01065E+13,0,0,-49.05,-49.05,0,-6.38,-55.43,0
+Canada,Ontario,St Thomas,,"High Top Boots ""Stay-On"" Technology",XXL|9,2025-02-04,Canada,Ontario,St Thomas,7.76384E+12,order,New,,,FALSE,1,6.19071E+12,2.01064E+13,127,0,0,127,0,16.51,143.51,2
+Canada,Ontario,Markham,,,,2025-02-04,Canada,Ontario,Markham,,return,Returning,,,FALSE,1,6.13869E+12,2.01065E+13,0,0,111.87,111.87,0,0,111.87,0
+Canada,Ontario,Markham,,"High Top Boots ""Stay-On"" Technology",S|5,2025-02-04,Canada,Ontario,Markham,7.76384E+12,return,Returning,,,FALSE,1,6.13869E+12,2.01065E+13,0,0,-49.95,-49.95,0,-6.49,-56.44,0
+Canada,Ontario,Kawartha Lakes,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2025-02-04,Canada,Ontario,Lindsay,1.94929E+12,order,Returning,,,FALSE,1,6.1908E+12,2.01067E+13,30,0,0,30,0,3.9,33.9,1
+Canada,Ontario,St Thomas,,,,2025-02-04,Canada,Ontario,St Thomas,,order,New,,,FALSE,1,6.19071E+12,2.01064E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Kawartha Lakes,,,,2025-02-04,Canada,Ontario,Lindsay,,order,Returning,,,FALSE,1,6.1908E+12,2.01067E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,British Columbia,Prince George,,Clinic Order Medical Snuggie,M1,2025-02-04,Canada,British Columbia,Prince George,4.6145E+12,order,Returning,,,FALSE,1,6.19087E+12,2.0107E+13,42.52,0,0,42.52,0,2.13,44.65,2
+Canada,Ontario,Markham,,,,2025-02-04,Canada,Ontario,Markham,,return,Returning,,,FALSE,1,6.13869E+12,2.01123E+13,0,0,-111.87,-111.87,0,0,-111.87,0
+Canada,British Columbia,Prince George,,Clinic Order Medical Snuggie,XL,2025-02-04,Canada,British Columbia,Prince George,4.6145E+12,order,Returning,,,FALSE,1,6.19087E+12,2.0107E+13,116.2,0,0,116.2,0,5.81,122.01,4
+Canada,British Columbia,Prince George,,,,2025-02-04,Canada,British Columbia,Prince George,,order,Returning,,,FALSE,1,6.19087E+12,2.0107E+13,0,0,0,0,0,0,0,0
+Canada,British Columbia,Prince George,,Clinic Order Medical Snuggie,L,2025-02-04,Canada,British Columbia,Prince George,4.6145E+12,order,Returning,,,FALSE,1,6.19087E+12,2.0107E+13,109.8,0,0,109.8,0,5.49,115.29,4
+Canada,British Columbia,Prince George,,Clinic Order Medical Snuggie,M2,2025-02-04,Canada,British Columbia,Prince George,4.6145E+12,order,Returning,,,FALSE,1,6.19087E+12,2.0107E+13,98.32,0,0,98.32,0,4.92,103.24,4
+Canada,Ontario,Woodbridge,,Clinic Order Medical Snuggie,S,2025-02-05,Canada,British Columbia,Nanaimo,4.6145E+12,order,Returning,,,FALSE,1,6.193E+12,2.01134E+13,58.35,0,0,58.35,0,2.92,61.27,3
+Canada,Ontario,Woodbridge,,Clinic Order Medical Snuggie,XS,2025-02-05,Canada,British Columbia,Nanaimo,4.6145E+12,order,Returning,,,FALSE,1,6.193E+12,2.01134E+13,124.25,0,0,124.25,0,6.21,130.46,7
+Canada,Ontario,Woodbridge,,,,2025-02-05,Canada,British Columbia,Nanaimo,,order,Returning,,,FALSE,1,6.193E+12,2.01134E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Woodbridge,,Clinic Order Medical Snuggie,M2,2025-02-05,Canada,British Columbia,Nanaimo,4.6145E+12,order,Returning,,,FALSE,1,6.193E+12,2.01134E+13,49.16,0,0,49.16,0,2.46,51.62,2
+Canada,Ontario,Oshawa,,"High Top Boots ""Stay-On"" Technology",XXXXS|1,2025-02-05,Canada,Ontario,Oshawa,7.76384E+12,order,New,,,FALSE,1,6.19344E+12,2.01148E+13,49.99,0,0,49.99,0,6.5,56.49,1
+Canada,Ontario,Oshawa,,,,2025-02-05,Canada,Ontario,Oshawa,,order,New,,,FALSE,1,6.19344E+12,2.01148E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Woodbridge,,Clinic Order Medical Snuggie,M1,2025-02-05,Canada,British Columbia,Nanaimo,4.6145E+12,order,Returning,,,FALSE,1,6.193E+12,2.01134E+13,63.78,0,0,63.78,0,3.19,66.97,3
+Canada,Ontario,Woodbridge,,Clinic Order Medical Snuggie,L,2025-02-05,Canada,British Columbia,Nanaimo,4.6145E+12,order,Returning,,,FALSE,1,6.193E+12,2.01134E+13,219.6,0,0,219.6,0,10.98,230.58,8
+Canada,Quebec,Hampstead,,Know Brainer Balls x2,2 Balls,2025-02-06,Canada,Quebec,Hampstead,7.75958E+12,order,New,,,FALSE,1,6.1939E+12,2.01161E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,Quebec,Grand-Remous,,,,2025-02-06,Canada,Quebec,Grand-Remous,,order,New,,,FALSE,1,6.19432E+12,2.01175E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Hampstead,,,,2025-02-06,Canada,Quebec,Hampstead,,order,New,,,FALSE,1,6.1939E+12,2.01161E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Ontario,Kars,,"High Top Boots ""Stay-On"" Technology",XXXL|10,2025-02-06,Canada,Ontario,Kars,7.76384E+12,return,Returning,,,FALSE,1,6.15122E+12,2.0118E+13,0,0,-65,-65,0,-8.45,-73.45,0
+Canada,Ontario,Kars,,,,2025-02-06,Canada,Ontario,Kars,,return,Returning,,,FALSE,1,6.15122E+12,2.0118E+13,0,0,145.21,145.21,0,0,145.21,0
+Canada,Quebec,Grand-Remous,,"High Top Boots ""Stay-On"" Technology",XXL|9,2025-02-06,Canada,Quebec,Grand-Remous,7.76384E+12,order,New,,,FALSE,1,6.19432E+12,2.01175E+13,63.5,0,0,63.5,0,3.18,66.68,1
+Canada,Ontario,Kars,,"High Top Boots ""Stay-On"" Technology",XXL|9,2025-02-06,Canada,Ontario,Kars,7.76384E+12,return,Returning,,,FALSE,1,6.15122E+12,2.0118E+13,0,0,-63.5,-63.5,0,-8.26,-71.76,0
+Canada,Ontario,Kars,,,,2025-02-06,Canada,Ontario,Kars,,return,Returning,,,FALSE,1,6.15122E+12,2.01236E+13,0,0,-145.21,-145.21,0,0,-145.21,0
+Canada,British Columbia,West Vancouver,,Know Brainer Balls x2,2 Balls,2025-02-07,Canada,British Columbia,West Vancouver,7.75958E+12,order,New,,,FALSE,1,6.19679E+12,2.01255E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,Quebec,Québec,,,,2025-02-07,Canada,Quebec,Québec,,order,New,,,FALSE,1,6.1956E+12,2.01216E+13,0,0,0,0,0,0,0,0
+Canada,British Columbia,West Vancouver,,,,2025-02-07,Canada,British Columbia,West Vancouver,,order,New,,,FALSE,1,6.19679E+12,2.01255E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Quebec,Québec,,"High Top Boots ""Stay-On"" Technology",XXXS|2,2025-02-07,Canada,Quebec,Québec,7.76384E+12,order,New,,,FALSE,1,6.1956E+12,2.01216E+13,51.5,0,0,51.5,0,2.58,54.08,1
+Canada,Ontario,Cambridge,,,,2025-02-07,Canada,Ontario,Cambridge,,order,New,,,FALSE,1,6.19558E+12,2.01216E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,Ontario,Cambridge,,Know Brainer Balls x2,2 Balls,2025-02-07,Canada,Ontario,Cambridge,7.75958E+12,order,New,,,FALSE,1,6.19558E+12,2.01216E+13,31.99,0,0,31.99,0,4.16,36.15,1
+Canada,Quebec,St-Lin-Laurentides,,"High Top Boots ""Stay-On"" Technology",L|7,2025-02-09,Canada,Quebec,St-Lin-Laurentides,7.76384E+12,order,New,,,FALSE,1,6.19874E+12,2.01313E+13,59.5,0,0,59.5,0,2.98,62.48,1
+Canada,Quebec,St-Lin-Laurentides,,,,2025-02-09,Canada,Quebec,St-Lin-Laurentides,,order,New,,,FALSE,1,6.19874E+12,2.01313E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Mono,,"High Top Boots ""Stay-On"" Technology",S|5,2025-02-10,Canada,Ontario,Mono,7.76384E+12,order,Returning,,,FALSE,1,6.20095E+12,2.01382E+13,55.5,0,0,55.5,0,7.22,62.72,1
+Canada,Ontario,Owen Sound,,Clinic Order Medical Snuggie,XS,2025-02-10,Canada,Ontario,Owen Sound,4.6145E+12,order,Returning,,,FALSE,1,6.20034E+12,2.01362E+13,17.75,0,0,17.75,0,2.31,20.06,1
+Canada,Ontario,Windsor,,Clinic Order Medical Snuggie,S,2025-02-10,Canada,Ontario,Windsor,4.6145E+12,order,Returning,,,FALSE,1,6.20121E+12,2.0139E+13,77.8,0,0,77.8,0,10.11,87.91,4
+Canada,Ontario,Mono,,,,2025-02-10,Canada,Ontario,Mono,,order,Returning,,,FALSE,1,6.20095E+12,2.01382E+13,0,0,0,0,0,0,0,0
+Canada,New Brunswick,Temperance Vale,,,,2025-02-10,Canada,New Brunswick,Temperance Vale,,order,New,,,FALSE,1,6.20017E+12,2.01357E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Owen Sound,,Clinic Order Medical Snuggie,M1,2025-02-10,Canada,Ontario,Owen Sound,4.6145E+12,order,Returning,,,FALSE,1,6.20034E+12,2.01362E+13,127.56,0,0,127.56,0,16.58,144.14,6
+Canada,New Brunswick,Temperance Vale,,"High Top Boots ""Stay-On"" Technology",XXS|3,2025-02-10,Canada,New Brunswick,Temperance Vale,7.76384E+12,order,New,,,FALSE,1,6.20017E+12,2.01357E+13,107,-10.7,0,96.3,0,14.45,110.75,2
+Canada,Ontario,Windsor,,Clinic Order Medical Snuggie,M1,2025-02-10,Canada,Ontario,Windsor,4.6145E+12,order,Returning,,,FALSE,1,6.20121E+12,2.0139E+13,21.26,0,0,21.26,0,2.76,24.02,1
+Canada,Ontario,Mono,,"High Top Boots ""Stay-On"" Technology",XS|4,2025-02-10,Canada,Ontario,Mono,7.76384E+12,order,Returning,,,FALSE,1,6.20095E+12,2.01382E+13,54.5,0,0,54.5,0,7.09,61.59,1
+Canada,Ontario,Owen Sound,,Clinic Order Medical Snuggie,S,2025-02-10,Canada,Ontario,Owen Sound,4.6145E+12,order,Returning,,,FALSE,1,6.20034E+12,2.01362E+13,38.9,0,0,38.9,0,5.06,43.96,2
+Canada,Ontario,Windsor,,Clinic Order Medical Snuggie,XS,2025-02-10,Canada,Ontario,Windsor,4.6145E+12,order,Returning,,,FALSE,1,6.20121E+12,2.0139E+13,71,0,0,71,0,9.23,80.23,4
+Canada,Ontario,Windsor,,Clinic Order Medical Snuggie,M2,2025-02-10,Canada,Ontario,Windsor,4.6145E+12,order,Returning,,,FALSE,1,6.20121E+12,2.0139E+13,49.16,0,0,49.16,0,6.39,55.55,2
+Canada,Ontario,Windsor,,,,2025-02-10,Canada,Ontario,Windsor,,order,Returning,,,FALSE,1,6.20121E+12,2.0139E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Owen Sound,,,,2025-02-10,Canada,Ontario,Owen Sound,,order,Returning,,,FALSE,1,6.20034E+12,2.01362E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Etobicoke,,Know Brainer Balls x2,2 Balls,2025-02-11,Canada,Ontario,Toronto,7.75958E+12,order,New,,,FALSE,1,6.20165E+12,2.01404E+13,31.99,0,0,31.99,0,4.16,36.15,1
+Canada,Quebec,Amos,,,,2025-02-11,Canada,Quebec,Amos,,return,New,,,FALSE,1,6.18158E+12,2.01417E+13,0,0,58.28,58.28,0,0,58.28,0
+Canada,Ontario,Toronto,,,,2025-02-11,Canada,Ontario,Toronto,,order,New,,,FALSE,1,6.20251E+12,2.01432E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Mississauga,,,,2025-02-11,Canada,Ontario,Mississauga,,order,Returning,,,FALSE,1,6.20211E+12,2.01419E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Amos,,,,2025-02-11,Canada,Quebec,Amos,,return,New,,,FALSE,1,6.18158E+12,2.01467E+13,0,0,-58.28,-58.28,0,0,-58.28,0
+Canada,Quebec,Amos,,"High Top Boots ""Stay-On"" Technology",S|5,2025-02-11,Canada,Quebec,Amos,7.76384E+12,return,New,,,FALSE,1,6.18158E+12,2.01417E+13,0,0,-55.5,-55.5,0,-2.78,-58.28,0
+Canada,Ontario,Mississauga,,Clinic Order Medical Snuggie,L,2025-02-11,Canada,Ontario,Mississauga,4.6145E+12,order,Returning,,,FALSE,1,6.20211E+12,2.01419E+13,164.7,0,0,164.7,0,21.41,186.11,6
+Canada,Ontario,Toronto,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2025-02-11,Canada,Ontario,Toronto,1.94929E+12,order,New,,,FALSE,1,6.20251E+12,2.01432E+13,60,0,0,60,0,7.8,67.8,2
+Canada,Ontario,Oshawa,,"High Top Boots ""Stay-On"" Technology",XXXXS|1,2025-02-11,Canada,Ontario,Oshawa,7.76384E+12,order,New,,,FALSE,1,6.19344E+12,2.01442E+13,49.99,0,0,49.99,0,6.5,56.49,0
+Canada,Ontario,Etobicoke,,,,2025-02-11,Canada,Ontario,Toronto,,order,New,,,FALSE,1,6.20165E+12,2.01404E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,Ontario,Mississauga,,Clinic Order Medical Snuggie,S,2025-02-12,Canada,Ontario,Mississauga,4.6145E+12,order,Returning,,,FALSE,1,6.20334E+12,2.01459E+13,19.45,0,0,19.45,0,2.53,21.98,1
+Canada,Ontario,Milton,,"High Top Boots ""Stay-On"" Technology",XXL|9,2025-02-12,Canada,Ontario,Milton,7.76384E+12,return,New,,,FALSE,1,6.12008E+12,2.01479E+13,0,0,-63.5,-63.5,0,-8.26,-71.76,0
+Canada,Ontario,Milton,,"High Top Boots ""Stay-On"" Technology",XXXL|10,2025-02-12,Canada,Ontario,Milton,7.76384E+12,return,New,,,FALSE,1,6.12008E+12,2.01479E+13,0,0,-65,-65,0,-8.45,-73.45,0
+Canada,Ontario,Trenton,,"High Top Boots ""Stay-On"" Technology",XXXXS|1,2025-02-12,Canada,Ontario,Trenton,7.76384E+12,order,New,,,FALSE,1,6.20348E+12,2.01463E+13,49.99,0,0,49.99,0,6.5,56.49,1
+Canada,Ontario,Trenton,,,,2025-02-12,Canada,Ontario,Trenton,,order,New,,,FALSE,1,6.20348E+12,2.01463E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Mississauga,,Clinic Order Medical Snuggie,L,2025-02-12,Canada,Ontario,Mississauga,4.6145E+12,order,Returning,,,FALSE,1,6.20334E+12,2.01459E+13,54.9,0,0,54.9,0,7.14,62.04,2
+Canada,Ontario,Mississauga,,,,2025-02-12,Canada,Ontario,Mississauga,,order,Returning,,,FALSE,1,6.20334E+12,2.01459E+13,0,0,0,0,0,0,0,0
+United States,New York,New York,Clothing,"High-Top Boots ""Don't Fall Off""",XXS - 2 Boots Only,2025-02-12,United States,New York,New York,1.94929E+12,order,New,,,FALSE,1,6.20383E+12,2.01474E+13,62.84,-6.28,0,56.56,0,0,56.56,2
+United States,New York,New York,,,,2025-02-12,United States,New York,New York,,order,New,,,FALSE,1,6.20383E+12,2.01474E+13,0,0,0,0,21.42,0,21.42,0
+Canada,Ontario,Toronto,,"High Top Boots ""Stay-On"" Technology",XL|8,2025-02-14,Canada,Ontario,Toronto,7.76384E+12,order,New,,,FALSE,1,6.20692E+12,2.01571E+13,61.5,0,0,61.5,0,8,69.5,1
+Canada,Ontario,Toronto,,,,2025-02-14,Canada,Ontario,Toronto,,order,New,,,FALSE,1,6.20692E+12,2.01571E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Toronto,,"High Top Boots ""Stay-On"" Technology",XXL|9,2025-02-14,Canada,Ontario,Toronto,7.76384E+12,order,New,,,FALSE,1,6.20692E+12,2.01571E+13,63.5,0,0,63.5,0,8.26,71.76,1
+Canada,Ontario,Kingsville,,,,2025-02-15,Canada,Ontario,Kingsville,,order,New,,,FALSE,1,6.20808E+12,2.01606E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Montreal,,Know Brainer Balls x2,2 Balls,2025-02-15,Canada,Quebec,Montreal,7.75958E+12,order,New,,,FALSE,1,6.20907E+12,2.01637E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,British Columbia,Vernon,Clothing,"High-Top Boots ""Don't Fall Off""",XXS - 2 Boots Only,2025-02-15,Canada,British Columbia,Vernon,1.94929E+12,order,New,,,FALSE,1,6.2084E+12,2.01616E+13,60,-6,0,54,0,2.7,56.7,2
+Canada,British Columbia,Vancouver,,,,2025-02-15,Canada,British Columbia,Vancouver,,order,New,,,FALSE,1,6.2084E+12,2.01616E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,British Columbia,Vancouver,,Know Brainer Balls x2,2 Balls,2025-02-15,Canada,British Columbia,Vancouver,7.75958E+12,order,New,,,FALSE,1,6.2084E+12,2.01616E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,Quebec,Montreal,,,,2025-02-15,Canada,Quebec,Montreal,,order,New,,,FALSE,1,6.20907E+12,2.01637E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Ontario,Kingsville,,Know Brainer Balls x2,2 Balls,2025-02-15,Canada,Ontario,Kingsville,7.75958E+12,order,New,,,FALSE,1,6.20808E+12,2.01606E+13,63.98,0,0,63.98,0,8.32,72.3,2
+Canada,British Columbia,Vernon,,,,2025-02-15,Canada,British Columbia,Vernon,,order,New,,,FALSE,1,6.2084E+12,2.01616E+13,0,0,0,0,0,0,0,0
+Canada,Alberta,Edmonton,Clothing,"High-Top Boots ""Don't Fall Off""",XXS - 2 Boots Only,2025-02-16,Canada,Alberta,Edmonton,1.94929E+12,order,New,,,FALSE,1,6.20927E+12,2.01643E+13,120,-12,0,108,0,5.4,113.4,4
+Canada,Ontario,Corunna,,,,2025-02-16,Canada,Ontario,Corunna,,order,New,,,FALSE,1,6.20962E+12,2.01652E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,Alberta,Edmonton,,,,2025-02-16,Canada,Alberta,Edmonton,,order,New,,,FALSE,1,6.20927E+12,2.01643E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Corunna,,Know Brainer Balls x2,2 Balls,2025-02-16,Canada,Ontario,Corunna,7.75958E+12,order,New,,,FALSE,1,6.20962E+12,2.01652E+13,31.99,0,0,31.99,0,4.16,36.15,1
+Canada,Quebec,St-Lin-Laurentides,,"High Top Boots ""Stay-On"" Technology",L|7,2025-02-17,Canada,Quebec,St-Lin-Laurentides,7.76384E+12,order,New,,,FALSE,1,6.19874E+12,2.01706E+13,59.5,0,0,59.5,0,2.98,62.48,0
+Canada,Quebec,Québec,,"High Top Boots ""Stay-On"" Technology",XXXS|2,2025-02-17,Canada,Quebec,Québec,7.76384E+12,return,New,,,FALSE,1,6.1956E+12,2.01723E+13,0,0,-51.5,-51.5,0,-2.58,-54.08,0
+Canada,Ontario,Toronto,,Know Brainer Balls x2,2 Balls,2025-02-17,Canada,Ontario,Toronto,7.75958E+12,order,New,,,FALSE,1,6.21121E+12,2.017E+13,31.99,0,0,31.99,0,4.16,36.15,1
+Canada,Ontario,Toronto,,,,2025-02-17,Canada,Ontario,Toronto,,order,New,,,FALSE,1,6.21121E+12,2.017E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,Manitoba,Winnipeg,,"High Top Boots ""Stay-On"" Technology",XS|4,2025-02-18,Canada,Manitoba,Winnipeg,7.76384E+12,order,New,,,FALSE,1,6.2121E+12,2.01729E+13,54.5,0,0,54.5,0,2.73,57.23,1
+Canada,British Columbia,Richmond,,,,2025-02-18,Canada,British Columbia,Richmond,,order,New,,,FALSE,1,6.21291E+12,2.01754E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Ontario,Simcoe,,,,2025-02-18,Canada,Ontario,Simcoe,,order,New,,,FALSE,1,6.21241E+12,2.01738E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,British Columbia,Richmond,,Know Brainer Balls x2,2 Balls,2025-02-18,Canada,British Columbia,Richmond,7.75958E+12,order,New,,,FALSE,1,6.21291E+12,2.01754E+13,31.99,-3.19,0,28.8,0,1.44,30.24,1
+Canada,Ontario,Simcoe,,Know Brainer Balls x2,2 Balls,2025-02-18,Canada,Ontario,Simcoe,7.75958E+12,order,New,,,FALSE,1,6.21241E+12,2.01738E+13,31.99,-3.19,0,28.8,0,3.74,32.54,1
+Canada,Manitoba,Winnipeg,,,,2025-02-18,Canada,Manitoba,Winnipeg,,order,New,,,FALSE,1,6.2121E+12,2.01729E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Owen Sound,,,,2025-02-19,Canada,Ontario,Owen Sound,,order,Returning,,,FALSE,1,6.21391E+12,2.01786E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Owen Sound,,Clinic Order Medical Snuggie,S,2025-02-19,Canada,Ontario,Owen Sound,4.6145E+12,order,Returning,,,FALSE,1,6.21391E+12,2.01786E+13,19.45,0,0,19.45,0,2.53,21.98,1
+Canada,Ontario,Trenton,,"High Top Boots ""Stay-On"" Technology",XXXXS|1,2025-02-19,Canada,Ontario,Trenton,7.76384E+12,order,Returning,,,FALSE,1,6.2142E+12,2.01795E+13,49.99,0,0,49.99,0,6.5,56.49,1
+Canada,Ontario,Woodbridge,,Clinic Order Medical Snuggie,S,2025-02-19,Canada,Ontario,PORT HOPE,4.6145E+12,order,Returning,,,FALSE,1,6.21407E+12,2.01791E+13,58.35,0,0,58.35,0,7.59,65.94,3
+Canada,Ontario,Ridgeway,,,,2025-02-19,Canada,Ontario,Ridgeway,,order,New,,,FALSE,2,6.21423E+12,2.01796E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,st-amable,,,,2025-02-19,Canada,Quebec,st-amable,,order,New,,,FALSE,1,6.21397E+12,2.01788E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Owen Sound,,Clinic Order Medical Snuggie,XS,2025-02-19,Canada,Ontario,Owen Sound,4.6145E+12,order,Returning,,,FALSE,1,6.21391E+12,2.01786E+13,17.75,0,0,17.75,0,2.31,20.06,1
+Canada,Ontario,Sudbury,,,,2025-02-19,Canada,Ontario,Sudbury,,order,New,,,FALSE,1,6.21423E+12,2.01796E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Sudbury,Clothing,"High-Top Boots ""Don't Fall Off""",XS -  2 Boots Only,2025-02-19,Canada,Ontario,Sudbury,1.94929E+12,order,New,,,FALSE,1,6.21423E+12,2.01796E+13,30,0,0,30,0,3.9,33.9,1
+Canada,Ontario,Trenton,,,,2025-02-19,Canada,Ontario,Trenton,,order,Returning,,,FALSE,1,6.2142E+12,2.01795E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Owen Sound,,Clinic Order Medical Snuggie,XL,2025-02-19,Canada,Ontario,Owen Sound,4.6145E+12,order,Returning,,,FALSE,1,6.21391E+12,2.01786E+13,87.15,0,0,87.15,0,11.33,98.48,3
+Canada,Ontario,Ridgeway,,"High Top Boots ""Stay-On"" Technology",XXL|9,2025-02-19,Canada,Ontario,Ridgeway,7.76384E+12,order,New,,,FALSE,2,6.21423E+12,2.01796E+13,63.5,0,0,63.5,0,8.26,71.76,1
+Canada,Ontario,Ridgeway,,Know Brainer Balls x2,2 Balls,2025-02-19,Canada,Ontario,Ridgeway,7.75958E+12,order,New,,,FALSE,2,6.21423E+12,2.01796E+13,31.99,0,0,31.99,0,4.16,36.15,1
+Canada,Quebec,st-amable,,"High Top Boots ""Stay-On"" Technology",L|7,2025-02-19,Canada,Quebec,st-amable,7.76384E+12,order,New,,,FALSE,1,6.21397E+12,2.01788E+13,59.5,0,0,59.5,0,2.98,62.48,1
+Canada,Ontario,Woodbridge,,Clinic Order Medical Snuggie,M2,2025-02-19,Canada,Ontario,PORT HOPE,4.6145E+12,order,Returning,,,FALSE,1,6.21407E+12,2.01791E+13,147.48,0,0,147.48,0,19.17,166.65,6
+Canada,Ontario,Woodbridge,,,,2025-02-19,Canada,Ontario,PORT HOPE,,order,Returning,,,FALSE,1,6.21407E+12,2.01791E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Owen Sound,,Clinic Order Medical Snuggie,M2,2025-02-19,Canada,Ontario,Owen Sound,4.6145E+12,order,Returning,,,FALSE,1,6.21391E+12,2.01786E+13,49.16,0,0,49.16,0,6.39,55.55,2
+Canada,Ontario,Sudbury,Clothing,"High-Top Boots ""Don't Fall Off""",XXS - 2 Boots Only,2025-02-19,Canada,Ontario,Sudbury,1.94929E+12,order,New,,,FALSE,1,6.21423E+12,2.01796E+13,30,0,0,30,0,3.9,33.9,1
+Canada,Ontario,Owen Sound,,Clinic Order Medical Snuggie,L,2025-02-19,Canada,Ontario,Owen Sound,4.6145E+12,order,Returning,,,FALSE,1,6.21391E+12,2.01786E+13,27.45,0,0,27.45,0,3.57,31.02,1
+Canada,Ontario,Belleville,,"High Top Boots ""Stay-On"" Technology",S|5,2025-02-20,Canada,Ontario,Belleville,7.76384E+12,order,New,,,FALSE,1,6.2156E+12,2.0184E+13,55.5,0,0,55.5,0,7.22,62.72,1
+Canada,Manitoba,Winnipeg,,Know Brainer Balls x2,2 Balls,2025-02-20,Canada,Manitoba,Winnipeg,7.75958E+12,order,New,,,FALSE,1,6.21562E+12,2.01841E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,Ontario,Belleville,,,,2025-02-20,Canada,Ontario,Belleville,,order,New,,,FALSE,1,6.2156E+12,2.0184E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Windsor,,,,2025-02-20,Canada,Ontario,Windsor,,order,New,,,FALSE,1,6.21575E+12,2.01845E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Windsor,,"High Top Boots ""Stay-On"" Technology",XL|8,2025-02-20,Canada,Ontario,Windsor,7.76384E+12,order,New,,,FALSE,1,6.21575E+12,2.01845E+13,61.5,0,0,61.5,0,8,69.5,1
+Canada,Manitoba,Winnipeg,,,,2025-02-20,Canada,Manitoba,Winnipeg,,order,New,,,FALSE,1,6.21562E+12,2.01841E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Ontario,Wasaga Beach,,Clinic Order Medical Snuggie,S,2025-02-21,Canada,Ontario,Wasaga Beach,4.6145E+12,order,Returning,,,FALSE,1,6.2177E+12,2.01908E+13,58.35,0,0,58.35,0,7.59,65.94,3
+Canada,Ontario,Wasaga Beach,,Clinic Order Medical Snuggie,M2,2025-02-21,Canada,Ontario,Wasaga Beach,4.6145E+12,order,Returning,,,FALSE,1,6.2177E+12,2.01908E+13,98.32,0,0,98.32,0,12.78,111.1,4
+Canada,Ontario,Corunna,Clothing,"High-Top Boots ""Don't Fall Off""",S - 2 Boots Only,2025-02-21,Canada,Ontario,Corunna,1.94929E+12,order,New,,,FALSE,1,6.2179E+12,2.01915E+13,60,0,0,60,0,7.8,67.8,2
+Canada,Ontario,Wasaga Beach,,Clinic Order Medical Snuggie,L,2025-02-21,Canada,Ontario,Wasaga Beach,4.6145E+12,order,Returning,,,FALSE,1,6.2177E+12,2.01908E+13,27.45,0,0,27.45,0,3.57,31.02,1
+Canada,Ontario,Corunna,,,,2025-02-21,Canada,Ontario,Corunna,,order,New,,,FALSE,1,6.2179E+12,2.01915E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Wasaga Beach,,,,2025-02-21,Canada,Ontario,Wasaga Beach,,order,Returning,,,FALSE,1,6.2177E+12,2.01908E+13,0,0,0,0,0,0,0,0
+Canada,Saskatchewan,Saskatoon,,,,2025-02-22,Canada,Saskatchewan,Saskatoon,,order,New,,,FALSE,1,6.21921E+12,2.01954E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Ontario,Toronto,,,,2025-02-22,Canada,Ontario,Toronto,,order,New,,,FALSE,1,6.21883E+12,2.01942E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Toronto,Clothing,"High-Top Boots ""Don't Fall Off""",XXS - 2 Boots Only,2025-02-22,Canada,Ontario,Toronto,1.94929E+12,order,New,,,FALSE,1,6.21883E+12,2.01942E+13,60,-6,0,54,0,7.02,61.02,2
+Canada,Saskatchewan,Saskatoon,,Know Brainer Balls x2,2 Balls,2025-02-22,Canada,Saskatchewan,Saskatoon,7.75958E+12,order,New,,,FALSE,1,6.21921E+12,2.01954E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,Quebec,MONT-ROYAL,,Know Brainer Balls x2,2 Balls,2025-02-23,Canada,Quebec,MONT-ROYAL,7.75958E+12,order,New,,,FALSE,1,6.22061E+12,2.01995E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,British Columbia,Scotch Creek,,Know Brainer Balls x2,2 Balls,2025-02-23,Canada,British Columbia,Scotch Creek,7.75958E+12,order,New,,,FALSE,1,6.22069E+12,2.01997E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,Quebec,Pointe des Cascades,Clothing,"High-Top Boots ""Don't Fall Off""",XXS - 2 Boots Only,2025-02-23,Canada,Quebec,Pointe des Cascades,1.94929E+12,order,New,,,FALSE,1,6.22044E+12,2.0199E+13,30,0,0,30,0,1.5,31.5,1
+Canada,Quebec,Mont-Tremblant,,"High Top Boots ""Stay-On"" Technology",XL|8,2025-02-23,Canada,Quebec,Mont-Tremblant,7.76384E+12,order,New,,,FALSE,1,6.22012E+12,2.0198E+13,61.5,0,0,61.5,0,3.08,64.58,1
+Canada,Quebec,Mont-Tremblant,,,,2025-02-23,Canada,Quebec,Mont-Tremblant,,order,New,,,FALSE,1,6.22012E+12,2.0198E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Lac-Saguay,,Know Brainer Balls x2,2 Balls,2025-02-23,Canada,Quebec,Lac-Saguay,7.75958E+12,order,New,,,FALSE,1,6.21994E+12,2.01975E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,Quebec,Pointe des Cascades,Clothing,"High-Top Boots ""Don't Fall Off""",XS -  2 Boots Only,2025-02-23,Canada,Quebec,Pointe des Cascades,1.94929E+12,order,New,,,FALSE,1,6.22044E+12,2.0199E+13,60,0,0,60,0,3,63,2
+Canada,British Columbia,Scotch Creek,,,,2025-02-23,Canada,British Columbia,Scotch Creek,,order,New,,,FALSE,1,6.22069E+12,2.01997E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Quebec,Pointe des Cascades,,,,2025-02-23,Canada,Quebec,Pointe des Cascades,,order,New,,,FALSE,1,6.22044E+12,2.0199E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Lac-Saguay,,,,2025-02-23,Canada,Quebec,Lac-Saguay,,order,New,,,FALSE,1,6.21994E+12,2.01975E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Quebec,MONT-ROYAL,,,,2025-02-23,Canada,Quebec,MONT-ROYAL,,order,New,,,FALSE,1,6.22061E+12,2.01995E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Ontario,Alliston,,,,2025-02-24,Canada,Ontario,New Tecumseth,,order,New,,,FALSE,1,6.22216E+12,2.02043E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,Ontario,Alliston,,Know Brainer Balls x2,2 Balls,2025-02-24,Canada,Ontario,New Tecumseth,7.75958E+12,order,New,,,FALSE,1,6.22216E+12,2.02043E+13,31.99,0,0,31.99,0,4.16,36.15,1
+Canada,Quebec,Drummondville,,,,2025-02-25,Canada,Quebec,Drummondville,,order,New,,,FALSE,1,6.22383E+12,2.021E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Montréal,,,,2025-02-25,Canada,Quebec,Montréal,,order,New,,,FALSE,1,6.22286E+12,2.02065E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Ontario,Belleville,,,,2025-02-25,Canada,Ontario,Belleville,,order,Returning,,,FALSE,1,6.22362E+12,2.02092E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Montréal,,Know Brainer Balls x2,2 Balls,2025-02-25,Canada,Quebec,Montréal,7.75958E+12,order,New,,,FALSE,1,6.22286E+12,2.02065E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,Ontario,Belleville,,"High Top Boots ""Stay-On"" Technology",M|6,2025-02-25,Canada,Ontario,Belleville,7.76384E+12,order,Returning,,,FALSE,1,6.22362E+12,2.02092E+13,57.5,0,0,57.5,0,7.48,64.98,1
+Canada,Quebec,Drummondville,,"High Top Boots ""Stay-On"" Technology",M|6,2025-02-25,Canada,Quebec,Drummondville,7.76384E+12,order,New,,,FALSE,1,6.22383E+12,2.021E+13,57.5,0,0,57.5,0,2.88,60.38,1
+Canada,Ontario,St.Catharines,,,,2025-02-27,Canada,Ontario,St.Catharines,,order,Returning,,,FALSE,1,6.22684E+12,2.02198E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Toronto,,"High Top Boots ""Stay-On"" Technology",XXL|9,2025-02-27,Canada,Ontario,Toronto,7.76384E+12,return,New,,,FALSE,1,6.20692E+12,2.02205E+13,0,0,-63.5,-63.5,0,-8.26,-71.76,0
+Canada,Ontario,Toronto,,"High Top Boots ""Stay-On"" Technology",XL|8,2025-02-27,Canada,Ontario,Toronto,7.76384E+12,return,New,,,FALSE,1,6.20692E+12,2.02205E+13,0,0,-61.5,-61.5,0,-8,-69.5,0
+Canada,Quebec,Pointe des Cascades,Clothing,"High-Top Boots ""Don't Fall Off""",XXS - 2 Boots Only,2025-02-27,Canada,Quebec,Pointe des Cascades,1.94929E+12,order,Returning,,,FALSE,1,6.2272E+12,2.02211E+13,60,0,0,60,0,3,63,2
+Canada,Ontario,St.Catharines,,Clinic Order Medical Snuggie,XS,2025-02-27,Canada,Ontario,St.Catharines,4.6145E+12,order,Returning,,,FALSE,1,6.22684E+12,2.02198E+13,88.75,0,0,88.75,0,11.54,100.29,5
+Canada,Ontario,Owen Sound,,Know Brainer Balls x2,2 Balls,2025-02-27,Canada,Ontario,Owen Sound,7.75958E+12,order,New,,,FALSE,1,6.22676E+12,2.02196E+13,31.99,0,0,31.99,0,4.16,36.15,1
+Canada,Quebec,Pointe des Cascades,,,,2025-02-27,Canada,Quebec,Pointe des Cascades,,order,Returning,,,FALSE,1,6.2272E+12,2.02211E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Owen Sound,,,,2025-02-27,Canada,Ontario,Owen Sound,,order,New,,,FALSE,1,6.22676E+12,2.02196E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,Ontario,St.Catharines,,Clinic Order Medical Snuggie,M2,2025-02-27,Canada,Ontario,St.Catharines,4.6145E+12,order,Returning,,,FALSE,1,6.22684E+12,2.02198E+13,73.74,0,0,73.74,0,9.59,83.33,3
+Canada,Ontario,Manotick,,,,2025-02-28,Canada,Ontario,Manotick,,order,New,,,FALSE,1,6.23034E+12,2.02321E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Manotick,,"High Top Boots ""Stay-On"" Technology",M|6,2025-02-28,Canada,Ontario,Manotick,7.76384E+12,order,New,,,FALSE,1,6.23034E+12,2.02321E+13,115,0,0,115,0,14.95,129.95,2
+Canada,Alberta,Sherwood Park,,,,2025-02-28,Canada,Alberta,Sherwood Park,,order,Returning,,,FALSE,1,6.23021E+12,2.02317E+13,0,0,0,0,0,0,0,0
+Canada,Alberta,Sherwood Park,,"High Top Boots ""Stay-On"" Technology",XXXL|10,2025-02-28,Canada,Alberta,Sherwood Park,7.76384E+12,order,Returning,,,FALSE,1,6.23021E+12,2.02317E+13,65,0,0,65,0,3.25,68.25,1
+Canada,British Columbia,Nanaimo,,,,2025-03-02,Canada,British Columbia,Nanaimo,,order,New,,,FALSE,1,6.23356E+12,2.02428E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Ontario,Vaughan,,,,2025-03-02,Canada,Ontario,Vaughan,,order,New,,,FALSE,1,6.23483E+12,2.0247E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,British Columbia,Nanaimo,,Know Brainer Balls x2,2 Balls,2025-03-02,Canada,British Columbia,Nanaimo,7.75958E+12,order,New,,,FALSE,1,6.23356E+12,2.02428E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,British Columbia,Victoria,,,,2025-03-02,Canada,British Columbia,Victoria,,order,New,,,FALSE,1,6.23467E+12,2.02464E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,British Columbia,Victoria,,Know Brainer Balls x2,2 Balls,2025-03-02,Canada,British Columbia,Victoria,7.75958E+12,order,New,,,FALSE,1,6.23467E+12,2.02464E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,Ontario,Vaughan,,Know Brainer Balls x2,2 Balls,2025-03-02,Canada,Ontario,Vaughan,7.75958E+12,order,New,,,FALSE,1,6.23483E+12,2.0247E+13,31.99,0,0,31.99,0,4.16,36.15,1
+Canada,Quebec,Drummondville,,"High Top Boots ""Stay-On"" Technology",M|6,2025-03-03,Canada,Quebec,Drummondville,7.76384E+12,return,New,,,FALSE,1,6.22383E+12,2.02518E+13,0,0,-57.5,-57.5,0,-2.88,-60.38,0
+Canada,British Columbia,Delta,,,,2025-03-03,Canada,British Columbia,Delta,,order,New,,,FALSE,1,6.23565E+12,2.02496E+13,0,0,0,0,5.99,0.3,6.29,0
+United States,New York,Sleepy Hollow,,,,2025-03-03,United States,New York,Sleepy Hollow,,order,New,,,FALSE,1,6.23558E+12,2.02494E+13,0,0,0,0,21.67,0,21.67,0
+United States,New York,Sleepy Hollow,,"High Top Boots ""Stay-On"" Technology",XXXS|2,2025-03-03,United States,New York,Sleepy Hollow,7.76384E+12,order,New,,,FALSE,1,6.23558E+12,2.02494E+13,106.88,0,0,106.88,0,0,106.88,2
+Canada,Quebec,Drummondville,,,,2025-03-03,Canada,Quebec,Drummondville,,return,New,,,FALSE,1,6.22383E+12,2.02518E+13,0,0,60.38,60.38,0,0,60.38,0
+Canada,Quebec,Drummondville,,,,2025-03-03,Canada,Quebec,Drummondville,,return,New,,,FALSE,1,6.22383E+12,2.02573E+13,0,0,-60.38,-60.38,0,0,-60.38,0
+Canada,British Columbia,Delta,,Know Brainer Balls x2,2 Balls,2025-03-03,Canada,British Columbia,Delta,7.75958E+12,order,New,,,FALSE,1,6.23565E+12,2.02496E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,Alberta,Sherwood Park,,,,2025-03-04,Canada,Alberta,Sherwood Park,,return,Returning,,,FALSE,1,6.23021E+12,2.02614E+13,0,0,-68.25,-68.25,0,0,-68.25,0
+Canada,Alberta,Sherwood Park,,"High Top Boots ""Stay-On"" Technology",XXXL|10,2025-03-04,Canada,Alberta,Sherwood Park,7.76384E+12,return,Returning,,,FALSE,1,6.23021E+12,2.02561E+13,0,0,-65,-65,0,-3.25,-68.25,0
+Canada,Ontario,Oakville,,"High Top Boots ""Stay-On"" Technology",XXL|9,2025-03-04,Canada,Ontario,Oakville,7.76384E+12,order,New,,,FALSE,1,6.23831E+12,2.02582E+13,63.5,-9.53,0,53.97,0,7.02,60.99,1
+Canada,Alberta,Sherwood Park,,,,2025-03-04,Canada,Alberta,Sherwood Park,,return,Returning,,,FALSE,1,6.23021E+12,2.02561E+13,0,0,68.25,68.25,0,0,68.25,0
+Canada,Ontario,Oakville,,,,2025-03-04,Canada,Ontario,Oakville,,order,New,,,FALSE,1,6.23831E+12,2.02582E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,North York,,,,2025-03-05,Canada,Ontario,Toronto,,order,Returning,,,FALSE,1,6.23901E+12,2.02603E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Montréal,,Know Brainer Balls x2,2 Balls,2025-03-05,Canada,Quebec,Montréal,7.75958E+12,order,New,,,FALSE,1,6.23971E+12,2.02626E+13,63.98,0,0,63.98,0,3.2,67.18,2
+Canada,Ontario,Sault Ste. Marie,,"High Top Boots ""Stay-On"" Technology",M|6,2025-03-05,Canada,Ontario,Sault Ste. Marie,7.76384E+12,order,New,,,FALSE,1,6.2395E+12,2.0262E+13,115,0,0,115,0,14.95,129.95,2
+Canada,Ontario,Sault Ste. Marie,,,,2025-03-05,Canada,Ontario,Sault Ste. Marie,,order,New,,,FALSE,1,6.2395E+12,2.0262E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,VARENNES,,"High Top Boots ""Stay-On"" Technology",XXXS|2,2025-03-05,Canada,Quebec,VARENNES,7.76384E+12,order,New,,,FALSE,1,6.23913E+12,2.02607E+13,51.5,0,0,51.5,0,2.58,54.08,1
+Canada,Quebec,VARENNES,,,,2025-03-05,Canada,Quebec,VARENNES,,order,New,,,FALSE,1,6.23913E+12,2.02607E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,North York,,"High Top Boots ""Stay-On"" Technology",XS|4,2025-03-05,Canada,Ontario,Toronto,7.76384E+12,order,Returning,,,FALSE,1,6.23901E+12,2.02603E+13,54.5,0,0,54.5,0,7.09,61.59,1
+Canada,Quebec,Montréal,,,,2025-03-05,Canada,Quebec,Montréal,,order,New,,,FALSE,1,6.23971E+12,2.02626E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Mono,,,,2025-03-06,Canada,Ontario,Mono,,return,Returning,,,FALSE,1,6.20095E+12,2.02704E+13,0,0,12.44,12.44,0,0,12.44,0
+Canada,Ontario,Mono,,,,2025-03-06,Canada,Ontario,Mono,,return,Returning,,,FALSE,1,6.20095E+12,2.02763E+13,0,0,-12.44,-12.44,0,0,-12.44,0
+Canada,Ontario,Mono,,,,2025-03-06,Canada,Ontario,Mono,,return,Returning,,,FALSE,1,6.20095E+12,2.02704E+13,0,0,-12.44,-12.44,0,0,-12.44,0
+Canada,Manitoba,Winnipeg,,,,2025-03-07,Canada,Manitoba,Winnipeg,,return,New,,,FALSE,1,6.2121E+12,2.02784E+13,0,0,-57.23,-57.23,0,0,-57.23,0
+Canada,Ontario,St Thomas,,"High Top Boots ""Stay-On"" Technology",XXL|9,2025-03-07,Canada,Ontario,St Thomas,7.76384E+12,return,New,,,FALSE,1,6.19071E+12,2.0273E+13,0,0,-127,-127,0,-16.51,-143.51,0
+Canada,Manitoba,Winnipeg,,"High Top Boots ""Stay-On"" Technology",XS|4,2025-03-07,Canada,Manitoba,Winnipeg,7.76384E+12,return,New,,,FALSE,1,6.2121E+12,2.0273E+13,0,0,-54.5,-54.5,0,-2.73,-57.23,0
+Canada,Ontario,Nepean,,,,2025-03-07,Canada,Ontario,Nepean,,order,Returning,,,FALSE,1,6.24309E+12,2.02739E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Nepean,,Clinic Order Medical Snuggie,XS,2025-03-07,Canada,Ontario,Nepean,4.6145E+12,order,Returning,,,FALSE,1,6.24309E+12,2.02739E+13,17.75,0,0,17.75,0,2.31,20.06,1
+Canada,Ontario,Nepean,,Clinic Order Medical Snuggie,L,2025-03-07,Canada,Ontario,Nepean,4.6145E+12,order,Returning,,,FALSE,1,6.24309E+12,2.02739E+13,137.25,0,0,137.25,0,17.84,155.09,5
+Canada,Ontario,Nepean,,Clinic Order Medical Snuggie,S,2025-03-07,Canada,Ontario,Nepean,4.6145E+12,order,Returning,,,FALSE,1,6.24309E+12,2.02739E+13,77.8,0,0,77.8,0,10.11,87.91,4
+Canada,Manitoba,Winnipeg,,,,2025-03-07,Canada,Manitoba,Winnipeg,,return,New,,,FALSE,1,6.2121E+12,2.0273E+13,0,0,57.23,57.23,0,0,57.23,0
+Canada,Ontario,Nepean,,Clinic Order Medical Snuggie,M2,2025-03-07,Canada,Ontario,Nepean,4.6145E+12,order,Returning,,,FALSE,1,6.24309E+12,2.02739E+13,147.48,0,0,147.48,0,19.17,166.65,6
+Canada,Ontario,Ottawa,,,,2025-03-09,Canada,Ontario,Ottawa,,order,New,,,FALSE,1,6.24591E+12,2.02827E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,Ontario,Toronto,,,,2025-03-09,Canada,Nova Scotia,Halifax,,order,New,,,FALSE,1,6.24619E+12,2.02836E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Ottawa,,Know Brainer Balls x2,2 Balls,2025-03-09,Canada,Ontario,Ottawa,7.75958E+12,order,New,,,FALSE,1,6.24591E+12,2.02827E+13,31.99,0,0,31.99,0,4.16,36.15,1
+Canada,Ontario,Toronto,,Medical Snuggie,L,2025-03-09,Canada,Nova Scotia,Halifax,4.47367E+12,order,New,,,FALSE,1,6.24619E+12,2.02836E+13,60.99,0,0,60.99,0,9.15,70.14,1
+Canada,Ontario,Crystal Beach,,,,2025-03-10,Canada,Ontario,Crystal Beach,,order,New,,,FALSE,1,6.24833E+12,2.02904E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,Ontario,Crystal Beach,,Know Brainer Balls x2,2 Balls,2025-03-10,Canada,Ontario,Crystal Beach,7.75958E+12,order,New,,,FALSE,1,6.24833E+12,2.02904E+13,31.99,0,0,31.99,0,4.16,36.15,1
+Canada,Ontario,Lincoln,,Clinic Order Medical Snuggie,S,2025-03-11,Canada,Ontario,Lincoln,4.6145E+12,order,Returning,,,FALSE,1,6.24954E+12,2.02941E+13,97.25,0,0,97.25,0,12.64,109.89,5
+Canada,Ontario,Toronto,,,,2025-03-11,Canada,Ontario,Toronto,,order,New,,,FALSE,1,6.24873E+12,2.02917E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,Ontario,Lincoln,,,,2025-03-11,Canada,Ontario,Lincoln,,order,Returning,,,FALSE,1,6.24954E+12,2.02941E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Lincoln,,Clinic Order Medical Snuggie,XS,2025-03-11,Canada,Ontario,Lincoln,4.6145E+12,order,Returning,,,FALSE,1,6.24954E+12,2.02941E+13,71,0,0,71,0,9.23,80.23,4
+Canada,Ontario,Lincoln,,Clinic Order Medical Snuggie,L,2025-03-11,Canada,Ontario,Lincoln,4.6145E+12,order,Returning,,,FALSE,1,6.24954E+12,2.02941E+13,109.8,0,0,109.8,0,14.27,124.07,4
+Canada,Ontario,Toronto,,Know Brainer Balls x2,2 Balls,2025-03-11,Canada,Ontario,Toronto,7.75958E+12,order,New,,,FALSE,1,6.24873E+12,2.02917E+13,31.99,0,0,31.99,0,4.16,36.15,1
+Canada,Ontario,Hensall,,"High Top Boots ""Stay-On"" Technology",XXS|3,2025-03-12,Canada,Ontario,Hensall,7.76384E+12,order,Returning,,,FALSE,1,6.25118E+12,2.02995E+13,53.5,-5.35,0,48.15,0,6.26,54.41,1
+Canada,Ontario,Belleville,,"High Top Boots ""Stay-On"" Technology",M|6,2025-03-12,Canada,Ontario,Belleville,7.76384E+12,return,Returning,,,FALSE,1,6.22362E+12,2.03023E+13,0,0,-57.5,-57.5,0,-7.48,-64.98,0
+Canada,Ontario,Belleville,,"High Top Boots ""Stay-On"" Technology",S|5,2025-03-12,Canada,Ontario,Belleville,7.76384E+12,return,New,,,FALSE,1,6.2156E+12,2.03023E+13,0,0,-55.5,-55.5,0,-7.22,-62.72,0
+Canada,Alberta,Edmonton,,,,2025-03-12,Canada,Alberta,Edmonton,,order,New,,,FALSE,1,6.2516E+12,2.0301E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Hensall,,"High Top Boots ""Stay-On"" Technology",XXXS|2,2025-03-12,Canada,Ontario,Hensall,7.76384E+12,order,Returning,,,FALSE,1,6.25118E+12,2.02995E+13,51.5,-5.15,0,46.35,0,6.03,52.38,1
+Canada,Ontario,Mono,,,,2025-03-12,Canada,Ontario,Mono,,return,New,,,FALSE,1,6.18806E+12,2.03101E+13,0,0,-132.22,-132.22,0,0,-132.22,0
+Canada,Ontario,Mono,,"High Top Boots ""Stay-On"" Technology",M|6,2025-03-12,Canada,Ontario,Mono,7.76384E+12,return,New,,,FALSE,1,6.18806E+12,2.03023E+13,0,0,-57.5,-57.5,0,-7.48,-64.98,0
+Canada,Ontario,Mono,,,,2025-03-12,Canada,Ontario,Mono,,return,New,,,FALSE,1,6.18806E+12,2.03023E+13,0,0,132.22,132.22,0,0,132.22,0
+Canada,Alberta,Edmonton,,"High Top Boots ""Stay-On"" Technology",L|7,2025-03-12,Canada,Alberta,Edmonton,7.76384E+12,order,New,,,FALSE,1,6.2516E+12,2.0301E+13,119,0,0,119,0,5.95,124.95,2
+Canada,Ontario,Belleville,,,,2025-03-12,Canada,Ontario,Belleville,,return,Returning,,,FALSE,1,6.22362E+12,2.03023E+13,0,0,64.98,64.98,0,0,64.98,0
+Canada,Ontario,Belleville,,,,2025-03-12,Canada,Ontario,Belleville,,return,New,,,FALSE,1,6.2156E+12,2.03101E+13,0,0,-62.72,-62.72,0,0,-62.72,0
+Canada,Ontario,Belleville,,,,2025-03-12,Canada,Ontario,Belleville,,return,Returning,,,FALSE,1,6.22362E+12,2.03101E+13,0,0,-64.98,-64.98,0,0,-64.98,0
+Canada,Ontario,Hensall,,,,2025-03-12,Canada,Ontario,Hensall,,order,Returning,,,FALSE,1,6.25118E+12,2.02995E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Mono,,"High Top Boots ""Stay-On"" Technology",L|7,2025-03-12,Canada,Ontario,Mono,7.76384E+12,return,New,,,FALSE,1,6.18806E+12,2.03023E+13,0,0,-59.5,-59.5,0,-7.74,-67.24,0
+Canada,Ontario,Belleville,,,,2025-03-12,Canada,Ontario,Belleville,,return,New,,,FALSE,1,6.2156E+12,2.03023E+13,0,0,62.72,62.72,0,0,62.72,0
+Canada,Ontario,KANATA,,,,2025-03-16,Canada,Ontario,KANATA,,order,New,,,FALSE,1,6.25851E+12,2.03229E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,Manitoba,WINNIPEG,,,,2025-03-16,Canada,Manitoba,WINNIPEG,,order,New,,,FALSE,1,6.2592E+12,2.0325E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,KANATA,,Know Brainer Balls x2,2 Balls,2025-03-16,Canada,Ontario,KANATA,7.75958E+12,order,New,,,FALSE,1,6.25851E+12,2.03229E+13,31.99,0,0,31.99,0,4.16,36.15,1
+Canada,Manitoba,WINNIPEG,,"High Top Boots ""Stay-On"" Technology",XXXL|10,2025-03-16,Canada,Manitoba,WINNIPEG,7.76384E+12,order,New,,,FALSE,1,6.2592E+12,2.0325E+13,130,0,0,130,0,6.5,136.5,2
+Canada,Ontario,Owen Sound,,Clinic Order Medical Snuggie,M1,2025-03-17,Canada,Ontario,Owen Sound,4.6145E+12,order,Returning,,,FALSE,1,6.26011E+12,2.03278E+13,42.52,0,0,42.52,0,5.53,48.05,2
+Canada,British Columbia,Port Coquitlam,,Know Brainer Balls x2,2 Balls,2025-03-17,Canada,British Columbia,Port Coquitlam,7.75958E+12,order,New,,,FALSE,1,6.26058E+12,2.03294E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,Ontario,Owen Sound,,Clinic Order Medical Snuggie,S,2025-03-17,Canada,Ontario,Owen Sound,4.6145E+12,order,Returning,,,FALSE,1,6.26011E+12,2.03278E+13,19.45,0,0,19.45,0,2.53,21.98,1
+Canada,Ontario,Owen Sound,,Clinic Order Medical Snuggie,L,2025-03-17,Canada,Ontario,Owen Sound,4.6145E+12,order,Returning,,,FALSE,1,6.26011E+12,2.03278E+13,27.45,0,0,27.45,0,3.57,31.02,1
+Canada,Ontario,Owen Sound,,Clinic Order Medical Snuggie,XS,2025-03-17,Canada,Ontario,Owen Sound,4.6145E+12,order,Returning,,,FALSE,1,6.26011E+12,2.03278E+13,124.25,0,0,124.25,0,16.15,140.4,7
+Canada,British Columbia,Port Coquitlam,,,,2025-03-17,Canada,British Columbia,Port Coquitlam,,order,New,,,FALSE,1,6.26058E+12,2.03294E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Ontario,Owen Sound,,,,2025-03-17,Canada,Ontario,Owen Sound,,order,Returning,,,FALSE,1,6.26011E+12,2.03278E+13,0,0,0,0,0,0,0,0
+Canada,Saskatchewan,DELISLE,,,,2025-03-18,Canada,Saskatchewan,DELISLE,,order,New,,,FALSE,1,6.26174E+12,2.03331E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Alberta,St Albert,,Know Brainer Balls x2,2 Balls,2025-03-18,Canada,Alberta,St Albert,7.75958E+12,order,New,,,FALSE,1,6.26208E+12,2.03343E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,Ontario,Toronto,,Know Brainer Balls x2,2 Balls,2025-03-18,Canada,Ontario,Toronto,7.75958E+12,order,New,,,FALSE,1,6.2615E+12,2.03324E+13,31.99,0,0,31.99,0,4.16,36.15,1
+Canada,Ontario,Toronto,,,,2025-03-18,Canada,Ontario,Toronto,,order,New,,,FALSE,1,6.2615E+12,2.03324E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,Saskatchewan,DELISLE,,Know Brainer Balls x2,2 Balls,2025-03-18,Canada,Saskatchewan,DELISLE,7.75958E+12,order,New,,,FALSE,1,6.26174E+12,2.03331E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,Alberta,St Albert,,,,2025-03-18,Canada,Alberta,St Albert,,order,New,,,FALSE,1,6.26208E+12,2.03343E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Quebec,VARENNES,,,,2025-03-19,Canada,Quebec,VARENNES,,return,New,,,FALSE,1,6.23913E+12,2.03461E+13,0,0,-54.08,-54.08,0,0,-54.08,0
+Canada,Ontario,Oakville,,,,2025-03-19,Canada,Ontario,Oakville,,return,New,,,FALSE,1,6.23831E+12,2.03395E+13,0,0,60.99,60.99,0,0,60.99,0
+Canada,British Columbia,Kelowna,,,,2025-03-19,Canada,British Columbia,Kelowna,,order,New,,,FALSE,1,6.26328E+12,2.03382E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Quebec,DEUX-MONTAGNES,,Know Brainer Balls x2,2 Balls,2025-03-19,Canada,Quebec,DEUX-MONTAGNES,7.75958E+12,order,New,,,FALSE,1,6.26393E+12,2.03405E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,Quebec,DEUX-MONTAGNES,,,,2025-03-19,Canada,Quebec,DEUX-MONTAGNES,,order,New,,,FALSE,1,6.26393E+12,2.03405E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Quebec,VARENNES,,"High Top Boots ""Stay-On"" Technology",XXXS|2,2025-03-19,Canada,Quebec,VARENNES,7.76384E+12,return,New,,,FALSE,1,6.23913E+12,2.03396E+13,0,0,-51.5,-51.5,0,-2.58,-54.08,0
+Canada,Quebec,VARENNES,,,,2025-03-19,Canada,Quebec,VARENNES,,return,New,,,FALSE,1,6.23913E+12,2.03396E+13,0,0,54.08,54.08,0,0,54.08,0
+Canada,Ontario,Oakville,,"High Top Boots ""Stay-On"" Technology",XXL|9,2025-03-19,Canada,Ontario,Oakville,7.76384E+12,return,New,,,FALSE,1,6.23831E+12,2.03395E+13,0,0,-53.97,-53.97,0,-7.02,-60.99,0
+Canada,Ontario,Oakville,,,,2025-03-19,Canada,Ontario,Oakville,,return,New,,,FALSE,1,6.23831E+12,2.0346E+13,0,0,-60.99,-60.99,0,0,-60.99,0
+Canada,British Columbia,Kelowna,,Know Brainer Balls x2,2 Balls,2025-03-19,Canada,British Columbia,Kelowna,7.75958E+12,order,New,,,FALSE,1,6.26328E+12,2.03382E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,Manitoba,WINNIPEG,,,,2025-03-20,Canada,Manitoba,WINNIPEG,,return,New,,,FALSE,1,6.2592E+12,2.0347E+13,0,0,52,52,0,0,52,0
+Canada,Ontario,Etobicoke,,Clinic Order Medical Snuggie,S,2025-03-20,Canada,Ontario,Etobicoke,4.6145E+12,order,Returning,,,FALSE,1,6.26508E+12,2.03447E+13,194.5,0,0,194.5,0,25.29,219.79,10
+Canada,Manitoba,WINNIPEG,,,,2025-03-20,Canada,Manitoba,WINNIPEG,,return,New,,,FALSE,1,6.2592E+12,2.0347E+13,0,0,-52,-52,0,0,-52,0
+Canada,Ontario,Etobicoke,,,,2025-03-20,Canada,Ontario,Etobicoke,,order,Returning,,,FALSE,1,6.26508E+12,2.03447E+13,0,0,0,0,0,0,0,0
+Canada,Manitoba,WINNIPEG,,,,2025-03-20,Canada,Manitoba,WINNIPEG,,return,New,,,FALSE,1,6.2592E+12,2.03602E+13,0,0,-52,-52,0,0,-52,0
+Canada,British Columbia,Delta,,,,2025-03-23,Canada,British Columbia,Delta,,order,New,,,FALSE,1,6.27364E+12,2.03747E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,British Columbia,West Vancouver,,,,2025-03-23,Canada,British Columbia,West Vancouver,,order,New,,,FALSE,1,6.27281E+12,2.03722E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Quebec,Ste catherine de la J-C,,,,2025-03-23,Canada,Quebec,Ste catherine de la J-C,,order,New,,,FALSE,1,6.27254E+12,2.03714E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Ste catherine de la J-C,,Know Brainer Balls x2,2 Balls,2025-03-23,Canada,Quebec,Ste catherine de la J-C,7.75958E+12,order,New,,,FALSE,1,6.27254E+12,2.03714E+13,63.98,0,0,63.98,0,3.2,67.18,2
+Canada,British Columbia,Delta,,Know Brainer Balls x2,2 Balls,2025-03-23,Canada,British Columbia,Delta,7.75958E+12,order,New,,,FALSE,1,6.27364E+12,2.03747E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,British Columbia,West Vancouver,,Know Brainer Balls x2,2 Balls,2025-03-23,Canada,British Columbia,West Vancouver,7.75958E+12,order,New,,,FALSE,1,6.27281E+12,2.03722E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,Alberta,Edmonton,,,,2025-03-24,Canada,Alberta,Edmonton,,order,New,,,FALSE,1,6.27503E+12,2.03791E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Alberta,Edmonton,,Know Brainer Balls x2,2 Balls,2025-03-24,Canada,Alberta,Edmonton,7.75958E+12,order,New,,,FALSE,1,6.27503E+12,2.03791E+13,31.99,0,0,31.99,0,1.6,33.59,1
+United States,New Jersey,West Orange,,Custom Snuggie Reorder - West Orange Animal Hospital,L,2025-03-25,United States,New Jersey,West Orange,6.93786E+12,order,Returning,,,FALSE,1,6.27643E+12,2.03836E+13,299.9,0,0,299.9,0,0,299.9,10
+United States,New Jersey,West Orange,,Custom Snuggie Reorder - West Orange Animal Hospital,S,2025-03-25,United States,New Jersey,West Orange,6.93786E+12,order,Returning,,,FALSE,1,6.27643E+12,2.03836E+13,85.68,0,0,85.68,0,0,85.68,4
+Canada,Alberta,Edmonton,,"High Top Boots ""Stay-On"" Technology",M|6,2025-03-25,Canada,Alberta,Edmonton,7.76384E+12,order,Returning,,,FALSE,1,6.27622E+12,2.03829E+13,57.5,0,0,57.5,0,2.88,60.38,1
+United States,New Jersey,West Orange,,Custom Snuggie Reorder - West Orange Animal Hospital,M2,2025-03-25,United States,New Jersey,West Orange,6.93786E+12,order,Returning,,,FALSE,1,6.27643E+12,2.03836E+13,81.39,0,0,81.39,0,0,81.39,3
+United States,New Jersey,West Orange,,Custom Snuggie Reorder - West Orange Animal Hospital,M1,2025-03-25,United States,New Jersey,West Orange,6.93786E+12,order,Returning,,,FALSE,1,6.27643E+12,2.03836E+13,72.84,0,0,72.84,0,0,72.84,3
+United States,New Jersey,West Orange,,Custom Snuggie Reorder - West Orange Animal Hospital,XL,2025-03-25,United States,New Jersey,West Orange,6.93786E+12,order,Returning,,,FALSE,1,6.27643E+12,2.03836E+13,314.2,0,0,314.2,0,0,314.2,10
+Canada,Alberta,Edmonton,,,,2025-03-25,Canada,Alberta,Edmonton,,order,Returning,,,FALSE,1,6.27622E+12,2.03829E+13,0,0,0,0,0,0,0,0
+United States,New Jersey,West Orange,,,,2025-03-25,United States,New Jersey,West Orange,,order,Returning,,,FALSE,1,6.27643E+12,2.03836E+13,0,0,0,0,21.42,0,21.42,0
+Canada,Quebec,Shawinigan,,"High Top Boots ""Stay-On"" Technology",XXXS|2,2025-03-26,Canada,Quebec,Shawinigan,7.76384E+12,order,New,,,FALSE,1,6.27808E+12,2.03889E+13,51.5,0,0,51.5,0,2.58,54.08,1
+Canada,British Columbia,Victoria,,Know Brainer Balls x2,2 Balls,2025-03-26,Canada,British Columbia,Victoria,7.75958E+12,order,New,,,FALSE,1,6.27795E+12,2.03885E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,Quebec,Shawinigan,,,,2025-03-26,Canada,Quebec,Shawinigan,,order,New,,,FALSE,1,6.27808E+12,2.03889E+13,0,0,0,0,0,0,0,0
+Canada,British Columbia,Victoria,,,,2025-03-26,Canada,British Columbia,Victoria,,order,New,,,FALSE,1,6.27795E+12,2.03885E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,British Columbia,Lantzville,,,,2025-03-28,Canada,British Columbia,Lantzville,,order,Returning,,,FALSE,1,6.28108E+12,2.03984E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,British Columbia,Lantzville,,Know Brainer Balls x2,2 Balls,2025-03-28,Canada,British Columbia,Lantzville,7.75958E+12,order,Returning,,,FALSE,1,6.28108E+12,2.03984E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,Quebec,Shawinigan,,"High Top Boots ""Stay-On"" Technology",XXXS|2,2025-04-01,Canada,Quebec,Shawinigan,7.76384E+12,order,New,,,FALSE,1,6.27808E+12,2.04184E+13,51.5,0,0,51.5,0,2.58,54.08,0
+Canada,Manitoba,Winnipeg,,,,2025-04-04,Canada,Manitoba,Winnipeg,,order,New,,,FALSE,1,6.29251E+12,2.04347E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Manitoba,Winnipeg,,Know Brainer Balls x2,2 Balls,2025-04-04,Canada,Manitoba,Winnipeg,7.75958E+12,order,New,,,FALSE,1,6.29251E+12,2.04347E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,Quebec,Montcerf-Lytton,,,,2025-04-05,Canada,Quebec,Montcerf-Lytton,,order,New,,,FALSE,1,6.29375E+12,2.04386E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Quebec,Montcerf-Lytton,,Know Brainer Balls x2,2 Balls,2025-04-05,Canada,Quebec,Montcerf-Lytton,7.75958E+12,order,New,,,FALSE,1,6.29375E+12,2.04386E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,Quebec,Ste Anne Des Plaines,,Know Brainer Balls x2,2 Balls,2025-04-06,Canada,Quebec,Ste Anne Des Plaines,7.75958E+12,order,New,,,FALSE,1,6.29648E+12,2.04472E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,Quebec,Ste Anne Des Plaines,,,,2025-04-06,Canada,Quebec,Ste Anne Des Plaines,,order,New,,,FALSE,1,6.29648E+12,2.04472E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Ontario,Markham,,,,2025-04-08,Canada,Ontario,Markham,,order,New,,,FALSE,1,6.29881E+12,2.04551E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,Ontario,Markham,,,,2025-04-08,Canada,Ontario,Markham,,return,New,,,FALSE,1,6.29881E+12,2.04619E+13,0,0,-6.77,-6.77,0,0,-6.77,0
+Canada,Prince Edward Island,Morell,,Know Brainer Balls x2,2 Balls,2025-04-08,Canada,Prince Edward Island,Morell,7.75958E+12,order,New,,,FALSE,1,6.29965E+12,2.04581E+13,31.99,0,0,31.99,0,4.8,36.79,1
+Canada,Ontario,Markham,,Know Brainer Balls x2,2 Balls,2025-04-08,Canada,Ontario,Markham,7.75958E+12,return,New,,,FALSE,1,6.29881E+12,2.04559E+13,0,0,-31.99,-31.99,0,-4.16,-36.15,0
+Canada,Ontario,Markham,,,,2025-04-08,Canada,Ontario,Markham,,return,New,,,FALSE,1,6.29881E+12,2.04559E+13,0,0,36.15,36.15,0,0,36.15,0
+Canada,Ontario,Richmond Hill,,,,2025-04-08,Canada,Ontario,Richmond Hill,,order,New,,,FALSE,1,6.29863E+12,2.04544E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,Ontario,Markham,,,,2025-04-08,Canada,Ontario,Markham,,return,New,,,FALSE,1,6.29881E+12,2.04559E+13,0,0,6.77,6.77,0,0,6.77,0
+Canada,Ontario,Markham,,,,2025-04-08,Canada,Ontario,Markham,,return,New,,,FALSE,1,6.29881E+12,2.04559E+13,0,0,0,0,-5.99,-0.78,-6.77,0
+Canada,Ontario,Richmond Hill,,Know Brainer Balls x2,2 Balls,2025-04-08,Canada,Ontario,Richmond Hill,7.75958E+12,order,New,,,FALSE,1,6.29863E+12,2.04544E+13,31.99,0,0,31.99,0,4.16,36.15,1
+Canada,Ontario,Markham,,Know Brainer Balls x2,2 Balls,2025-04-08,Canada,Ontario,Markham,7.75958E+12,order,New,,,FALSE,1,6.29881E+12,2.04551E+13,31.99,0,0,31.99,0,4.16,36.15,1
+Canada,Prince Edward Island,Morell,,,,2025-04-08,Canada,Prince Edward Island,Morell,,order,New,,,FALSE,1,6.29965E+12,2.04581E+13,0,0,0,0,5.99,0.9,6.89,0
+Canada,Ontario,Markham,,,,2025-04-08,Canada,Ontario,Markham,,return,New,,,FALSE,1,6.29881E+12,2.04619E+13,0,0,-36.15,-36.15,0,0,-36.15,0
+Canada,Ontario,Orleans,,,,2025-04-10,Canada,Ontario,Orleans,,order,New,,,FALSE,1,6.30237E+12,2.04671E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,Ontario,Orleans,,Know Brainer Balls x2,2 Balls,2025-04-10,Canada,Ontario,Orleans,7.75958E+12,order,New,,,FALSE,1,6.30237E+12,2.04671E+13,31.99,0,0,31.99,0,4.16,36.15,1
+Canada,Ontario,Claremont,,"High Top Boots ""Stay-On"" Technology",XL|8,2025-04-11,Canada,Ontario,Claremont,7.76384E+12,return,New,,,FALSE,1,6.18862E+12,2.04712E+13,0,0,-110.7,-110.7,0,-14.39,-125.09,0
+Canada,Quebec,Montréal,,Know Brainer Balls x2,2 Balls,2025-04-11,Canada,Quebec,Montréal,7.75958E+12,order,New,,,FALSE,1,6.30407E+12,2.04727E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,Quebec,Montréal,,,,2025-04-11,Canada,Quebec,Montréal,,order,New,,,FALSE,1,6.30407E+12,2.04727E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Alberta,St. Albert,,,,2025-04-11,Canada,Alberta,St. Albert,,order,New,,,FALSE,1,6.30408E+12,2.04728E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Alberta,St. Albert,,Know Brainer Balls x2,2 Balls,2025-04-11,Canada,Alberta,St. Albert,7.75958E+12,order,New,,,FALSE,1,6.30408E+12,2.04728E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,Alberta,Edmonton,,,,2025-04-14,Canada,Alberta,Edmonton,,order,Returning,,,FALSE,1,6.30842E+12,2.04862E+13,0,0,0,0,0,0,0,0
+Canada,Alberta,Edmonton,,"High Top Boots ""Stay-On"" Technology",M|6,2025-04-14,Canada,Alberta,Edmonton,7.76384E+12,order,Returning,,,FALSE,1,6.30842E+12,2.04862E+13,57.5,0,0,57.5,0,2.88,60.38,1
+Canada,British Columbia,Victoria,,,,2025-04-15,Canada,British Columbia,Victoria,,order,New,,,FALSE,1,6.30992E+12,2.04912E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,British Columbia,Victoria,,Know Brainer Balls x2,2 Balls,2025-04-15,Canada,British Columbia,Victoria,7.75958E+12,order,New,,,FALSE,1,6.30992E+12,2.04912E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,Ontario,mississauga,,,,2025-04-21,Canada,Ontario,mississauga,,order,New,,,FALSE,1,6.31986E+12,2.05227E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,ACTON,,,,2025-04-21,Canada,Ontario,ACTON,,order,New,,,FALSE,1,6.31931E+12,2.0521E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,Ontario,mississauga,,Trench Coat,M2,2025-04-21,Canada,Ontario,mississauga,4.46952E+12,order,New,,,FALSE,1,6.31986E+12,2.05227E+13,55.49,-5.54,0,49.95,0,6.49,56.44,1
+Canada,Alberta,Sherwood Park,,Know Brainer Balls x2,2 Balls,2025-04-21,Canada,Alberta,Sherwood Park,7.75958E+12,order,New,,,FALSE,1,6.31891E+12,2.052E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,Alberta,Edmonton,,Know Brainer Balls x2,2 Balls,2025-04-21,Canada,Alberta,Edmonton,7.75958E+12,order,New,,,FALSE,1,6.31898E+12,2.05202E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,Alberta,Sherwood Park,,,,2025-04-21,Canada,Alberta,Sherwood Park,,order,New,,,FALSE,1,6.31891E+12,2.052E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Ontario,ACTON,,Know Brainer Balls x2,2 Balls,2025-04-21,Canada,Ontario,ACTON,7.75958E+12,order,New,,,FALSE,1,6.31931E+12,2.0521E+13,31.99,0,0,31.99,0,4.16,36.15,1
+Canada,Alberta,Edmonton,,,,2025-04-21,Canada,Alberta,Edmonton,,order,New,,,FALSE,1,6.31898E+12,2.05202E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Quebec,Roxton Falls,,,,2025-04-22,Canada,Quebec,Roxton Falls,,order,New,,,FALSE,1,6.32422E+12,2.05342E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Quebec,Roxton Falls,,Know Brainer Balls x2,2 Balls,2025-04-22,Canada,Quebec,Roxton Falls,7.75958E+12,order,New,,,FALSE,1,6.32422E+12,2.05342E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,Quebec,Grand-Remous,,"High Top Boots ""Stay-On"" Technology",XXL|9,2025-04-23,Canada,Quebec,Grand-Remous,7.76384E+12,return,New,,,FALSE,1,6.19432E+12,2.05421E+13,0,0,-63.5,-63.5,0,-3.18,-66.68,0
+Canada,Quebec,Grand-Remous,,,,2025-04-23,Canada,Quebec,Grand-Remous,,return,New,,,FALSE,1,6.19432E+12,2.05421E+13,0,0,66.68,66.68,0,0,66.68,0
+Canada,Quebec,Grand-Remous,,,,2025-04-23,Canada,Quebec,Grand-Remous,,return,New,,,FALSE,1,6.19432E+12,2.05523E+13,0,0,-66.68,-66.68,0,0,-66.68,0
+Canada,Ontario,Baysville,,Know Brainer Balls x2,2 Balls,2025-04-25,Canada,Ontario,Baysville,7.75958E+12,order,New,,,FALSE,1,6.33478E+12,2.05642E+13,31.99,0,0,31.99,0,4.16,36.15,1
+Canada,Ontario,Baysville,,,,2025-04-25,Canada,Ontario,Baysville,,order,New,,,FALSE,1,6.33478E+12,2.05642E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,Ontario,Toronto,,,,2025-04-26,Canada,Ontario,Toronto,,order,New,,,FALSE,1,6.33669E+12,2.05694E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,Ontario,Toronto,,Know Brainer Balls x2,2 Balls,2025-04-26,Canada,Ontario,Toronto,7.75958E+12,order,New,,,FALSE,1,6.33669E+12,2.05694E+13,31.99,0,0,31.99,0,4.16,36.15,1
+Canada,Ontario,Etobicoke,,,,2025-05-01,Canada,Ontario,Etobicoke,,order,New,,,FALSE,1,6.35154E+12,2.06139E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,Ontario,Etobicoke,,Know Brainer Balls x2,2 Balls,2025-05-01,Canada,Ontario,Etobicoke,7.75958E+12,order,New,,,FALSE,1,6.35154E+12,2.06139E+13,31.99,0,0,31.99,0,4.16,36.15,1
+Canada,British Columbia,Masset,,Know Brainer Balls x2,2 Balls,2025-05-02,Canada,British Columbia,Masset,7.75958E+12,order,New,,,FALSE,1,6.36079E+12,2.06464E+13,63.98,0,0,63.98,0,3.2,67.18,2
+Canada,Quebec,Arundel,,,,2025-05-02,Canada,Quebec,Arundel,,order,New,,,FALSE,1,6.35957E+12,2.06423E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Quebec,Arundel,,Know Brainer Balls x2,2 Balls,2025-05-02,Canada,Quebec,Arundel,7.75958E+12,order,New,,,FALSE,1,6.35957E+12,2.06423E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,British Columbia,Masset,,,,2025-05-02,Canada,British Columbia,Masset,,order,New,,,FALSE,1,6.36079E+12,2.06464E+13,0,0,0,0,0,0,0,0
+Canada,British Columbia,Christina Lake,,,,2025-05-04,Canada,British Columbia,Christina Lake,,order,New,,,FALSE,1,6.36747E+12,2.06678E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,British Columbia,Christina Lake,,Know Brainer Balls x2,2 Balls,2025-05-04,Canada,British Columbia,Christina Lake,7.75958E+12,order,New,,,FALSE,1,6.36747E+12,2.06678E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,Ontario,Ottawa,,Know Brainer Balls x2,2 Balls,2025-05-05,Canada,Ontario,Ottawa,7.75958E+12,order,New,,,FALSE,1,6.3707E+12,2.06797E+13,31.99,0,0,31.99,0,4.16,36.15,1
+Canada,Ontario,Tillsonburg,,,,2025-05-05,Canada,Ontario,Tillsonburg,,order,New,,,FALSE,1,6.3704E+12,2.06786E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,Ontario,Tillsonburg,,Know Brainer Balls x2,2 Balls,2025-05-05,Canada,Ontario,Tillsonburg,7.75958E+12,order,New,,,FALSE,1,6.3704E+12,2.06786E+13,31.99,0,0,31.99,0,4.16,36.15,1
+Canada,Ontario,Ottawa,,,,2025-05-05,Canada,Ontario,Ottawa,,order,New,,,FALSE,1,6.3707E+12,2.06797E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,Ontario,Toronto,,,,2025-05-06,Canada,Ontario,Toronto,,order,New,,,FALSE,1,6.37293E+12,2.06875E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,Ontario,Toronto,,,,2025-05-06,Canada,Ontario,Toronto,,order,New,,,FALSE,1,6.37354E+12,2.06898E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,British Columbia,Victoria,,Know Brainer Balls x2,2 Balls,2025-05-06,Canada,British Columbia,Victoria,7.75958E+12,order,New,,,FALSE,1,6.3736E+12,2.069E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,Ontario,Toronto,,Know Brainer Balls x2,2 Balls,2025-05-06,Canada,Ontario,Toronto,7.75958E+12,order,New,,,FALSE,1,6.37293E+12,2.06875E+13,31.99,0,0,31.99,0,4.16,36.15,1
+Canada,British Columbia,Victoria,,,,2025-05-06,Canada,British Columbia,Victoria,,order,New,,,FALSE,1,6.3736E+12,2.069E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Ontario,Toronto,,Know Brainer Balls x2,2 Balls,2025-05-06,Canada,Ontario,Toronto,7.75958E+12,order,New,,,FALSE,1,6.37354E+12,2.06898E+13,31.99,0,0,31.99,0,4.16,36.15,1
+Canada,Manitoba,Winnipeg,,Know Brainer Balls x2,2 Balls,2025-05-07,Canada,Manitoba,Winnipeg,7.75958E+12,order,New,,,FALSE,1,6.3764E+12,2.07007E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,Manitoba,Winnipeg,,,,2025-05-07,Canada,Manitoba,Winnipeg,,order,New,,,FALSE,1,6.3764E+12,2.07007E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Ontario,Toronto,,,,2025-05-08,Canada,Ontario,Toronto,,order,Returning,,,FALSE,1,6.37992E+12,2.07139E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,British Columbia,Gibsons,,Know Brainer Balls x2,2 Balls,2025-05-08,Canada,British Columbia,Gibsons,7.75958E+12,order,New,,,FALSE,1,6.37883E+12,2.07101E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,Ontario,Port Colborne,,,,2025-05-08,Canada,Ontario,Port Colborne,,order,New,,,FALSE,1,6.37951E+12,2.07125E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,Ontario,Toronto,,Know Brainer Balls x2,2 Balls,2025-05-08,Canada,Ontario,Toronto,7.75958E+12,order,Returning,,,FALSE,1,6.37992E+12,2.07139E+13,31.99,0,0,31.99,0,4.16,36.15,1
+Canada,British Columbia,Gibsons,,,,2025-05-08,Canada,British Columbia,Gibsons,,return,New,,,FALSE,1,6.37883E+12,2.07145E+13,0,0,0,0,-5.99,-0.3,-6.29,0
+Canada,British Columbia,Gibsons,,,,2025-05-08,Canada,British Columbia,Gibsons,,order,New,,,FALSE,1,6.37883E+12,2.07101E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Ontario,Port Colborne,,Know Brainer Balls x2,2 Balls,2025-05-08,Canada,Ontario,Port Colborne,7.75958E+12,order,New,,,FALSE,1,6.37951E+12,2.07125E+13,31.99,0,0,31.99,0,4.16,36.15,1
+Canada,Quebec,Lac Kenogami,,Medical Snuggie,L,2025-05-09,Canada,Quebec,Lac Kenogami,4.47367E+12,order,New,,,FALSE,1,6.38139E+12,2.07189E+13,60.99,0,0,60.99,0,3.05,64.04,1
+Canada,Quebec,Lac Kenogami,,Medical Snuggie,M2,2025-05-09,Canada,Quebec,Lac Kenogami,4.47367E+12,order,New,,,FALSE,1,6.38139E+12,2.07189E+13,57.99,0,0,57.99,0,2.9,60.89,1
+Canada,Quebec,Lac Kenogami,,,,2025-05-09,Canada,Quebec,Lac Kenogami,,order,New,,,FALSE,1,6.38139E+12,2.07189E+13,0,0,0,0,0,0,0,0
+Canada,Quebec,Lac-Saguay,,,,2025-05-14,Canada,Ontario,Burlington,,order,Returning,,,FALSE,1,6.39101E+12,2.07502E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,Quebec,Lac-Saguay,,Know Brainer Balls x2,2 Balls,2025-05-14,Canada,Ontario,Burlington,7.75958E+12,order,Returning,,,FALSE,1,6.39101E+12,2.07502E+13,31.99,0,0,31.99,0,4.16,36.15,1
+Canada,Quebec,Sainte-Adèle,,Know Brainer Balls x2,2 Balls,2025-05-15,Canada,Quebec,Sainte-Adèle,7.75958E+12,order,New,,,FALSE,1,6.39307E+12,2.0757E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,Quebec,Sainte-Adèle,,,,2025-05-15,Canada,Quebec,Sainte-Adèle,,order,New,,,FALSE,1,6.39307E+12,2.0757E+13,0,0,0,0,5.99,0.3,6.29,0
+United States,Washington,Seattle,,Know Brainer Balls x2,2 Balls,2025-05-17,United States,Washington,Seattle,7.75958E+12,order,New,,,FALSE,1,6.39881E+12,2.07735E+13,33.53,-7.14,0,26.39,0,0,26.39,1
+Canada,British Columbia,Delta,,Know Brainer Balls x2,2 Balls,2025-05-17,Canada,British Columbia,Delta,7.75958E+12,order,New,,,FALSE,1,6.3978E+12,2.07707E+13,31.99,0,0,31.99,0,1.6,33.59,1
+United States,Washington,Seattle,,,,2025-05-17,United States,Washington,Seattle,,order,New,,,FALSE,1,6.39881E+12,2.07735E+13,0,0,0,0,20.95,0,20.95,0
+Canada,British Columbia,Delta,,,,2025-05-17,Canada,British Columbia,Delta,,order,New,,,FALSE,1,6.3978E+12,2.07707E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Ontario,Pembroke,,Know Brainer Balls x2,2 Balls,2025-05-20,Canada,Ontario,Pembroke,7.75958E+12,order,New,,,FALSE,1,6.40462E+12,2.07899E+13,31.99,0,0,31.99,0,4.16,36.15,1
+Canada,Ontario,Pembroke,,,,2025-05-20,Canada,Ontario,Pembroke,,order,New,,,FALSE,1,6.40462E+12,2.07899E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,Yukon,Dawson,,,,2025-05-21,Canada,Yukon,Dawson,,order,New,,,FALSE,1,6.40707E+12,2.07972E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Yukon,Dawson,,Know Brainer Balls x2,2 Balls,2025-05-21,Canada,Yukon,Dawson,7.75958E+12,order,New,,,FALSE,1,6.40707E+12,2.07972E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,Ontario,Scarborough,,Trench Coat,XL,2025-05-22,Canada,Ontario,Scarborough,4.46952E+12,order,New,,,FALSE,1,6.41044E+12,2.0807E+13,59.99,0,0,59.99,0,7.8,67.79,1
+Canada,Ontario,Cambridge,,,,2025-05-22,Canada,Ontario,Cambridge,,order,Returning,,,FALSE,1,6.40952E+12,2.08043E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,Saskatchewan,Saskatoon,,Know Brainer Balls x2,2 Balls,2025-05-22,Canada,Saskatchewan,Saskatoon,7.75958E+12,order,New,,,FALSE,1,6.41053E+12,2.08072E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,Saskatchewan,Saskatoon,,,,2025-05-22,Canada,Saskatchewan,Saskatoon,,order,New,,,FALSE,1,6.41053E+12,2.08072E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Ontario,Scarborough,,,,2025-05-22,Canada,Ontario,Scarborough,,order,New,,,FALSE,1,6.41044E+12,2.0807E+13,0,0,0,0,0,0,0,0
+Canada,Ontario,Cambridge,,Know Brainer Balls x2,2 Balls,2025-05-22,Canada,Ontario,Cambridge,7.75958E+12,order,Returning,,,FALSE,1,6.40952E+12,2.08043E+13,31.99,0,0,31.99,0,4.16,36.15,1
+Canada,Ontario,Mount Brydges,,Know Brainer Balls x2,2 Balls,2025-05-26,Canada,Ontario,Mount Brydges,7.75958E+12,order,New,,,FALSE,1,6.41977E+12,2.0835E+13,31.99,0,0,31.99,0,4.16,36.15,1
+Canada,British Columbia,NANAIMO,,Know Brainer Balls x2,2 Balls,2025-05-26,Canada,British Columbia,NANAIMO,7.75958E+12,order,New,,,FALSE,1,6.42027E+12,2.08367E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,British Columbia,Kamloops,,Trench Coat,S,2025-05-26,Canada,British Columbia,Kamloops,4.46952E+12,order,New,,,FALSE,1,6.42028E+12,2.08367E+13,40.19,-4.01,0,36.18,0,1.81,37.99,1
+Canada,British Columbia,NANAIMO,,,,2025-05-26,Canada,British Columbia,NANAIMO,,order,New,,,FALSE,1,6.42027E+12,2.08367E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Ontario,Mount Brydges,,,,2025-05-26,Canada,Ontario,Mount Brydges,,order,New,,,FALSE,1,6.41977E+12,2.0835E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,British Columbia,Kamloops,,,,2025-05-26,Canada,British Columbia,Kamloops,,order,New,,,FALSE,1,6.42028E+12,2.08367E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,Ontario,Toronto,,Know Brainer Balls x2,2 Balls,2025-05-29,Canada,Ontario,Toronto,7.75958E+12,order,New,,,FALSE,1,6.42589E+12,2.08532E+13,31.99,0,0,31.99,0,4.16,36.15,1
+Canada,Ontario,Toronto,,,,2025-05-29,Canada,Ontario,Toronto,,order,New,,,FALSE,1,6.42589E+12,2.08532E+13,0,0,0,0,5.99,0.78,6.77,0
+Canada,British Columbia,Victoria,,,,2025-05-30,Canada,British Columbia,Victoria,,order,New,,,FALSE,1,6.42857E+12,2.08612E+13,0,0,0,0,5.99,0.3,6.29,0
+Canada,British Columbia,Vancouver,,Know Brainer Balls x2,2 Balls,2025-05-30,Canada,British Columbia,Vancouver,7.75958E+12,order,New,,,FALSE,1,6.42823E+12,2.08602E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,British Columbia,Victoria,,Know Brainer Balls x2,2 Balls,2025-05-30,Canada,British Columbia,Victoria,7.75958E+12,order,New,,,FALSE,1,6.42857E+12,2.08612E+13,31.99,0,0,31.99,0,1.6,33.59,1
+Canada,British Columbia,Vancouver,,,,2025-05-30,Canada,British Columbia,Vancouver,,order,New,,,FALSE,1,6.42823E+12,2.08602E+13,0,0,0,0,5.99,0.3,6.29,0
